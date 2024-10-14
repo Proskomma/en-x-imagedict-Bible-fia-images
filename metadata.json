@@ -1,0 +1,6025 @@
+{
+  "format": "scripture burrito",
+  "meta": {
+    "version": "1.0.0",
+    "category": "source",
+    "generator": {
+      "softwareName": "Aquifer Git Exporter",
+      "softwareVersion": "0.0.1"
+    },
+    "defaultLocale": "en",
+    "dateCreated": "2024-08-08T17:39:50+02:00",
+    "normalization": "NFC"
+  },
+  "idAuthorities": {
+    "scribe": {
+      "id": "http://www.scribe.bible",
+      "name": {
+        "en": "Scribe application"
+      }
+    },
+    "aquifer": {
+      "id": "http://aquifer.bible",
+      "name": {
+        "en": "Bible Aquifer"
+      }
+    }
+  },
+  "identification": {
+    "primary": {
+      "github": {
+        "dacf07f0-8726-11ef-9105-2bae524fcd97": {
+          "revision": "1",
+          "timestamp": "2024-08-08T17:39:50+02:00"
+        }
+      }
+    },
+    "name": {
+      "en": "FIA Images",
+      "fr": "Images FIA"
+    },
+    "abbreviation": {
+      "en": "FIAI"
+    }
+  },
+  "confidential": false,
+  "languages": [
+    {
+      "tag": "fr",
+      "name": {
+        "en": "English"
+      },
+      "scriptDirection": "ltr"
+    }
+  ],
+  "type": {
+    "flavorType": {
+      "name": "peripheral",
+      "flavor": {
+        "name": "x-imagedict"
+      }
+    }
+  },
+  "copyright": {
+    "licenses": [
+      {
+        "ingredient": "license.md"
+      }
+    ]
+  },
+  "localizedNames": {},
+  "ingredients": {
+    "LICENSE.md": {
+      "checksum": {
+        "md5": "3c2f848e6aaf41409b90e2b9198550da"
+      },
+      "mimeType": "text/markdown",
+      "size": 1309,
+      "scope": {}
+    },
+    "a/adult-donkey-front.jpg": {
+      "checksum": {
+        "md5": "301ad1f0af687b336c7689d058f0ddd2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31928,
+      "scope": {}
+    },
+    "a/adult-donkey-side.jpg": {
+      "checksum": {
+        "md5": "1e162d5a80b0a367c210c8b563afdc98"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41093,
+      "scope": {}
+    },
+    "a/alabaster-jar-close.jpg": {
+      "checksum": {
+        "md5": "9b6d86355329f6a85e4b1302e078c1be"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29251,
+      "scope": {}
+    },
+    "a/alabaster-jar.jpg": {
+      "checksum": {
+        "md5": "21426d38a9c279d5dd434ffd538ddccd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36701,
+      "scope": {}
+    },
+    "a/altar-incense-utensils.jpg": {
+      "checksum": {
+        "md5": "9660053434531232fa3a5f1bfef18bc4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34981,
+      "scope": {}
+    },
+    "a/altar-incense.jpg": {
+      "checksum": {
+        "md5": "e8426168d45a750457076b16f9e88ec4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27646,
+      "scope": {}
+    },
+    "a/altar-soil-view.jpg": {
+      "checksum": {
+        "md5": "595a6e0e3e4d7ca006136be3528746e4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34464,
+      "scope": {}
+    },
+    "a/altar-soil.jpg": {
+      "checksum": {
+        "md5": "64c09e9499277767f7c067803db66105"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22229,
+      "scope": {}
+    },
+    "a/altar-unknown-god-view.jpg": {
+      "checksum": {
+        "md5": "58aee4dfe55265b06974621bb26d543f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32739,
+      "scope": {}
+    },
+    "a/altar-unknown-god.jpg": {
+      "checksum": {
+        "md5": "f8c2be90c966af102b7811ca7da9081e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22166,
+      "scope": {}
+    },
+    "a/animal-crouching-lying.jpg": {
+      "checksum": {
+        "md5": "de1d0d87c3b4c2401099a3ef7895f2a9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37278,
+      "scope": {}
+    },
+    "a/animal-trap-full.jpg": {
+      "checksum": {
+        "md5": "2289b43f9ae60334e957d9d938dbdfb0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36852,
+      "scope": {}
+    },
+    "a/animal-trap-outdoor.jpg": {
+      "checksum": {
+        "md5": "03454145d2f763914e22842497e7516f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 56342,
+      "scope": {}
+    },
+    "a/animal-trap.jpg": {
+      "checksum": {
+        "md5": "b0057bbd453721938abfd2abc355576d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36211,
+      "scope": {}
+    },
+    "a/antioch-modern-bridge.jpg": {
+      "checksum": {
+        "md5": "13d652d3ebfd6722806e33a18fdb774f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24405,
+      "scope": {}
+    },
+    "a/antioch-modern-elevated.jpg": {
+      "checksum": {
+        "md5": "671def9f46aa7a4e14775ba9ae648e20"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36438,
+      "scope": {}
+    },
+    "a/antioch-modern.jpg": {
+      "checksum": {
+        "md5": "001c921ef6052f6764bf0cf1014aba6c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29445,
+      "scope": {}
+    },
+    "a/antioch-ruins-circular.jpg": {
+      "checksum": {
+        "md5": "66eceddcd0a9d62ba0a9b36845fa44d3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36611,
+      "scope": {}
+    },
+    "a/antioch-ruins-close.jpg": {
+      "checksum": {
+        "md5": "4a9c3dec174c16e31338e6f3c357d13c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36837,
+      "scope": {}
+    },
+    "a/antioch-ruins.jpg": {
+      "checksum": {
+        "md5": "3b03c6833bfe4e4d26339be8c2000816"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33238,
+      "scope": {}
+    },
+    "a/ark-noah-close.jpg": {
+      "checksum": {
+        "md5": "4a1cd3405b70877ca6fcc003e0e3560e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38747,
+      "scope": {}
+    },
+    "a/ark-noah-medium.jpg": {
+      "checksum": {
+        "md5": "90080cb7ade3942964051e9006907f5c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33223,
+      "scope": {}
+    },
+    "a/ark-noah-wide.jpg": {
+      "checksum": {
+        "md5": "be2e23c231addc69f7f5f393013b7c75"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30603,
+      "scope": {}
+    },
+    "a/ashes-wide.jpg": {
+      "checksum": {
+        "md5": "96e0dde3b104edde909ecde62b7b5394"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30529,
+      "scope": {}
+    },
+    "a/ashes.jpg": {
+      "checksum": {
+        "md5": "f206823eba1a877c8ba863bc79f59abd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32968,
+      "scope": {}
+    },
+    "a/assarium-coin-close.jpg": {
+      "checksum": {
+        "md5": "cd5e714befabbd686c59b8f1b14f857a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31113,
+      "scope": {}
+    },
+    "a/assarium-coin-wide.jpg": {
+      "checksum": {
+        "md5": "9dedc6a2801e297e622cc059a0a26601"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32575,
+      "scope": {}
+    },
+    "a/awl-closeup.jpg": {
+      "checksum": {
+        "md5": "187f120237ead38a95e2db13627389f1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20328,
+      "scope": {}
+    },
+    "a/awl.jpg": {
+      "checksum": {
+        "md5": "da9cab2d20b3be96308abb545deb292b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20840,
+      "scope": {}
+    },
+    "a/axe-wide.jpg": {
+      "checksum": {
+        "md5": "82417b450117cd9fb50229eedff8e19b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34095,
+      "scope": {}
+    },
+    "a/axe.jpg": {
+      "checksum": {
+        "md5": "1238b85eb87081256e5b1c62e6c6cc95"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33355,
+      "scope": {}
+    },
+    "b/barley-close.jpg": {
+      "checksum": {
+        "md5": "3c1cc87683dd09a269f06adcde3b93bb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21540,
+      "scope": {}
+    },
+    "b/barley-head.jpg": {
+      "checksum": {
+        "md5": "85413c8d9f9f94f48d59a9cc94ab3e2d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28230,
+      "scope": {}
+    },
+    "b/barley-wide.jpg": {
+      "checksum": {
+        "md5": "7b51b00586f49c3a7b7518cf664a43e1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35817,
+      "scope": {}
+    },
+    "b/barn-external.jpg": {
+      "checksum": {
+        "md5": "957c5f9f800c0b9411ed4b1eb65681f9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29259,
+      "scope": {}
+    },
+    "b/barn-internal.jpg": {
+      "checksum": {
+        "md5": "48eb1d48f950a3250a6d198fe6c76590"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30386,
+      "scope": {}
+    },
+    "b/basket-as-bushel.jpg": {
+      "checksum": {
+        "md5": "da88341329fc669a128f7ffa10cd0c9f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29406,
+      "scope": {}
+    },
+    "b/basket-bushel-wide.jpg": {
+      "checksum": {
+        "md5": "e0234b5fad42fe5297b0c25078af93da"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35358,
+      "scope": {}
+    },
+    "b/basket-pastries-close.jpg": {
+      "checksum": {
+        "md5": "8cca58f93ebcef86b2b80207acf625a2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24981,
+      "scope": {}
+    },
+    "b/basket-pastries-holding.jpg": {
+      "checksum": {
+        "md5": "aa9e046d3f159468bf31414889240b4e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29154,
+      "scope": {}
+    },
+    "b/basket-pastries.jpg": {
+      "checksum": {
+        "md5": "e56af843afb6311c63651b4410a3f225"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29574,
+      "scope": {}
+    },
+    "b/basket-provisions-back.jpg": {
+      "checksum": {
+        "md5": "10766477744fec1aed4aca72541ff3b0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32656,
+      "scope": {}
+    },
+    "b/basket-provisions-close.jpg": {
+      "checksum": {
+        "md5": "4f0ffc3124e4d438b8b5eedc6a379880"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36713,
+      "scope": {}
+    },
+    "b/basket-provisions-full.jpg": {
+      "checksum": {
+        "md5": "0b9b8452d0448f79dd6dbd9da1534dc2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33456,
+      "scope": {}
+    },
+    "b/bed-wooden-frame.jpg": {
+      "checksum": {
+        "md5": "61e5d5e738979cbc497372edc2a56fdf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25280,
+      "scope": {}
+    },
+    "b/belt-wide.jpg": {
+      "checksum": {
+        "md5": "2a93eb85257502af3108f87e8c91cf02"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25937,
+      "scope": {}
+    },
+    "b/bird-nest-close.jpg": {
+      "checksum": {
+        "md5": "6a871654a400d39c3ff269be6023d9e8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 54396,
+      "scope": {}
+    },
+    "b/bird-nest-full.jpg": {
+      "checksum": {
+        "md5": "cf6e7bae6ebf4ab48b2e7386308832de"
+      },
+      "mimeType": "image/jpeg",
+      "size": 60633,
+      "scope": {}
+    },
+    "b/bird-sparrow-close.jpg": {
+      "checksum": {
+        "md5": "daa5bc74fc30a7ff24e9213da8b466f9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18926,
+      "scope": {}
+    },
+    "b/bird-sparrow-group.jpg": {
+      "checksum": {
+        "md5": "62350c0cee9b4ecb3ee119b30f57e5ff"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17801,
+      "scope": {}
+    },
+    "b/bird-sparrow-wide.jpg": {
+      "checksum": {
+        "md5": "4fcd4c5c0122f95fb39a72857ae59b3e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13531,
+      "scope": {}
+    },
+    "b/bitter-herbs-wide.jpg": {
+      "checksum": {
+        "md5": "fc910cfd6465e7ce30136be5795b7878"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40027,
+      "scope": {}
+    },
+    "b/bitter-herbs.jpg": {
+      "checksum": {
+        "md5": "2d272162e3b83add45a94d85e6cecf01"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25609,
+      "scope": {}
+    },
+    "b/boat.jpg": {
+      "checksum": {
+        "md5": "b8a7b042ce19e09367105debcd475c4d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 12310,
+      "scope": {}
+    },
+    "b/bow-and-arrow.jpg": {
+      "checksum": {
+        "md5": "e1ca51326af4c4b5dc77d2bea605d210"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17898,
+      "scope": {}
+    },
+    "b/bow-arrow-detail.jpg": {
+      "checksum": {
+        "md5": "18902ed5e12a864d4967ea9f41557312"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34007,
+      "scope": {}
+    },
+    "b/bow-arrow-wide.jpg": {
+      "checksum": {
+        "md5": "0ce4568934c46a8b458cdb0c6ed00ef7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34480,
+      "scope": {}
+    },
+    "b/bowing-ground.jpg": {
+      "checksum": {
+        "md5": "9a1ae78970300db3d6e2db53df6ba8aa"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18148,
+      "scope": {}
+    },
+    "b/bowl-kneading-close.jpg": {
+      "checksum": {
+        "md5": "6f0fbd0253bd22d6b19e7178a4a67494"
+      },
+      "mimeType": "image/jpeg",
+      "size": 12975,
+      "scope": {}
+    },
+    "b/bowl-kneading-size.jpg": {
+      "checksum": {
+        "md5": "b34761198fa3bf6478e4350b1ba2b6b8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9898,
+      "scope": {}
+    },
+    "b/bowl-kneading.jpg": {
+      "checksum": {
+        "md5": "b766843c08ecb6882143be71a55f38bf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26958,
+      "scope": {}
+    },
+    "b/branch-hyssop-close.jpg": {
+      "checksum": {
+        "md5": "61fbdf57fa24e99886ce21cc9560673e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24136,
+      "scope": {}
+    },
+    "b/branch-hyssop.jpg": {
+      "checksum": {
+        "md5": "c0bceec94040e537d7922595394fd13d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39055,
+      "scope": {}
+    },
+    "b/brand-view.jpg": {
+      "checksum": {
+        "md5": "11bf499b90286f81e469ed1b06fa18cd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17863,
+      "scope": {}
+    },
+    "b/brand.jpg": {
+      "checksum": {
+        "md5": "3df2d1610bcf6332080af641d6951e95"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26285,
+      "scope": {}
+    },
+    "b/bread-close.jpg": {
+      "checksum": {
+        "md5": "b3b269c55959f804ad24a6aba69cb751"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26012,
+      "scope": {}
+    },
+    "b/bread-dough-rising.jpg": {
+      "checksum": {
+        "md5": "95f68aa6cba824ad8394a999e38164e5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13674,
+      "scope": {}
+    },
+    "b/bread-of-presence.jpg": {
+      "checksum": {
+        "md5": "5fcace8f02c7de2bbf0ca55f3d42ea09"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29997,
+      "scope": {}
+    },
+    "b/bread-presence.jpg": {
+      "checksum": {
+        "md5": "efeeefddb7c8cc6b3f1183f3ca653af1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24176,
+      "scope": {}
+    },
+    "b/bread.jpg": {
+      "checksum": {
+        "md5": "c434c32a3be857391fa6a69801136d0b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40628,
+      "scope": {}
+    },
+    "b/broken-pottery-close.jpg": {
+      "checksum": {
+        "md5": "f4fa37a7fc0dcb207eb99a087245e1dd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35320,
+      "scope": {}
+    },
+    "b/broken-pottery-full.jpg": {
+      "checksum": {
+        "md5": "69ba9837fd084ba4907f6392289092ea"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39460,
+      "scope": {}
+    },
+    "b/bull.jpg": {
+      "checksum": {
+        "md5": "a7658694c09111fc0e66e4eceaa36ce4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39746,
+      "scope": {}
+    },
+    "c/caiaphas-house-courtyard.jpg": {
+      "checksum": {
+        "md5": "9c740f23667d43edf84d099d3539cda6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25987,
+      "scope": {}
+    },
+    "c/camel-hair-cloak.jpg": {
+      "checksum": {
+        "md5": "95b4e4af094e6a6aacd2ca43be2b7bd5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28568,
+      "scope": {}
+    },
+    "c/camel-hair-close.jpg": {
+      "checksum": {
+        "md5": "45d003251ffb9c623fb2293d87c2fb0e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21943,
+      "scope": {}
+    },
+    "c/camel-young-one.jpg": {
+      "checksum": {
+        "md5": "002b86acceb0cc2c196f60e59f0b938a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24907,
+      "scope": {}
+    },
+    "c/camel-young-two.jpg": {
+      "checksum": {
+        "md5": "ea68f85ae2d012009c66235feeb7a405"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43190,
+      "scope": {}
+    },
+    "c/camel.jpg": {
+      "checksum": {
+        "md5": "9fe02955c5fa03b2b87f3ca338ff3671"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27744,
+      "scope": {}
+    },
+    "c/cane-spice-close.jpg": {
+      "checksum": {
+        "md5": "48778897b05f93ac12230522baa1156b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24034,
+      "scope": {}
+    },
+    "c/cane-spice.jpg": {
+      "checksum": {
+        "md5": "03b079737a87a16ed87efa1c16912005"
+      },
+      "mimeType": "image/jpeg",
+      "size": 61923,
+      "scope": {}
+    },
+    "c/cane-spiced-root.jpg": {
+      "checksum": {
+        "md5": "2cd54c02cd19839d08a2ecb424302b91"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41074,
+      "scope": {}
+    },
+    "c/capernaum-synagogue-ruins.jpg": {
+      "checksum": {
+        "md5": "c8172fffc51316440b42663917008a54"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30932,
+      "scope": {}
+    },
+    "c/capernaum-synagogue.jpg": {
+      "checksum": {
+        "md5": "cbe19c03839cb74e85d35756c9f89292"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32712,
+      "scope": {}
+    },
+    "c/carnelian-sardius-rubies.jpg": {
+      "checksum": {
+        "md5": "2fce5f48b76f5ffc655d88c469c336a5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36178,
+      "scope": {}
+    },
+    "c/carnelian-sardius-ruby.jpg": {
+      "checksum": {
+        "md5": "0bacc3a8c5da093838e9f9c56c87c001"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24820,
+      "scope": {}
+    },
+    "c/carnelians-sardius-ruby.jpg": {
+      "checksum": {
+        "md5": "528b5de2e5bba4dffa08ed8b38292983"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20193,
+      "scope": {}
+    },
+    "c/cave-wide.jpg": {
+      "checksum": {
+        "md5": "4521302d12dc32679ddd937161c3f899"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24553,
+      "scope": {}
+    },
+    "c/cave.jpg": {
+      "checksum": {
+        "md5": "2a6bb4e969a70660174652d0ce97d78a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16059,
+      "scope": {}
+    },
+    "c/censer-bronze.jpg": {
+      "checksum": {
+        "md5": "398019793e3c41c17231ef717085e1f9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 53760,
+      "scope": {}
+    },
+    "c/censer-people.jpg": {
+      "checksum": {
+        "md5": "c0c6f611ebb82051967798fb489aa227"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29215,
+      "scope": {}
+    },
+    "c/censer.jpg": {
+      "checksum": {
+        "md5": "9ca67abadeac898242c75546fa297d0b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35529,
+      "scope": {}
+    },
+    "c/centurion-close-up.jpg": {
+      "checksum": {
+        "md5": "31724cf01e40a7205e18da45825f47d5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27606,
+      "scope": {}
+    },
+    "c/centurion.jpg": {
+      "checksum": {
+        "md5": "b808d2b0b064dabdd9c15baf2c22c5cc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24840,
+      "scope": {}
+    },
+    "c/chain-egypt.jpg": {
+      "checksum": {
+        "md5": "b487fa001ce0b3918757499204fc337f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30625,
+      "scope": {}
+    },
+    "c/chain-gold-egypt.jpg": {
+      "checksum": {
+        "md5": "97748af22916b436877575cd2a7e254d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22601,
+      "scope": {}
+    },
+    "c/chains-wide.jpg": {
+      "checksum": {
+        "md5": "ef3a676217414ac3545e1521b2d484f2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32954,
+      "scope": {}
+    },
+    "c/chains.jpg": {
+      "checksum": {
+        "md5": "46adddfae2cae9390b49911385c512d1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27379,
+      "scope": {}
+    },
+    "c/chariot-close.jpg": {
+      "checksum": {
+        "md5": "07d973ecb929cab05b59c2de1b98db26"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43089,
+      "scope": {}
+    },
+    "c/chariot.jpg": {
+      "checksum": {
+        "md5": "667f5e1d5956afbc23a532dab52d277e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37278,
+      "scope": {}
+    },
+    "c/chasm-medium.jpg": {
+      "checksum": {
+        "md5": "62af3572814a8858b427c0f103bd5459"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34288,
+      "scope": {}
+    },
+    "c/chasm-super-wide.jpg": {
+      "checksum": {
+        "md5": "576dc0eb58f93305220fec1d7e53a514"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21214,
+      "scope": {}
+    },
+    "c/chasm-wide.jpg": {
+      "checksum": {
+        "md5": "1fb74f86d808a117d4c409900ae70a89"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22502,
+      "scope": {}
+    },
+    "c/chrysolite-topaz-green.jpg": {
+      "checksum": {
+        "md5": "a32a194a5e9469fd3638b6e155fb59b3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27181,
+      "scope": {}
+    },
+    "c/chrysolite-topaz-yellow.jpg": {
+      "checksum": {
+        "md5": "c2f72fec0516b77193cd513e57ff9ff8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31759,
+      "scope": {}
+    },
+    "c/cinnamon-ground-bowl.jpg": {
+      "checksum": {
+        "md5": "0656e6f078434f61d00622be4e4cac40"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14241,
+      "scope": {}
+    },
+    "c/cinnamon-ground.jpg": {
+      "checksum": {
+        "md5": "c43cbea731f4e4984071b90e15155139"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13515,
+      "scope": {}
+    },
+    "c/cistern.jpg": {
+      "checksum": {
+        "md5": "d527f591d0574eaf2963b60c8d5f74ba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38495,
+      "scope": {}
+    },
+    "c/city-wall-model.jpg": {
+      "checksum": {
+        "md5": "3c4325eb3848a3b9cb689ceb924d836d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21694,
+      "scope": {}
+    },
+    "c/city-wall-wide.jpg": {
+      "checksum": {
+        "md5": "28ce012074aa524c18f9e5f68e5b27f5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38670,
+      "scope": {}
+    },
+    "c/city-walled-model.jpg": {
+      "checksum": {
+        "md5": "6bb54e1e4507715a8807c24644b3fe8d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31758,
+      "scope": {}
+    },
+    "c/city-walled-outside.jpg": {
+      "checksum": {
+        "md5": "bdacaf5990f7f3c0efb1337b9c28ed36"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24470,
+      "scope": {}
+    },
+    "c/clasp-bronze-view.jpg": {
+      "checksum": {
+        "md5": "e15147a5c2acda3da7c827ca1c0ea0e1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 10117,
+      "scope": {}
+    },
+    "c/clasp-bronze.jpg": {
+      "checksum": {
+        "md5": "4a05be1365c5dde38666222c018d1a7c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9669,
+      "scope": {}
+    },
+    "c/clasp-gold-view.jpg": {
+      "checksum": {
+        "md5": "02f6265d4c02c81ba94a50b91bef19b5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26143,
+      "scope": {}
+    },
+    "c/clasp-gold.jpg": {
+      "checksum": {
+        "md5": "95a8f6d980b17e96a496786b635f568b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25506,
+      "scope": {}
+    },
+    "c/cliffs-ultra-wide.jpg": {
+      "checksum": {
+        "md5": "b5ad756d85a15ee62078dedb82717051"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32134,
+      "scope": {}
+    },
+    "c/cliffs-white-one.jpg": {
+      "checksum": {
+        "md5": "c2979a34cc3aa9805459776fb3445bcf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28108,
+      "scope": {}
+    },
+    "c/cliffs-white-three.jpg": {
+      "checksum": {
+        "md5": "fe440b117738620adf9ec28f550b60c5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36967,
+      "scope": {}
+    },
+    "c/cliffs-wide.jpg": {
+      "checksum": {
+        "md5": "53052f4ad242fc2581bf0240b8363249"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32096,
+      "scope": {}
+    },
+    "c/cloak-outer-garment.jpg": {
+      "checksum": {
+        "md5": "efad13d4c17b9702f8cff15da29e8d8a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24098,
+      "scope": {}
+    },
+    "c/cloud-landscape.jpg": {
+      "checksum": {
+        "md5": "4f9a86f046be1fa761435844fc8bc47e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19184,
+      "scope": {}
+    },
+    "c/cloud-sky.jpg": {
+      "checksum": {
+        "md5": "982b169e71ca53498aece4c64d0a9f04"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16855,
+      "scope": {}
+    },
+    "c/club-wide.jpg": {
+      "checksum": {
+        "md5": "32f92d73a0aca9178c21f489b4af467a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28214,
+      "scope": {}
+    },
+    "c/club.jpg": {
+      "checksum": {
+        "md5": "c470ba5b876522426ef9ee010b95113e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18746,
+      "scope": {}
+    },
+    "c/coast-view-one.jpg": {
+      "checksum": {
+        "md5": "9dd8cece61c3fb9b6e0364896608c5ae"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17758,
+      "scope": {}
+    },
+    "c/coast-view-three.jpg": {
+      "checksum": {
+        "md5": "af935d298f493cf8ea88f8b635f60d37"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36242,
+      "scope": {}
+    },
+    "c/coast-view-two.jpg": {
+      "checksum": {
+        "md5": "07dae731aea4af1c0dc75de6da1b7ccc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21215,
+      "scope": {}
+    },
+    "c/coffin.jpg": {
+      "checksum": {
+        "md5": "64186c7d8d89ec12411cf4832364435c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40350,
+      "scope": {}
+    },
+    "c/coins-close.jpg": {
+      "checksum": {
+        "md5": "87fef88af5975992162af0146940a227"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33334,
+      "scope": {}
+    },
+    "c/coins-wide.jpg": {
+      "checksum": {
+        "md5": "57134063820de1c473ff0db5fff4b467"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38017,
+      "scope": {}
+    },
+    "c/collar-egypt.jpg": {
+      "checksum": {
+        "md5": "66c094ae9e3254da9d3f44cbaaf9be5b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24499,
+      "scope": {}
+    },
+    "c/collar-gold-egypt.jpg": {
+      "checksum": {
+        "md5": "e0369107cbc601676c2769f1ea1c303e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19769,
+      "scope": {}
+    },
+    "c/colonnade-close.jpg": {
+      "checksum": {
+        "md5": "e7cd29b37d697b267706b4f544746e2e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11165,
+      "scope": {}
+    },
+    "c/colonnade-inside.jpg": {
+      "checksum": {
+        "md5": "0ca21e86b6925481781fbaa908e82f98"
+      },
+      "mimeType": "image/jpeg",
+      "size": 1379,
+      "scope": {}
+    },
+    "c/colonnade-outer.jpg": {
+      "checksum": {
+        "md5": "37a087abf5ab3a35a1b777086401b719"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33369,
+      "scope": {}
+    },
+    "c/colonnade-solomon.jpg": {
+      "checksum": {
+        "md5": "5cac859ec23c46fa4d0819ad37b5cb55"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21122,
+      "scope": {}
+    },
+    "c/container-coals.jpg": {
+      "checksum": {
+        "md5": "b3545e4227ac56a0ee79db6a26388e13"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22828,
+      "scope": {}
+    },
+    "c/container-glowing-coals-close.jpg": {
+      "checksum": {
+        "md5": "5f86dd382c954b38bf60f79b5e6703c4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14703,
+      "scope": {}
+    },
+    "c/container-glowing-coals-men.jpg": {
+      "checksum": {
+        "md5": "81f8b281e926ca12f067f3749768578b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23639,
+      "scope": {}
+    },
+    "c/container-glowing-coals.jpg": {
+      "checksum": {
+        "md5": "b2c56e183e4f896e00b52cdc34e96635"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15769,
+      "scope": {}
+    },
+    "c/cooked-fish.jpg": {
+      "checksum": {
+        "md5": "175bd1fa1dbd48a664a9583787fb7e8c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32058,
+      "scope": {}
+    },
+    "c/copper-coin-wide.jpg": {
+      "checksum": {
+        "md5": "7cf172ef9172fcd493fb2a5343711ae4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36937,
+      "scope": {}
+    },
+    "c/copper-coins.jpg": {
+      "checksum": {
+        "md5": "4e971e93e1dadfbe3723ff4f3fd22397"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27655,
+      "scope": {}
+    },
+    "c/cornerstone-mid.jpg": {
+      "checksum": {
+        "md5": "ad1652420a7b54e8458f9b42fd8f78c4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27462,
+      "scope": {}
+    },
+    "c/cornerstone-wide.jpg": {
+      "checksum": {
+        "md5": "15730ce69017530ed8a5c7cfcf233b2b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26059,
+      "scope": {}
+    },
+    "c/cornerstone.jpg": {
+      "checksum": {
+        "md5": "0d5ef47d0f1ddd1b8ff76fe127154f7f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26908,
+      "scope": {}
+    },
+    "c/cow-healthy-view.jpg": {
+      "checksum": {
+        "md5": "45788e6f18bfb576659d13cd778f7cdc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29641,
+      "scope": {}
+    },
+    "c/cow-healthy.jpg": {
+      "checksum": {
+        "md5": "559d07abb960aa8a116aad9534994c5d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38389,
+      "scope": {}
+    },
+    "c/cow-starving-view.jpg": {
+      "checksum": {
+        "md5": "315666c62bc192503d873bb89b356c11"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38586,
+      "scope": {}
+    },
+    "c/cow-starving.jpg": {
+      "checksum": {
+        "md5": "7ff7cb1b5910a2f344a211f6b34d8e60"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25180,
+      "scope": {}
+    },
+    "c/cows-yoked-close.jpg": {
+      "checksum": {
+        "md5": "959ebc7cf1bafd657b8b9adb9d0484ad"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33966,
+      "scope": {}
+    },
+    "c/cows-yoked-view.jpg": {
+      "checksum": {
+        "md5": "0b701c87389c98ca191e0f059cf5d226"
+      },
+      "mimeType": "image/jpeg",
+      "size": 51109,
+      "scope": {}
+    },
+    "c/cows-yoked.jpg": {
+      "checksum": {
+        "md5": "4348540eda7e5db09e54145b0ae98ada"
+      },
+      "mimeType": "image/jpeg",
+      "size": 47576,
+      "scope": {}
+    },
+    "c/cross-criminal.jpg": {
+      "checksum": {
+        "md5": "feb7e1be89f53afc7c5e349c0727439a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14249,
+      "scope": {}
+    },
+    "c/crucifixion.jpg": {
+      "checksum": {
+        "md5": "feb7e1be89f53afc7c5e349c0727439a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14249,
+      "scope": {}
+    },
+    "c/cucumber-close-up.jpg": {
+      "checksum": {
+        "md5": "04a7ff9678a1159608b7356f4bc357d4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30207,
+      "scope": {}
+    },
+    "c/cucumber-market.jpg": {
+      "checksum": {
+        "md5": "05db2f2a1b582dbd84c9f50d4646f692"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40666,
+      "scope": {}
+    },
+    "c/cucumber.jpg": {
+      "checksum": {
+        "md5": "8a460432a6d400d7700a6ba33a2b28a0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31607,
+      "scope": {}
+    },
+    "c/cup-bowl-close.jpg": {
+      "checksum": {
+        "md5": "f1000ca1d020ed452ce386f297b54158"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22722,
+      "scope": {}
+    },
+    "c/cup-bowl-full.jpg": {
+      "checksum": {
+        "md5": "5053bb6336384024530e2a04822ef811"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35922,
+      "scope": {}
+    },
+    "c/cup-divinatin-hand.jpg": {
+      "checksum": {
+        "md5": "fd216bc7d09723c5ebe716cc50ba9552"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13222,
+      "scope": {}
+    },
+    "c/cup-divination-close.jpg": {
+      "checksum": {
+        "md5": "783c4dd0ff4e96a38b56684ce3e11f72"
+      },
+      "mimeType": "image/jpeg",
+      "size": 12349,
+      "scope": {}
+    },
+    "c/cup-divination.jpg": {
+      "checksum": {
+        "md5": "b7c50f7a142b909ec0f24dff3b6fd400"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22598,
+      "scope": {}
+    },
+    "c/cylinder-seal-view.jpg": {
+      "checksum": {
+        "md5": "905bf0ff18bbac1ff871e79aad42e113"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14032,
+      "scope": {}
+    },
+    "c/cylinder-seal.jpg": {
+      "checksum": {
+        "md5": "983e5f4b8c854ffb3f46a9585b851c49"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9934,
+      "scope": {}
+    },
+    "d/deer-and-fawn.jpg": {
+      "checksum": {
+        "md5": "716cebf27881b2a450c7a4cd9ff3b41d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28970,
+      "scope": {}
+    },
+    "d/denarii-close.jpg": {
+      "checksum": {
+        "md5": "f06085277d29f37fe3253c1e80f5028e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29402,
+      "scope": {}
+    },
+    "d/denarii.jpg": {
+      "checksum": {
+        "md5": "dce8d7e28fd3106271951907be1d10ae"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46216,
+      "scope": {}
+    },
+    "d/diamond-moonstone-emerald.jpg": {
+      "checksum": {
+        "md5": "75aabeae8b44039407ff213e74457fd7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25266,
+      "scope": {}
+    },
+    "d/diamond-moonstone-emeralds.jpg": {
+      "checksum": {
+        "md5": "d41ef0e9d341671f0a91185eac11e55d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37590,
+      "scope": {}
+    },
+    "d/diamonds-moonstone-emerald.jpg": {
+      "checksum": {
+        "md5": "7c8d01230cb92f7ee6599019e76bb355"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32733,
+      "scope": {}
+    },
+    "d/dining-bench.jpg": {
+      "checksum": {
+        "md5": "eb18ebc2eb317d893a0c37f07b7f406b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35045,
+      "scope": {}
+    },
+    "d/dining-table-sitting.jpg": {
+      "checksum": {
+        "md5": "158b65ea7e65bbe153a770407a85d352"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26412,
+      "scope": {}
+    },
+    "d/dining-table-standing.jpg": {
+      "checksum": {
+        "md5": "e84a49ab12ca5d3d8828c8e3ae103fc8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22005,
+      "scope": {}
+    },
+    "d/diningbench.jpg": {
+      "checksum": {
+        "md5": "73ec5ea9073b729ee7476774a8cc88f3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34637,
+      "scope": {}
+    },
+    "d/diseased-hand.jpg": {
+      "checksum": {
+        "md5": "1a5f8409cf4d074da6c406239adb4d6e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34366,
+      "scope": {}
+    },
+    "d/dog-mangy.jpg": {
+      "checksum": {
+        "md5": "72eea7f988ebff2989a926e45a9da8bd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27713,
+      "scope": {}
+    },
+    "d/dogs-group.jpg": {
+      "checksum": {
+        "md5": "7a03dd21269bfcc0c8e64620b4a404ab"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32461,
+      "scope": {}
+    },
+    "d/dolphin-close-up.jpg": {
+      "checksum": {
+        "md5": "64900378279e9744b70c56671b209c0b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20968,
+      "scope": {}
+    },
+    "d/dolphin-pod.jpg": {
+      "checksum": {
+        "md5": "651ba7e3409d2cbf8c3f46aa29081ce8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18948,
+      "scope": {}
+    },
+    "d/donkey-laden-single.jpg": {
+      "checksum": {
+        "md5": "f4003d53cea3530ae02b2ef528786cde"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39512,
+      "scope": {}
+    },
+    "d/donkey-laden-view.jpg": {
+      "checksum": {
+        "md5": "658f18d7a14ee103e239a7717d97b406"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39401,
+      "scope": {}
+    },
+    "d/donkey-laden.jpg": {
+      "checksum": {
+        "md5": "52a3065d6c1e66e1e252622556417f07"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37272,
+      "scope": {}
+    },
+    "d/donkey-wild-close.jpg": {
+      "checksum": {
+        "md5": "1656a6e57efcf9d468212fa57014a137"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28025,
+      "scope": {}
+    },
+    "d/donkey-wild.jpg": {
+      "checksum": {
+        "md5": "9ecdbcff33daf022198b9b2d961f9b10"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29854,
+      "scope": {}
+    },
+    "d/dove-flying.jpg": {
+      "checksum": {
+        "md5": "38a4b20f92cf6a64e99537b0153637ba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18184,
+      "scope": {}
+    },
+    "d/dove.jpg": {
+      "checksum": {
+        "md5": "e4cf796688895f6c8ebe849d0f3ee3b0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26171,
+      "scope": {}
+    },
+    "d/drachma-closeup.jpg": {
+      "checksum": {
+        "md5": "2604c10bc110bc8dd6ae5a9ff107624e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39362,
+      "scope": {}
+    },
+    "d/drachma.jpg": {
+      "checksum": {
+        "md5": "dcbcf277a994bb27fdef971050c7eaef"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35219,
+      "scope": {}
+    },
+    "d/dry-river-valley.jpg": {
+      "checksum": {
+        "md5": "d2be3c1afb1099a9b52ee57cec648fc2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26692,
+      "scope": {}
+    },
+    "e/eagle-close-up.jpg": {
+      "checksum": {
+        "md5": "bb6c2aa9434ee3e1f2a9ff541293ab03"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22175,
+      "scope": {}
+    },
+    "e/eagle-wingspan.jpg": {
+      "checksum": {
+        "md5": "fe49277bd4cb112afc442b976be56b6a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 7796,
+      "scope": {}
+    },
+    "e/eagle.jpg": {
+      "checksum": {
+        "md5": "6f754cc68a87b6c201175f2a1cc68e3c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29447,
+      "scope": {}
+    },
+    "e/edge-of-cloak-tassels.jpg": {
+      "checksum": {
+        "md5": "ccc39f64613e852195db0c50691af24b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30751,
+      "scope": {}
+    },
+    "e/egyptian-cart.jpg": {
+      "checksum": {
+        "md5": "bf4e6c74924d7a98ddcc9735fbec07e2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37362,
+      "scope": {}
+    },
+    "e/embankment-masada.jpg": {
+      "checksum": {
+        "md5": "0496f13b29dc6a46a9bf2f4c5f9d5196"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20638,
+      "scope": {}
+    },
+    "e/embankment.jpg": {
+      "checksum": {
+        "md5": "935faf3959249111286f4ea7d235d51b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35117,
+      "scope": {}
+    },
+    "e/emerald-beryl-emerald.jpg": {
+      "checksum": {
+        "md5": "8a8c9307f411d72285be234891fa8719"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17532,
+      "scope": {}
+    },
+    "e/emerald-beryl-emeralds.jpg": {
+      "checksum": {
+        "md5": "ad46e61befe9e95a1fcd193bbfc8ecb8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21237,
+      "scope": {}
+    },
+    "e/eye-of-needle-close.jpg": {
+      "checksum": {
+        "md5": "fac6255de809fc1243ee05a0b9426741"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17494,
+      "scope": {}
+    },
+    "e/eye-of-needle-wide.jpg": {
+      "checksum": {
+        "md5": "a3f56640b8b565dced8bb13a6546ee2b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 50372,
+      "scope": {}
+    },
+    "e/eye-of-needle.jpg": {
+      "checksum": {
+        "md5": "37072ba57439a25a80a72f98db516417"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20838,
+      "scope": {}
+    },
+    "f/father-blessing-view.jpg": {
+      "checksum": {
+        "md5": "831df13338684e64847532091346daff"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26070,
+      "scope": {}
+    },
+    "f/father-blessing.jpg": {
+      "checksum": {
+        "md5": "84e6497cffe77ef242df3bfe25297c23"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24520,
+      "scope": {}
+    },
+    "f/fig.jpg": {
+      "checksum": {
+        "md5": "a896873a4d35fac08e1f5cc9f03eab60"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30813,
+      "scope": {}
+    },
+    "f/fire-pot.jpg": {
+      "checksum": {
+        "md5": "a8dcf140bc96788d78efdd03fdf34d8a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23471,
+      "scope": {}
+    },
+    "f/fish-man-holding.jpg": {
+      "checksum": {
+        "md5": "20ceafc177047378911921123962f113"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14537,
+      "scope": {}
+    },
+    "f/fish-scales-close.jpg": {
+      "checksum": {
+        "md5": "09a93278e5004459586b50b055ea6d09"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20492,
+      "scope": {}
+    },
+    "f/fishing-net.jpg": {
+      "checksum": {
+        "md5": "63ebd03c5a5eb7d0a7d4074735731016"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18998,
+      "scope": {}
+    },
+    "f/flood-small.jpg": {
+      "checksum": {
+        "md5": "5cf6f5da5b7f924a1bfe13f29fdc4845"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15253,
+      "scope": {}
+    },
+    "f/flour-fine-action.jpg": {
+      "checksum": {
+        "md5": "d038faa33d4393220a65a315ad4d2c1f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31037,
+      "scope": {}
+    },
+    "f/flour-fine-hands.jpg": {
+      "checksum": {
+        "md5": "d51e91264cab55213c226e3c675593ea"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40788,
+      "scope": {}
+    },
+    "f/flour-fine.jpg": {
+      "checksum": {
+        "md5": "6d8ac9646397719edd6b6453b0e510d6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34164,
+      "scope": {}
+    },
+    "f/flower-almond-close.jpg": {
+      "checksum": {
+        "md5": "c6a2d3d1a0d58f219d870859e63bced6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18093,
+      "scope": {}
+    },
+    "f/flower-almond-tree.jpg": {
+      "checksum": {
+        "md5": "a0978f3643f5801ff7a4b53bb2b2dc65"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40883,
+      "scope": {}
+    },
+    "f/flower-almond.jpg": {
+      "checksum": {
+        "md5": "ad2be1e7d785ef9aa79c9c57588276c7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27570,
+      "scope": {}
+    },
+    "f/flute-close-up.jpg": {
+      "checksum": {
+        "md5": "a45ecfd226ad6ddba95eb436ef4c8a08"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21148,
+      "scope": {}
+    },
+    "f/flute-playing.jpg": {
+      "checksum": {
+        "md5": "c7dc97f3b44da441fd71482f836a4c71"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32165,
+      "scope": {}
+    },
+    "f/flute.jpg": {
+      "checksum": {
+        "md5": "11a269f52f1b4eb9577ae436b07d41ed"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39795,
+      "scope": {}
+    },
+    "f/footstool-close.jpg": {
+      "checksum": {
+        "md5": "8fbaef2faffecd4bb4b891efe8a93749"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22764,
+      "scope": {}
+    },
+    "f/footstool-detail.jpg": {
+      "checksum": {
+        "md5": "d906ec00298e82e559f77994f8fd279d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21227,
+      "scope": {}
+    },
+    "f/footstool.jpg": {
+      "checksum": {
+        "md5": "8d814dfaf5f31b6e54d591ad199fb5e7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22915,
+      "scope": {}
+    },
+    "f/four-soils-good.jpg": {
+      "checksum": {
+        "md5": "eaa250c8ab1e6f10886f749c6329bb1a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33723,
+      "scope": {}
+    },
+    "f/four-soils-path.jpg": {
+      "checksum": {
+        "md5": "d4cc2c40407c1b333bb7f11496676176"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27876,
+      "scope": {}
+    },
+    "f/four-soils-rocky.jpg": {
+      "checksum": {
+        "md5": "881985e7e833fbb646b90ec98c02e55f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29662,
+      "scope": {}
+    },
+    "f/four-soils-thorns.jpg": {
+      "checksum": {
+        "md5": "5ac4e5190864e30cdf2ac8c6edffcef2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35864,
+      "scope": {}
+    },
+    "f/four-soils.jpg": {
+      "checksum": {
+        "md5": "c4ddc741224e4d65f54d7e29b7b9ec8e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34305,
+      "scope": {}
+    },
+    "f/fox-fennec-family.jpg": {
+      "checksum": {
+        "md5": "985f38b5e53e54c432e257d01dfd6521"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27583,
+      "scope": {}
+    },
+    "f/fox-fennec-holding.jpg": {
+      "checksum": {
+        "md5": "e8f2e7e6426b829e7dca180de045da73"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21252,
+      "scope": {}
+    },
+    "f/frog-green.jpg": {
+      "checksum": {
+        "md5": "95c2f0b48ecdd5a88e25117ef7b258f5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33407,
+      "scope": {}
+    },
+    "f/frog-man-holding.jpg": {
+      "checksum": {
+        "md5": "378084860ab68db85fe5e0df28c251af"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24292,
+      "scope": {}
+    },
+    "f/frog-tropical.jpg": {
+      "checksum": {
+        "md5": "e7f98fc0e2230a529e5d437c555338f8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17850,
+      "scope": {}
+    },
+    "f/fruit-close.jpg": {
+      "checksum": {
+        "md5": "f0b3e1eefa71e9720d2ad0f9de0a06a7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31912,
+      "scope": {}
+    },
+    "f/fruit-mid.jpg": {
+      "checksum": {
+        "md5": "0ea3e4477978881fc7a7f13cd1c63871"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41099,
+      "scope": {}
+    },
+    "f/fruit-wide.jpg": {
+      "checksum": {
+        "md5": "5ef2d05745aff77e711b760e91feff8a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 44486,
+      "scope": {}
+    },
+    "f/furnace-external.jpg": {
+      "checksum": {
+        "md5": "c5127919c99801eb12e53724c7e6f469"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31293,
+      "scope": {}
+    },
+    "f/furnace-internal.jpg": {
+      "checksum": {
+        "md5": "a826e8d4200b3e43fd9e3760e93e40e4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36997,
+      "scope": {}
+    },
+    "g/garden-gethsemane-path.jpg": {
+      "checksum": {
+        "md5": "f258b7b73d4decbf41166b3598a31125"
+      },
+      "mimeType": "image/jpeg",
+      "size": 56588,
+      "scope": {}
+    },
+    "g/garden-of-gethsemane.jpg": {
+      "checksum": {
+        "md5": "afc4c4f46984db7e0067905094ce462c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 59902,
+      "scope": {}
+    },
+    "g/garden-tomb.jpg": {
+      "checksum": {
+        "md5": "2559261f206497787468e55af71c2431"
+      },
+      "mimeType": "image/jpeg",
+      "size": 57455,
+      "scope": {}
+    },
+    "g/garlic-close-view.jpg": {
+      "checksum": {
+        "md5": "8251d990be2a6ed59eb5ceae993e9bb7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24163,
+      "scope": {}
+    },
+    "g/garlic-harvest.jpg": {
+      "checksum": {
+        "md5": "dfe6c829b7d97abe1e6365ed67348b8c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 45126,
+      "scope": {}
+    },
+    "g/garlic.jpg": {
+      "checksum": {
+        "md5": "3bcdd2c11bef778cf571e6290a5613f4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17303,
+      "scope": {}
+    },
+    "g/gate-roman-bridge.jpg": {
+      "checksum": {
+        "md5": "ec96ebbce44e771b1b08271cf10f2abf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34334,
+      "scope": {}
+    },
+    "g/gate-roman-wide.jpg": {
+      "checksum": {
+        "md5": "fd1ddd83497c2dc76c6de5dc8119d96e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32384,
+      "scope": {}
+    },
+    "g/gate-roman.jpg": {
+      "checksum": {
+        "md5": "e4619a7ae706f50e67f0e82fb49c1ccd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31145,
+      "scope": {}
+    },
+    "g/gate-town-close.jpg": {
+      "checksum": {
+        "md5": "4fc002a7c2e6709e269a790fef3e982a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19527,
+      "scope": {}
+    },
+    "g/gazelle-close-up.jpg": {
+      "checksum": {
+        "md5": "e737f30c23416aaf5f160b695a03e977"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24886,
+      "scope": {}
+    },
+    "g/gazelle-two.jpg": {
+      "checksum": {
+        "md5": "666e162b0f358573b00bac8e9b70c495"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33468,
+      "scope": {}
+    },
+    "g/gazelle.jpg": {
+      "checksum": {
+        "md5": "33af970327bfa5e661d5f8d63a58e19c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34334,
+      "scope": {}
+    },
+    "g/goat-baby-view.jpg": {
+      "checksum": {
+        "md5": "037e8db2627c10ed33f8336fcc8b154c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 58398,
+      "scope": {}
+    },
+    "g/goat-baby.jpg": {
+      "checksum": {
+        "md5": "06168626bb76e8a07eb69ebae722c841"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41133,
+      "scope": {}
+    },
+    "g/goat-feeding.jpg": {
+      "checksum": {
+        "md5": "023e11e05e1fdf4b6062babc76fda0b1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33799,
+      "scope": {}
+    },
+    "g/goat-hair-close.jpg": {
+      "checksum": {
+        "md5": "d015c2b8838dc6f68948711a2af550b7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31881,
+      "scope": {}
+    },
+    "g/goat-hair-tent.jpg": {
+      "checksum": {
+        "md5": "40ae9e5ccc6984e7411163fe999086ae"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26477,
+      "scope": {}
+    },
+    "g/goat-hair-weaving.jpg": {
+      "checksum": {
+        "md5": "57c1766b9907e3c97ff7edacce784814"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26357,
+      "scope": {}
+    },
+    "g/goat-skin-arm.jpg": {
+      "checksum": {
+        "md5": "8fb347ec8d0906cd53e38cd4137dacbe"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22905,
+      "scope": {}
+    },
+    "g/goat-skin-close.jpg": {
+      "checksum": {
+        "md5": "10a41005308fc134aadd36b44704c6c9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24051,
+      "scope": {}
+    },
+    "g/goat-skin.jpg": {
+      "checksum": {
+        "md5": "41a6be22b138968b995ce1ee585c3f73"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27794,
+      "scope": {}
+    },
+    "g/goat-wide.jpg": {
+      "checksum": {
+        "md5": "2f8f3488168e0fc9b28e54efbe16818d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33107,
+      "scope": {}
+    },
+    "g/goats-man.jpg": {
+      "checksum": {
+        "md5": "3dcf00ca3c307aa8cbcb9f0bec05b78e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34011,
+      "scope": {}
+    },
+    "g/goats-woman.jpg": {
+      "checksum": {
+        "md5": "8a460633bb898e81dc4efb13e19ce406"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38114,
+      "scope": {}
+    },
+    "g/gods-household-one.jpg": {
+      "checksum": {
+        "md5": "d28849fb3e3a10aa22ae5465557653f8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40248,
+      "scope": {}
+    },
+    "g/gods-household-three.jpg": {
+      "checksum": {
+        "md5": "eae8a28d596abffb3a6cc473abeeaaba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22899,
+      "scope": {}
+    },
+    "g/gods-household-two.jpg": {
+      "checksum": {
+        "md5": "8b5299d758d91717b59dee79e6858da9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14997,
+      "scope": {}
+    },
+    "g/gold-chain-view.jpg": {
+      "checksum": {
+        "md5": "0946c6607500f01754e6786dcf62026a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28483,
+      "scope": {}
+    },
+    "g/gold-chain.jpg": {
+      "checksum": {
+        "md5": "43b0e7fc6f77253e89e84192f711c701"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9276,
+      "scope": {}
+    },
+    "g/gold-cord-view.jpg": {
+      "checksum": {
+        "md5": "0f09ac655b8db886eb27ff1a50b3b717"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16675,
+      "scope": {}
+    },
+    "g/gold-cord.jpg": {
+      "checksum": {
+        "md5": "51d658d6072b1379259ecc3f7b5a29a8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14680,
+      "scope": {}
+    },
+    "g/gold-filigree-closeup.jpg": {
+      "checksum": {
+        "md5": "06c8a4bc844dc03e9687ca99c32aed2b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16977,
+      "scope": {}
+    },
+    "g/gold-filigree-view.jpg": {
+      "checksum": {
+        "md5": "4b21a9ba670ecb19efd57bf62fa12e8b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20550,
+      "scope": {}
+    },
+    "g/gold-filigree.jpg": {
+      "checksum": {
+        "md5": "7b90823d5a4cc9a1ac5c92c0980bb6ab"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30867,
+      "scope": {}
+    },
+    "g/grain-coarse-grinded.jpg": {
+      "checksum": {
+        "md5": "01233791cac060df5370a041bf32a4fc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37812,
+      "scope": {}
+    },
+    "g/grain-coarse-seed.jpg": {
+      "checksum": {
+        "md5": "0b1dfc0a7320ffbbd618e5adc28eb887"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20623,
+      "scope": {}
+    },
+    "g/grain-withered-farmer.jpg": {
+      "checksum": {
+        "md5": "ab8ce891f86f91daee45c24d6f6c6dd3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41748,
+      "scope": {}
+    },
+    "g/grain-withered-field.jpg": {
+      "checksum": {
+        "md5": "0a75845dab53e11513807ad895fdaddd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30357,
+      "scope": {}
+    },
+    "g/grapes-on-grapevine.jpg": {
+      "checksum": {
+        "md5": "6d2dc5277775230ac8fc3e4754fe8e91"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27713,
+      "scope": {}
+    },
+    "g/grapes-squeezed-hand-juice.jpg": {
+      "checksum": {
+        "md5": "ffd6ad5650c386641efb7df685e58bc0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23881,
+      "scope": {}
+    },
+    "g/grapes-squeezed-hand-wide.jpg": {
+      "checksum": {
+        "md5": "7baeb0a48569c6ba11a5ae3d7fb4753d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43174,
+      "scope": {}
+    },
+    "g/grass-marsh-close.jpg": {
+      "checksum": {
+        "md5": "41c4d8a60161f375793b2a88654f1783"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43710,
+      "scope": {}
+    },
+    "g/grass-marsh-view.jpg": {
+      "checksum": {
+        "md5": "60522a02f0b5caa2be5fed8ccaf065f5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36723,
+      "scope": {}
+    },
+    "g/grass-marsh.jpg": {
+      "checksum": {
+        "md5": "a174be9fa1936d159ad80ace882a383a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27590,
+      "scope": {}
+    },
+    "h/hail-falling-action.jpg": {
+      "checksum": {
+        "md5": "348b05545af1e25bbd2ce379f9b9100f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29722,
+      "scope": {}
+    },
+    "h/hail-falling-view.jpg": {
+      "checksum": {
+        "md5": "eb4d85ee33e0473b0f5bcbbc1a4404b8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38514,
+      "scope": {}
+    },
+    "h/hail-falling.jpg": {
+      "checksum": {
+        "md5": "72f393ad1054f461a7bb8eecfc098e16"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46242,
+      "scope": {}
+    },
+    "h/hail-large.jpg": {
+      "checksum": {
+        "md5": "3fae15e3fc2900d62955c54d28c54309"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21377,
+      "scope": {}
+    },
+    "h/hail-small.jpg": {
+      "checksum": {
+        "md5": "4899b1bd6637d577d7b92cdca56a65ed"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46272,
+      "scope": {}
+    },
+    "h/hail.jpg": {
+      "checksum": {
+        "md5": "28db4d39f0cbec061ca1c2ea2cb98fe5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28024,
+      "scope": {}
+    },
+    "h/harp.jpg": {
+      "checksum": {
+        "md5": "5f290727b06557257aac7c30c6b968d3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 10750,
+      "scope": {}
+    },
+    "h/hedge.jpg": {
+      "checksum": {
+        "md5": "b19696f20ead7685cd89f8bd19c9e1c5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46631,
+      "scope": {}
+    },
+    "h/hen-feeding.jpg": {
+      "checksum": {
+        "md5": "9c32d9d42c71fdaf503e609d46b1d77b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26844,
+      "scope": {}
+    },
+    "h/hen.jpg": {
+      "checksum": {
+        "md5": "db35a7d7b998fc7a4c8131fe00a9171b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 57869,
+      "scope": {}
+    },
+    "h/hermon-mount-fence.jpg": {
+      "checksum": {
+        "md5": "ac1ad31d05c769c660b4cf87a548f4a9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17065,
+      "scope": {}
+    },
+    "h/hermon-mount-snow.jpg": {
+      "checksum": {
+        "md5": "18e00bcd45734e6423bdb9e1394eb80b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26195,
+      "scope": {}
+    },
+    "h/hermon-mount.jpg": {
+      "checksum": {
+        "md5": "18451b706930377067f22ade8d3d22f5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16249,
+      "scope": {}
+    },
+    "h/high-place-wide.jpg": {
+      "checksum": {
+        "md5": "53ecd21ca65e88b23a85d62859e1880f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23255,
+      "scope": {}
+    },
+    "h/high-place.jpg": {
+      "checksum": {
+        "md5": "5dbca4b49901739249cc4a45dc3b9dd4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18694,
+      "scope": {}
+    },
+    "h/hill-country-spring.jpg": {
+      "checksum": {
+        "md5": "0f41f44ef859a64db0b81a9d73438fa2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30823,
+      "scope": {}
+    },
+    "h/hill-country-town.jpg": {
+      "checksum": {
+        "md5": "ac7ff7264b37cdfd5066d74e1ded695b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35327,
+      "scope": {}
+    },
+    "h/hill-country.jpg": {
+      "checksum": {
+        "md5": "1104cd20c7a14f1705277ec285264e24"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24723,
+      "scope": {}
+    },
+    "h/hills-sea-galilee.jpg": {
+      "checksum": {
+        "md5": "0b9afa5e41b511b74f0da3c2211f2b58"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26611,
+      "scope": {}
+    },
+    "h/hoe-cu.jpg": {
+      "checksum": {
+        "md5": "4d85c0d21fac36f800f60a26038d7e60"
+      },
+      "mimeType": "image/jpeg",
+      "size": 57966,
+      "scope": {}
+    },
+    "h/hoe.jpg": {
+      "checksum": {
+        "md5": "50430df84febd02fbc362002f4be6f47"
+      },
+      "mimeType": "image/jpeg",
+      "size": 62800,
+      "scope": {}
+    },
+    "h/honey-jars.jpg": {
+      "checksum": {
+        "md5": "e26dc195d305d1b3537ddba45e9b18fe"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24812,
+      "scope": {}
+    },
+    "h/honey-table.jpg": {
+      "checksum": {
+        "md5": "4c1a9ffdf5b9779beb40785a7935bf62"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17223,
+      "scope": {}
+    },
+    "h/honey.jpg": {
+      "checksum": {
+        "md5": "49086bf24e891cf417406a21b08a2012"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30383,
+      "scope": {}
+    },
+    "h/hoof-close-up.jpg": {
+      "checksum": {
+        "md5": "1a2575ffec25d6c5a312668b8a9deacf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 82867,
+      "scope": {}
+    },
+    "h/hoof-two-legs.jpg": {
+      "checksum": {
+        "md5": "2967ed9c8cca7a81f224229b83f98df5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 47708,
+      "scope": {}
+    },
+    "h/hoof.jpg": {
+      "checksum": {
+        "md5": "8a730f1e7ecf466a6158d70c5ff900fe"
+      },
+      "mimeType": "image/jpeg",
+      "size": 45337,
+      "scope": {}
+    },
+    "h/horn-ram-action.jpg": {
+      "checksum": {
+        "md5": "abded64ef512ed6c85e549a7b3592d56"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14735,
+      "scope": {}
+    },
+    "h/horn-ram-close.jpg": {
+      "checksum": {
+        "md5": "3bc9ecb50a4ef21e9e4821f5f6fc49b6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 10507,
+      "scope": {}
+    },
+    "h/horn-ram.jpg": {
+      "checksum": {
+        "md5": "1208228b92c94a6c022d07a7ad19503c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20314,
+      "scope": {}
+    },
+    "h/house-courtyard.jpg": {
+      "checksum": {
+        "md5": "ce6e148e959703555199dd938a9e278d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41815,
+      "scope": {}
+    },
+    "h/house-entrance-full.jpg": {
+      "checksum": {
+        "md5": "35a518948ceac240cab1f4536af102e0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29510,
+      "scope": {}
+    },
+    "h/house-entrance-mid.jpg": {
+      "checksum": {
+        "md5": "df693d60f0acd45cc0f42d877ccc9a86"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28597,
+      "scope": {}
+    },
+    "h/house-nazareth-wide.jpg": {
+      "checksum": {
+        "md5": "e20cc00f7e1d086d4c030197bd4ff732"
+      },
+      "mimeType": "image/jpeg",
+      "size": 47544,
+      "scope": {}
+    },
+    "h/house-nazareth.jpg": {
+      "checksum": {
+        "md5": "615d66633fddb49d80c4bf931fa82f65"
+      },
+      "mimeType": "image/jpeg",
+      "size": 44145,
+      "scope": {}
+    },
+    "h/house.jpg": {
+      "checksum": {
+        "md5": "f69d70112cecca464bae2426d08e5700"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36908,
+      "scope": {}
+    },
+    "i/idol-statue.jpg": {
+      "checksum": {
+        "md5": "a88b1d218ae6d62dedee77572e2d3c03"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15805,
+      "scope": {}
+    },
+    "i/idol.jpg": {
+      "checksum": {
+        "md5": "133309a73a1de06ad37bd9961e7f9df4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18625,
+      "scope": {}
+    },
+    "i/iron-bronze-tools-one.jpg": {
+      "checksum": {
+        "md5": "070d53463e14dd62212eaa40fa3db9be"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24062,
+      "scope": {}
+    },
+    "i/iron-bronze-tools.jpg": {
+      "checksum": {
+        "md5": "53667fdd27305f5069ba9428c5bbd843"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23534,
+      "scope": {}
+    },
+    "i/iron-gate.jpg": {
+      "checksum": {
+        "md5": "aa31d733f12e1dda43e909244127a2db"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11817,
+      "scope": {}
+    },
+    "i/iron-gates-wide.jpg": {
+      "checksum": {
+        "md5": "ca3c36157ed4dea2e1d43c69a70eb71e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11030,
+      "scope": {}
+    },
+    "i/iron-gates.jpg": {
+      "checksum": {
+        "md5": "05fba48b8310c8c8c9874b027de89f5b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13933,
+      "scope": {}
+    },
+    "i/iron-view.jpg": {
+      "checksum": {
+        "md5": "be82a2c7aed9949baa43e805c840130b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13234,
+      "scope": {}
+    },
+    "i/iron-views.jpg": {
+      "checksum": {
+        "md5": "371c8f059619903fc56819feef70d441"
+      },
+      "mimeType": "image/jpeg",
+      "size": 8744,
+      "scope": {}
+    },
+    "i/iron.jpg": {
+      "checksum": {
+        "md5": "2bbfd07e86595b930a9729864be1d470"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11400,
+      "scope": {}
+    },
+    "j/jacinth-turquoise-green.jpg": {
+      "checksum": {
+        "md5": "78260aeb9d3742b39d8802160b4acab7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26627,
+      "scope": {}
+    },
+    "j/jacinth-turquoise-red.jpg": {
+      "checksum": {
+        "md5": "abd892400d2e36f331b21131a32bf990"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27415,
+      "scope": {}
+    },
+    "j/jacinth-turquoise.jpg": {
+      "checksum": {
+        "md5": "2c03150129550e77f86e0bf770b2b6fd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25274,
+      "scope": {}
+    },
+    "j/jerusalem-model-close.jpg": {
+      "checksum": {
+        "md5": "69275c79aabbde31f6dab5a276638a96"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42476,
+      "scope": {}
+    },
+    "j/jerusalem-model-temple.jpg": {
+      "checksum": {
+        "md5": "bf97f59ff0cf9e115b949fa574721820"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33230,
+      "scope": {}
+    },
+    "j/jerusalem-model.jpg": {
+      "checksum": {
+        "md5": "71ffebe8f076858516dbf4932ae5e846"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43038,
+      "scope": {}
+    },
+    "j/jerusalem-wall-tower.jpg": {
+      "checksum": {
+        "md5": "7e6ac981accd9b6374c8af0624122afb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38180,
+      "scope": {}
+    },
+    "j/jewelry-rebekah-view.jpg": {
+      "checksum": {
+        "md5": "ca6e8d7b2bd52453f5bfcfcd25b07dc7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14220,
+      "scope": {}
+    },
+    "j/jewelry-rebekah.jpg": {
+      "checksum": {
+        "md5": "903ce25fd8009f9c48f7bbdb2ec1b120"
+      },
+      "mimeType": "image/jpeg",
+      "size": 12290,
+      "scope": {}
+    },
+    "j/josephs-coat-close.jpg": {
+      "checksum": {
+        "md5": "783e0dccb67bcee58c5a64dac81131f6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33182,
+      "scope": {}
+    },
+    "j/josephs-coat-tassels.jpg": {
+      "checksum": {
+        "md5": "2c6c652dc90add01d4d81da3d4955176"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28055,
+      "scope": {}
+    },
+    "j/josephs-coat.jpg": {
+      "checksum": {
+        "md5": "c4b8484dac4a79b6dda737e1ddd6f932"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30942,
+      "scope": {}
+    },
+    "k/kettle-and-pitcher.jpg": {
+      "checksum": {
+        "md5": "1a67693d9a905ac2143676dbcaf5ef03"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11359,
+      "scope": {}
+    },
+    "k/kettle.jpg": {
+      "checksum": {
+        "md5": "9246f4aec900860897f0e42daec34285"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13228,
+      "scope": {}
+    },
+    "k/kneading-yeast-hands.jpg": {
+      "checksum": {
+        "md5": "287a5e21c2fb1dde210283e73b6ce177"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27213,
+      "scope": {}
+    },
+    "k/kneading-yeast-stir.jpg": {
+      "checksum": {
+        "md5": "4afdc6d73aaa5e952d5062a88363416a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38938,
+      "scope": {}
+    },
+    "k/kneading-yeast.jpg": {
+      "checksum": {
+        "md5": "004dd32cd009e005200fb2d48246d309"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23604,
+      "scope": {}
+    },
+    "l/lamb-bottle-fed.jpg": {
+      "checksum": {
+        "md5": "de4b4c00ad44369d5e4e8a6a50558e48"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43368,
+      "scope": {}
+    },
+    "l/lamb-full-height.jpg": {
+      "checksum": {
+        "md5": "2061727490e351f2775893a84c837c8f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41174,
+      "scope": {}
+    },
+    "l/lamb-with-mother.jpg": {
+      "checksum": {
+        "md5": "0beab84f535da99789c697703f5f8e16"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39147,
+      "scope": {}
+    },
+    "l/lampstand-sat.jpg": {
+      "checksum": {
+        "md5": "c27b748cdef2c57ae0fa9e4c76d82b1a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32284,
+      "scope": {}
+    },
+    "l/lampstand.jpg": {
+      "checksum": {
+        "md5": "51d4bcd894b73274552bf1e0af6e66e9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32023,
+      "scope": {}
+    },
+    "l/landscape-haran-close.jpg": {
+      "checksum": {
+        "md5": "137ea5cf64baf267f75916e4e4de4b3a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23340,
+      "scope": {}
+    },
+    "l/landscape-haran-closeup.jpg": {
+      "checksum": {
+        "md5": "ee4052c6283582563a34b45512de928d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30259,
+      "scope": {}
+    },
+    "l/landscape-haran.jpg": {
+      "checksum": {
+        "md5": "3002f1d1cb68b0f0977db90c0794a926"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17732,
+      "scope": {}
+    },
+    "l/landscape-jerusalem.jpg": {
+      "checksum": {
+        "md5": "4ae6e35a4e41f97b810ecd9b463a127b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25116,
+      "scope": {}
+    },
+    "l/landscape-shinar.jpg": {
+      "checksum": {
+        "md5": "92ff3add7eef5215ba21bdef363c54cb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26007,
+      "scope": {}
+    },
+    "l/large-basket-close.jpg": {
+      "checksum": {
+        "md5": "aaa4d38d887340575e9912d41a2c0e70"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40199,
+      "scope": {}
+    },
+    "l/large-basket-wide.jpg": {
+      "checksum": {
+        "md5": "36b3ccb6ed3348a187044154ff90198d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34652,
+      "scope": {}
+    },
+    "l/leather-bucket-close.jpg": {
+      "checksum": {
+        "md5": "b31cc3afa67dc949917c0d741f0aaa7a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22319,
+      "scope": {}
+    },
+    "l/leather-bucket.jpg": {
+      "checksum": {
+        "md5": "5bb4f138f8e48ec79bf13de36ab85a05"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21786,
+      "scope": {}
+    },
+    "l/leek-field.jpg": {
+      "checksum": {
+        "md5": "e808b573fb2df4d26fbdb52366150641"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38169,
+      "scope": {}
+    },
+    "l/leek.jpg": {
+      "checksum": {
+        "md5": "9bf31276fee8a50cefda6290f2d4bf14"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34941,
+      "scope": {}
+    },
+    "l/lightning-multiple.jpg": {
+      "checksum": {
+        "md5": "7d6b674045abc21b915e959a97c7ed19"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17575,
+      "scope": {}
+    },
+    "l/lightning.jpg": {
+      "checksum": {
+        "md5": "1ec5f19f680c67c8c35a240050c24963"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9618,
+      "scope": {}
+    },
+    "l/lillies-close-up.jpg": {
+      "checksum": {
+        "md5": "6ab623a0c674d3314268306a2d7be2bf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24213,
+      "scope": {}
+    },
+    "l/lillies.jpg": {
+      "checksum": {
+        "md5": "3d546d788cd345782329d5ee7e54f6dc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 49742,
+      "scope": {}
+    },
+    "l/linen-fine-closeup.jpg": {
+      "checksum": {
+        "md5": "1fabed5d4e1d411149afb5d8319d854d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17157,
+      "scope": {}
+    },
+    "l/linen-fine.jpg": {
+      "checksum": {
+        "md5": "d410818888a9826e9781ed279e7024a6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24800,
+      "scope": {}
+    },
+    "l/loaves-fish.jpg": {
+      "checksum": {
+        "md5": "74494c9275808aeee6f0d039fed92796"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28276,
+      "scope": {}
+    },
+    "l/lock-bar-door.jpg": {
+      "checksum": {
+        "md5": "80672728e833911dc001425744206a3c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27943,
+      "scope": {}
+    },
+    "l/lock-bar-front.jpg": {
+      "checksum": {
+        "md5": "4df80c2abdd68fc948ec12b2b6463e15"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25101,
+      "scope": {}
+    },
+    "l/lock-bar-side.jpg": {
+      "checksum": {
+        "md5": "aab38c86712fc0e1ab61bf889dd19e3e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36663,
+      "scope": {}
+    },
+    "l/locust-swarm-close.jpg": {
+      "checksum": {
+        "md5": "1731016461e3055b645aad284a9a2c59"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16436,
+      "scope": {}
+    },
+    "l/locust-swarm-view.jpg": {
+      "checksum": {
+        "md5": "9d43744060490eb4512444ead3ee787a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 57742,
+      "scope": {}
+    },
+    "l/locust-swarm.jpg": {
+      "checksum": {
+        "md5": "16a9b68fbb3aef383b2f7959e1aa4be8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17357,
+      "scope": {}
+    },
+    "l/lots-close.jpg": {
+      "checksum": {
+        "md5": "b6d78fcb5b1b4696541d213732a4c718"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23659,
+      "scope": {}
+    },
+    "l/lots-man-holding.jpg": {
+      "checksum": {
+        "md5": "fa7a7282d6a7a7bc76760e40e214d105"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42636,
+      "scope": {}
+    },
+    "m/man-carrying-cross.jpg": {
+      "checksum": {
+        "md5": "d2f126c910e7103ba43b518a4e79e194"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18168,
+      "scope": {}
+    },
+    "m/man-girded-close.jpg": {
+      "checksum": {
+        "md5": "c61511cf790eb328c5dae1391e3cf605"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23161,
+      "scope": {}
+    },
+    "m/man-girded.jpg": {
+      "checksum": {
+        "md5": "1324e2bfa71b0841cd64f53384e36f7f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30655,
+      "scope": {}
+    },
+    "m/man-plowing-field.jpg": {
+      "checksum": {
+        "md5": "b2550ec2e6c8877c331cdc2a07516539"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42997,
+      "scope": {}
+    },
+    "m/manatee-above.jpg": {
+      "checksum": {
+        "md5": "c23e955df9e54a41592e5e49bb5075bf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22560,
+      "scope": {}
+    },
+    "m/manatee-below.jpg": {
+      "checksum": {
+        "md5": "5cb0387cc7cbfa61669b34a229747ab7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 12316,
+      "scope": {}
+    },
+    "m/manatee.jpg": {
+      "checksum": {
+        "md5": "55513d7d4bd29bd1a103b798cd790d32"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22764,
+      "scope": {}
+    },
+    "m/mandrake-fruit-close.jpg": {
+      "checksum": {
+        "md5": "c6f85c2674d47fdd33ad6ea92e36c35e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34418,
+      "scope": {}
+    },
+    "m/mandrake-plant.jpg": {
+      "checksum": {
+        "md5": "82aeeadc10e70203b22ee97f11e3e649"
+      },
+      "mimeType": "image/jpeg",
+      "size": 71857,
+      "scope": {}
+    },
+    "m/mandrake-with-fruit.jpg": {
+      "checksum": {
+        "md5": "2b3f21494692e64e8d0ca7dcd35f556b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 64236,
+      "scope": {}
+    },
+    "m/manger-close.jpg": {
+      "checksum": {
+        "md5": "e5c791103afbe753e7be9367b1ad119c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 59556,
+      "scope": {}
+    },
+    "m/manger-wide.jpg": {
+      "checksum": {
+        "md5": "b28274f7be77baa143acad72a98ccfac"
+      },
+      "mimeType": "image/jpeg",
+      "size": 64523,
+      "scope": {}
+    },
+    "m/marketplace-jesus.jpg": {
+      "checksum": {
+        "md5": "4a27c415ce1914a0c1442f06ae4052ac"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25119,
+      "scope": {}
+    },
+    "m/melon-cut.jpg": {
+      "checksum": {
+        "md5": "3f147930c95e4dc2778224d95f081d58"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17544,
+      "scope": {}
+    },
+    "m/melon-market.jpg": {
+      "checksum": {
+        "md5": "d863c6b247e3f7d36823e78bcaa9da7c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36981,
+      "scope": {}
+    },
+    "m/melon.jpg": {
+      "checksum": {
+        "md5": "4fac66cff6df5a2c980077ecc31067d1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41872,
+      "scope": {}
+    },
+    "m/milk-close.jpg": {
+      "checksum": {
+        "md5": "b14329962cd00db248e61f3d8faa8ce5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20908,
+      "scope": {}
+    },
+    "m/milk-drinking.jpg": {
+      "checksum": {
+        "md5": "e17849d6da86a1566bdd3a84455f53b5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37775,
+      "scope": {}
+    },
+    "m/milk-wide.jpg": {
+      "checksum": {
+        "md5": "87111419f802ce5ec6580a4989897bb9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 45869,
+      "scope": {}
+    },
+    "m/millstone-medium-closeup.jpg": {
+      "checksum": {
+        "md5": "02e2829bda8f4098175ed2a6561611bf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 54222,
+      "scope": {}
+    },
+    "m/millstone-medium.jpg": {
+      "checksum": {
+        "md5": "baa24fa2f2f83e32b0af506bdbf1ae73"
+      },
+      "mimeType": "image/jpeg",
+      "size": 56970,
+      "scope": {}
+    },
+    "m/millstone.jpg": {
+      "checksum": {
+        "md5": "38741b00a09e4fb1a31cd02c56ecb76e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46602,
+      "scope": {}
+    },
+    "m/mortar-pestle-ancient.jpg": {
+      "checksum": {
+        "md5": "148c66f4a8b852ba97e8acbe2653e30a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16214,
+      "scope": {}
+    },
+    "m/mortar-pestle-close.jpg": {
+      "checksum": {
+        "md5": "237404687a854fd51824a1d15d548c52"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17307,
+      "scope": {}
+    },
+    "m/mortar-pestle.jpg": {
+      "checksum": {
+        "md5": "ff7b6cf7626fecc3abe53afe83f0bbe3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25991,
+      "scope": {}
+    },
+    "m/moth.jpg": {
+      "checksum": {
+        "md5": "a74d73cce6e97c488fd4241e4ae5e5c9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26212,
+      "scope": {}
+    },
+    "m/mount-ararat.jpg": {
+      "checksum": {
+        "md5": "bd03f031aa2c310d58a13db0ff76cd03"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18622,
+      "scope": {}
+    },
+    "m/mount-hebron-atop.jpg": {
+      "checksum": {
+        "md5": "acbb6ffd608125eaa0b4c3bb59f686e2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17432,
+      "scope": {}
+    },
+    "m/mount-hebron-view.jpg": {
+      "checksum": {
+        "md5": "385961ccb38573b31dbf20d5f2b3ec98"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20856,
+      "scope": {}
+    },
+    "m/mount-of-olives.jpg": {
+      "checksum": {
+        "md5": "1cb690152d91dd3ac6ffe1c80cb49727"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29959,
+      "scope": {}
+    },
+    "m/mount-precipice-wide.jpg": {
+      "checksum": {
+        "md5": "f897d45270741e39bd4e87231497edee"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21512,
+      "scope": {}
+    },
+    "m/mount-precipice.jpg": {
+      "checksum": {
+        "md5": "94b185cec862675afa96fd640bce6500"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15247,
+      "scope": {}
+    },
+    "m/mount-sinai-above.jpg": {
+      "checksum": {
+        "md5": "e327b68e36f97f7ca311f092fa3a9898"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29502,
+      "scope": {}
+    },
+    "m/mount-sinai-below.jpg": {
+      "checksum": {
+        "md5": "dcd2704734aebdf72d5c1b91eb0dcd8c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34698,
+      "scope": {}
+    },
+    "m/mount-tabor.jpg": {
+      "checksum": {
+        "md5": "60ae03106e0067d585dbc9e7ce2e49df"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19140,
+      "scope": {}
+    },
+    "m/mountain-pass-path.jpg": {
+      "checksum": {
+        "md5": "7e3bfd2a3afad192de2f2a82d0801864"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40063,
+      "scope": {}
+    },
+    "m/mountain-pass-view.jpg": {
+      "checksum": {
+        "md5": "7233309dfa5c3ad417ffceefb621b808"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25899,
+      "scope": {}
+    },
+    "m/mountain-pass.jpg": {
+      "checksum": {
+        "md5": "636a4d285a3970c52013969289d69767"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38285,
+      "scope": {}
+    },
+    "m/mustard-seed-black.jpg": {
+      "checksum": {
+        "md5": "eee33c6d8ce459233794cb83e8b76973"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17397,
+      "scope": {}
+    },
+    "m/mustard-seed-close.jpg": {
+      "checksum": {
+        "md5": "215abdd5f29cd10d927e39be422cf9df"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18468,
+      "scope": {}
+    },
+    "m/mustard-seed-establish.jpg": {
+      "checksum": {
+        "md5": "c04eeca04ef98eac05ec7aed90884f7a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26506,
+      "scope": {}
+    },
+    "m/mustard-seed-pouring.jpg": {
+      "checksum": {
+        "md5": "7d7e55adcebac449863f6a2caef2cf54"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15926,
+      "scope": {}
+    },
+    "m/myrrh-detail-hand.jpg": {
+      "checksum": {
+        "md5": "877cdd2169e03bd702dd153be6e7bb58"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21409,
+      "scope": {}
+    },
+    "m/myrrh-wide.jpg": {
+      "checksum": {
+        "md5": "841be434ab271c1cae4b17a7715068cf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46773,
+      "scope": {}
+    },
+    "n/nard-plant-medium.jpg": {
+      "checksum": {
+        "md5": "f38bb570e4c3b0eee36187773665bf65"
+      },
+      "mimeType": "image/jpeg",
+      "size": 50844,
+      "scope": {}
+    },
+    "n/nard-plant-root.jpg": {
+      "checksum": {
+        "md5": "32f31f90c254b7828e6f4504c9d880d4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27478,
+      "scope": {}
+    },
+    "n/nard-plant-wide.jpg": {
+      "checksum": {
+        "md5": "3e8a03e107e66bb6e5e9b112376ce404"
+      },
+      "mimeType": "image/jpeg",
+      "size": 49311,
+      "scope": {}
+    },
+    "n/narrow-street.jpg": {
+      "checksum": {
+        "md5": "36cfb843717878a4ba289e8872b4c63e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22679,
+      "scope": {}
+    },
+    "n/negev-desert-view.jpg": {
+      "checksum": {
+        "md5": "84b5d7b772a44998211b118852e9cf1b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17904,
+      "scope": {}
+    },
+    "n/negev-desert.jpg": {
+      "checksum": {
+        "md5": "a7854ecc30d1345900bab5a5f4a9ef2f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11870,
+      "scope": {}
+    },
+    "n/nut-almond-close.jpg": {
+      "checksum": {
+        "md5": "ade542375945b2bcf2b6a69997a0dfec"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34809,
+      "scope": {}
+    },
+    "n/nut-almond-detail.jpg": {
+      "checksum": {
+        "md5": "f3a5b638c69ad5b75493698d21ea67a4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17010,
+      "scope": {}
+    },
+    "n/nut-almond-mid.jpg": {
+      "checksum": {
+        "md5": "5d4411c4abd1e34929b270472639090a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39897,
+      "scope": {}
+    },
+    "n/nut-almond-tree.jpg": {
+      "checksum": {
+        "md5": "d800c7615a79c938c428540b312c2ab9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26581,
+      "scope": {}
+    },
+    "n/nut-almond.jpg": {
+      "checksum": {
+        "md5": "80f3a344495988cf0983d4fd7075ddd7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39670,
+      "scope": {}
+    },
+    "n/nut-pistachio-close.jpg": {
+      "checksum": {
+        "md5": "747d800f24142ed631fd2913e70d6527"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19383,
+      "scope": {}
+    },
+    "n/nut-pistachio-detail.jpg": {
+      "checksum": {
+        "md5": "ca5639aecca28331741a7bb888a5bfe8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24445,
+      "scope": {}
+    },
+    "n/nut-pistachio-shell.jpg": {
+      "checksum": {
+        "md5": "275cb752e37b1df4a0028584e2215a73"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28720,
+      "scope": {}
+    },
+    "n/nut-pistachio-tree.jpg": {
+      "checksum": {
+        "md5": "32d10f4f840531325bad1733309419a6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46104,
+      "scope": {}
+    },
+    "n/nut-pistachio-wide.jpg": {
+      "checksum": {
+        "md5": "a8274ed3d69dbeb63d66e56636499c53"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42459,
+      "scope": {}
+    },
+    "n/nut-pistachio.jpg": {
+      "checksum": {
+        "md5": "b4aeb0c9b9e00911de20f1e5871ec921"
+      },
+      "mimeType": "image/jpeg",
+      "size": 47894,
+      "scope": {}
+    },
+    "o/oak-tree.jpg": {
+      "checksum": {
+        "md5": "db4eec017df2f29453e1054d6faf1b19"
+      },
+      "mimeType": "image/jpeg",
+      "size": 48174,
+      "scope": {}
+    },
+    "o/oil-lamp-flame.jpg": {
+      "checksum": {
+        "md5": "4a41326319213ee4f51e763546ff179d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 7103,
+      "scope": {}
+    },
+    "o/oil-lamp.jpg": {
+      "checksum": {
+        "md5": "395fe9c0f75781c483d4a714fe044809"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22500,
+      "scope": {}
+    },
+    "o/olive-branch.jpg": {
+      "checksum": {
+        "md5": "5ded8389769b49dca4b8eb2820ae1682"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31554,
+      "scope": {}
+    },
+    "o/olive-oil-action.jpg": {
+      "checksum": {
+        "md5": "adcca95ee61b690e75ab6203441d20ac"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18684,
+      "scope": {}
+    },
+    "o/olive-oil-close.jpg": {
+      "checksum": {
+        "md5": "3db0aebdebe0b079b24e14b5f5c25bfb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33185,
+      "scope": {}
+    },
+    "o/olive-oil-full.jpg": {
+      "checksum": {
+        "md5": "085a8f068624fb98f262d9575b2882ba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38965,
+      "scope": {}
+    },
+    "o/olive-tree.jpg": {
+      "checksum": {
+        "md5": "c2071e21887be95f49c408d5f044139e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38475,
+      "scope": {}
+    },
+    "o/olives-close-up.jpg": {
+      "checksum": {
+        "md5": "52ab3b1bf2b4b48c1df479c1dd567416"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28815,
+      "scope": {}
+    },
+    "o/olives-on-branch.jpg": {
+      "checksum": {
+        "md5": "d28482182ee3b3b46ef3f03e31b90c88"
+      },
+      "mimeType": "image/jpeg",
+      "size": 51690,
+      "scope": {}
+    },
+    "o/olives.jpg": {
+      "checksum": {
+        "md5": "5257f8f3aca771f371374132159adbce"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38194,
+      "scope": {}
+    },
+    "o/onion-close.jpg": {
+      "checksum": {
+        "md5": "0aa1358e97909b0f1411b5de5f369651"
+      },
+      "mimeType": "image/jpeg",
+      "size": 1379,
+      "scope": {}
+    },
+    "o/onion-cut.jpg": {
+      "checksum": {
+        "md5": "0405f88d972657125c54034585feda8d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25799,
+      "scope": {}
+    },
+    "o/onion-wide.jpg": {
+      "checksum": {
+        "md5": "9ec66f62ff666b7c108c2fd223451956"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43131,
+      "scope": {}
+    },
+    "o/onyx-carnelian-black.jpg": {
+      "checksum": {
+        "md5": "53125f27615a1b6dacfb98b746bc62e1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22420,
+      "scope": {}
+    },
+    "o/onyx-carnelian-measured.jpg": {
+      "checksum": {
+        "md5": "528b5de2e5bba4dffa08ed8b38292983"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20193,
+      "scope": {}
+    },
+    "o/onyx-carnelian-pink.jpg": {
+      "checksum": {
+        "md5": "2fce5f48b76f5ffc655d88c469c336a5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36178,
+      "scope": {}
+    },
+    "o/onyx-close.jpg": {
+      "checksum": {
+        "md5": "548bc75be75214166ef57334b435322b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17169,
+      "scope": {}
+    },
+    "o/onyx-full.jpg": {
+      "checksum": {
+        "md5": "13f68dfa43e289451e4442df5bf565cb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 47375,
+      "scope": {}
+    },
+    "o/onyx-hands.jpg": {
+      "checksum": {
+        "md5": "9235908e68961012f0f3169a4d50bda2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27140,
+      "scope": {}
+    },
+    "o/ox.jpg": {
+      "checksum": {
+        "md5": "0e551fdf178083a4bfc2fde79d98b4e7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35799,
+      "scope": {}
+    },
+    "p/palm-branch.jpg": {
+      "checksum": {
+        "md5": "e6e7c94571696100f63d1c988465f4a8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26630,
+      "scope": {}
+    },
+    "p/parchment-close-up.jpg": {
+      "checksum": {
+        "md5": "c946216760a9c08aa51e76a8a16b686e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17617,
+      "scope": {}
+    },
+    "p/parchment.jpg": {
+      "checksum": {
+        "md5": "65a120cc0a5bcb7aab704e04de9a35c9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23881,
+      "scope": {}
+    },
+    "p/passover-meal-elements.jpg": {
+      "checksum": {
+        "md5": "5fd7b3a59ea3181d8155bc6d32ec1f90"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37224,
+      "scope": {}
+    },
+    "p/pearls-close.jpg": {
+      "checksum": {
+        "md5": "2095cb68496b7e674b1c633af2725028"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22936,
+      "scope": {}
+    },
+    "p/pearls-wide.jpg": {
+      "checksum": {
+        "md5": "1e3b14e0b630ad6f5a8d9f34fd9b1d78"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33764,
+      "scope": {}
+    },
+    "p/pearls.jpg": {
+      "checksum": {
+        "md5": "6d95b6ba5309eb92133ecb68c1d00372"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16906,
+      "scope": {}
+    },
+    "p/people-eating-floor.jpg": {
+      "checksum": {
+        "md5": "7acfbd35cb9df5382aeb99de846162bd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32608,
+      "scope": {}
+    },
+    "p/pig-close.jpg": {
+      "checksum": {
+        "md5": "5f2471294eb9d60b0fc0da17b5514801"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30348,
+      "scope": {}
+    },
+    "p/pig-wide.jpg": {
+      "checksum": {
+        "md5": "a282a3bc69e9cf71b8861aad7c40c66c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37342,
+      "scope": {}
+    },
+    "p/pigeon-detail.jpg": {
+      "checksum": {
+        "md5": "730fd92cd3c55c17282eef7b37ead216"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42045,
+      "scope": {}
+    },
+    "p/pigeon-wide.jpg": {
+      "checksum": {
+        "md5": "0055331322cb74b5e46e97a3b280be8e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35975,
+      "scope": {}
+    },
+    "p/plant-flax-close.jpg": {
+      "checksum": {
+        "md5": "558f649596977a5f1b6d80918e17a9b6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 12803,
+      "scope": {}
+    },
+    "p/plant-flax-corpse.jpg": {
+      "checksum": {
+        "md5": "3bf3c728302f331830dfc44cbf23266b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9687,
+      "scope": {}
+    },
+    "p/plant-flax-cutting.jpg": {
+      "checksum": {
+        "md5": "944a2cfdf533e75d8058880d43912089"
+      },
+      "mimeType": "image/jpeg",
+      "size": 50129,
+      "scope": {}
+    },
+    "p/plant-flax-dried.jpg": {
+      "checksum": {
+        "md5": "f7158d17c44cb8b9f074037a32ba7d09"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32789,
+      "scope": {}
+    },
+    "p/plant-flax.jpg": {
+      "checksum": {
+        "md5": "4ae5042da4e6b2f667af3c4ab2e16003"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40278,
+      "scope": {}
+    },
+    "p/plant-frankincense-resin.jpg": {
+      "checksum": {
+        "md5": "82eb0cdf96c933dd82482c30478c0c01"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40769,
+      "scope": {}
+    },
+    "p/plant-frankincense-sap.jpg": {
+      "checksum": {
+        "md5": "8b5f83596894dd4327d451b4bfea4c8e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34328,
+      "scope": {}
+    },
+    "p/plant-frankincense-tree.jpg": {
+      "checksum": {
+        "md5": "4b1bd43e4060e79ff9dbcb72c9afa014"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35645,
+      "scope": {}
+    },
+    "p/plant-locusts-brown.jpg": {
+      "checksum": {
+        "md5": "d2bc2d1bb0d8e0dd8ba066294fcfa74c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 51098,
+      "scope": {}
+    },
+    "p/plant-locusts-green.jpg": {
+      "checksum": {
+        "md5": "c244e9ca72051e431a1a99b2a982b0d3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14541,
+      "scope": {}
+    },
+    "p/plant-myrrh-resin.jpg": {
+      "checksum": {
+        "md5": "4f64fdeae88a1f2202c2fc640ec286b4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26140,
+      "scope": {}
+    },
+    "p/plant-myrrh.jpg": {
+      "checksum": {
+        "md5": "5669b8228eb4b649169c5d173c0f8973"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24585,
+      "scope": {}
+    },
+    "p/plant-papyrus-close.jpg": {
+      "checksum": {
+        "md5": "b8145c9b9b48643b0f99174e9d450e1b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 51688,
+      "scope": {}
+    },
+    "p/plant-papyrus-riverbank.jpg": {
+      "checksum": {
+        "md5": "e858c45abf60b253ab398f097df6aede"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29001,
+      "scope": {}
+    },
+    "p/plant-papyrus.jpg": {
+      "checksum": {
+        "md5": "8c1bd7dcc2b4e8c57c91e090058802c9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36306,
+      "scope": {}
+    },
+    "p/platter-close-view.jpg": {
+      "checksum": {
+        "md5": "0a7df9d819a38becdf169d9e9bf27c47"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26290,
+      "scope": {}
+    },
+    "p/platter.jpg": {
+      "checksum": {
+        "md5": "31bcb9ec6c55a9882ff0c7c137a1380a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27296,
+      "scope": {}
+    },
+    "p/pond-above.jpg": {
+      "checksum": {
+        "md5": "3c693028b3893938a926864056776d28"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22805,
+      "scope": {}
+    },
+    "p/pond-wide.jpg": {
+      "checksum": {
+        "md5": "463976b049f0b93634b14272c619c5bc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38344,
+      "scope": {}
+    },
+    "p/pond.jpg": {
+      "checksum": {
+        "md5": "1aa73f0010f8ac6fe7b9215e98bf2b38"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33099,
+      "scope": {}
+    },
+    "p/pool-siloam-night.jpg": {
+      "checksum": {
+        "md5": "dd778966fa1c551f925dc4318834b2a8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13723,
+      "scope": {}
+    },
+    "p/pool-siloam.jpg": {
+      "checksum": {
+        "md5": "8ce9cf42972db431b8a2f29d86bff826"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23498,
+      "scope": {}
+    },
+    "p/prostration-men.jpg": {
+      "checksum": {
+        "md5": "7c5ee378d17f12287da6bebb6b0e51fe"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34135,
+      "scope": {}
+    },
+    "p/prostration-wide-view.jpg": {
+      "checksum": {
+        "md5": "2304240ec2cac2f0ce6a2263c085b0b3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24125,
+      "scope": {}
+    },
+    "p/purple-robe.jpg": {
+      "checksum": {
+        "md5": "ac0aa8953504a1223f75e605eea35eca"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20267,
+      "scope": {}
+    },
+    "p/purse-detail.jpg": {
+      "checksum": {
+        "md5": "63cf199cfb4de141241f0342392636f5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19312,
+      "scope": {}
+    },
+    "p/purse-holding.jpg": {
+      "checksum": {
+        "md5": "011bc65b515c4f8573960547bf792286"
+      },
+      "mimeType": "image/jpeg",
+      "size": 17352,
+      "scope": {}
+    },
+    "p/purse.jpg": {
+      "checksum": {
+        "md5": "23def3d94ad649bfce7bfca81972a207"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21928,
+      "scope": {}
+    },
+    "q/quail-holding.jpg": {
+      "checksum": {
+        "md5": "9fe8c3c2da94d8633188e50bdd904cb7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18951,
+      "scope": {}
+    },
+    "q/quail.jpg": {
+      "checksum": {
+        "md5": "7fdbff37bfdccaa431ed4e9c7e779c0f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33345,
+      "scope": {}
+    },
+    "r/rag-action.jpg": {
+      "checksum": {
+        "md5": "4105cba65a12a22fba7db1b05af8d705"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16185,
+      "scope": {}
+    },
+    "r/rag-dirty.jpg": {
+      "checksum": {
+        "md5": "ecf892de06c52b12a1cfdb677c27277b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13026,
+      "scope": {}
+    },
+    "r/rainbow-half.jpg": {
+      "checksum": {
+        "md5": "d702e99908e4b4e8916808bb9264e067"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20167,
+      "scope": {}
+    },
+    "r/rainbow.jpg": {
+      "checksum": {
+        "md5": "f19a0f82f26fb47a2103af38c568e64d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22492,
+      "scope": {}
+    },
+    "r/ram-close-up.jpg": {
+      "checksum": {
+        "md5": "ed6b9d2648abb0ea4fb2bb97dc965060"
+      },
+      "mimeType": "image/jpeg",
+      "size": 44695,
+      "scope": {}
+    },
+    "r/ram-full-height.jpg": {
+      "checksum": {
+        "md5": "8f3fec5d9acd81f63c3befe18a7c83b3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 45648,
+      "scope": {}
+    },
+    "r/ram-side-view.jpg": {
+      "checksum": {
+        "md5": "0ddf63ed017633d9a1659d4b71f454a8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33221,
+      "scope": {}
+    },
+    "r/ram-tanned-skin.jpg": {
+      "checksum": {
+        "md5": "d666e60a8d250d5614c9d31a92f08b86"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25152,
+      "scope": {}
+    },
+    "r/raven-feeding.jpg": {
+      "checksum": {
+        "md5": "27af3d1839f22a495ee15365f946c79e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30450,
+      "scope": {}
+    },
+    "r/raven.jpg": {
+      "checksum": {
+        "md5": "e5ebccd63b32b5f9b38c18072c214e97"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21766,
+      "scope": {}
+    },
+    "r/ravine-petra.jpg": {
+      "checksum": {
+        "md5": "45b1a3d19f71373bd9d7a206612c894a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24670,
+      "scope": {}
+    },
+    "r/ravine-wide-view.jpg": {
+      "checksum": {
+        "md5": "9c81dfbbd3d30f283787a6dd42f563aa"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36768,
+      "scope": {}
+    },
+    "r/ravine.jpg": {
+      "checksum": {
+        "md5": "2651462ddbd42e00cd17ddb0920650bf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29874,
+      "scope": {}
+    },
+    "r/reed-plant-close.jpg": {
+      "checksum": {
+        "md5": "181df193d29308bca3da3313a18055f9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31717,
+      "scope": {}
+    },
+    "r/reed-plant-wide.jpg": {
+      "checksum": {
+        "md5": "b4b518c90cc1e7319d8f80d4663a7e88"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38862,
+      "scope": {}
+    },
+    "r/reed-plant.jpg": {
+      "checksum": {
+        "md5": "36e7dfd060307741fc0e4cd90392d931"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30296,
+      "scope": {}
+    },
+    "r/ring-pharoah-view.jpg": {
+      "checksum": {
+        "md5": "440e8f22da294627cdc845fc9343194f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24169,
+      "scope": {}
+    },
+    "r/ring-pharoah.jpg": {
+      "checksum": {
+        "md5": "66019d0b312b48f3c96b739cd4747060"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21676,
+      "scope": {}
+    },
+    "r/river-jordan.jpg": {
+      "checksum": {
+        "md5": "39d2610c63f0b7902d8005da44fc8d46"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40010,
+      "scope": {}
+    },
+    "r/river-nile-edge.jpg": {
+      "checksum": {
+        "md5": "6c4a25e52e94e6b161fefb0be7fd59dd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22946,
+      "scope": {}
+    },
+    "r/river-nile-edges.jpg": {
+      "checksum": {
+        "md5": "8aa903aa6145da496c0ba74dca29aba3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21974,
+      "scope": {}
+    },
+    "r/river-nile-one.jpg": {
+      "checksum": {
+        "md5": "2ddcbc157c0fff11b25370a5f0ce8982"
+      },
+      "mimeType": "image/jpeg",
+      "size": 6892,
+      "scope": {}
+    },
+    "r/river-nile-three.jpg": {
+      "checksum": {
+        "md5": "abbc4b04ecd6ae8fdf7572141332aeb5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26182,
+      "scope": {}
+    },
+    "r/river-nile-two.jpg": {
+      "checksum": {
+        "md5": "8aa903aa6145da496c0ba74dca29aba3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21974,
+      "scope": {}
+    },
+    "r/river-niles-edge.jpg": {
+      "checksum": {
+        "md5": "0e458cecdcaa736d336dd9785c8041a7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27695,
+      "scope": {}
+    },
+    "r/river-valley.jpg": {
+      "checksum": {
+        "md5": "09b76a7bafcf38178f8a77d31c6fdbb9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37155,
+      "scope": {}
+    },
+    "r/road-jericho-elevated.jpg": {
+      "checksum": {
+        "md5": "1f31a6872551b0e6f7ef4ac6e6bb61cb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20686,
+      "scope": {}
+    },
+    "r/road-jericho.jpg": {
+      "checksum": {
+        "md5": "5e8d9c579125a49eb53db3173dcde0af"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15477,
+      "scope": {}
+    },
+    "r/roasted-lamb-action.jpg": {
+      "checksum": {
+        "md5": "5ce3844ff46997e1befac9ab4893f92a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21433,
+      "scope": {}
+    },
+    "r/roasted-lamb-close.jpg": {
+      "checksum": {
+        "md5": "d6873d039e695346026359ef151fc82f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23927,
+      "scope": {}
+    },
+    "r/roasted-lamb-wide.jpg": {
+      "checksum": {
+        "md5": "3a0e6abe23da073abb9709948b5645a8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30202,
+      "scope": {}
+    },
+    "r/robe-purple-centurion.jpg": {
+      "checksum": {
+        "md5": "59c4ccc92f14aea0b4f61947752d9796"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27928,
+      "scope": {}
+    },
+    "r/robe-purple-close.jpg": {
+      "checksum": {
+        "md5": "65df6f43cd776de513d88db80de7e258"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29281,
+      "scope": {}
+    },
+    "r/robe-scalet-close.jpg": {
+      "checksum": {
+        "md5": "4bf81ed4496791ee9ac3c38b625a25a3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21510,
+      "scope": {}
+    },
+    "r/robe-scarlet-detail.jpg": {
+      "checksum": {
+        "md5": "31f966951f15a4372666064edb404fd2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28280,
+      "scope": {}
+    },
+    "r/robe-scarlet.jpg": {
+      "checksum": {
+        "md5": "bedb88f85006d720e58cbc4b5f41e27a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24075,
+      "scope": {}
+    },
+    "r/rooster-close.jpg": {
+      "checksum": {
+        "md5": "c3889269c2a23ff2ec310aeaa5892e4b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26984,
+      "scope": {}
+    },
+    "r/rooster-golden-feathers.jpg": {
+      "checksum": {
+        "md5": "493ca619cfe24115421077f635f6fefc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27689,
+      "scope": {}
+    },
+    "r/rooster-held-wide.jpg": {
+      "checksum": {
+        "md5": "3d220b1803247009dc3573e053451dfb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41671,
+      "scope": {}
+    },
+    "s/sackcloth.jpg": {
+      "checksum": {
+        "md5": "fe8e0c7ba88e443df6c10d99a2c99186"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27983,
+      "scope": {}
+    },
+    "s/saddle-camel.jpg": {
+      "checksum": {
+        "md5": "18b14cb6c9bd969ce525a560542ad1c7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27879,
+      "scope": {}
+    },
+    "s/sandals-wide.jpg": {
+      "checksum": {
+        "md5": "c090f24b6e39f2c82abb4615effeb0bc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28948,
+      "scope": {}
+    },
+    "s/sandals.jpg": {
+      "checksum": {
+        "md5": "9faf55d80ed13bd7083817d49889134e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23551,
+      "scope": {}
+    },
+    "s/scorpion.jpg": {
+      "checksum": {
+        "md5": "19ed1d81100ed252585077b083056052"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25562,
+      "scope": {}
+    },
+    "s/scroll.jpg": {
+      "checksum": {
+        "md5": "e2c70eb8480c2e33b8c2cbd48de8f4c2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19547,
+      "scope": {}
+    },
+    "s/sea-galilee-north-shore.jpg": {
+      "checksum": {
+        "md5": "8b092358d2c5d49522e6a2f24fd88b41"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19441,
+      "scope": {}
+    },
+    "s/sea-galilee-western-shore.jpg": {
+      "checksum": {
+        "md5": "729d68987907a0a55ba10b3f6ad3a148"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22652,
+      "scope": {}
+    },
+    "s/sea-of-galilee.jpg": {
+      "checksum": {
+        "md5": "f5c333ce19f6403429ee3285fcd571a1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30564,
+      "scope": {}
+    },
+    "s/seal-wax-close.jpg": {
+      "checksum": {
+        "md5": "e7cd29b37d697b267706b4f544746e2e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11165,
+      "scope": {}
+    },
+    "s/seal-wax-view.jpg": {
+      "checksum": {
+        "md5": "cef2a202e5568b2590281058a01ad4e5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33295,
+      "scope": {}
+    },
+    "s/seal-wax.jpg": {
+      "checksum": {
+        "md5": "a294e8d50893e5312aaa760f0ed39126"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25594,
+      "scope": {}
+    },
+    "s/seed-coriander-close.jpg": {
+      "checksum": {
+        "md5": "d079f2fab9a9b1e42b0438f26807f5b8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 45697,
+      "scope": {}
+    },
+    "s/seed-coriander-dried.jpg": {
+      "checksum": {
+        "md5": "dca02b07f3cc2e77f14f1424c1365187"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34622,
+      "scope": {}
+    },
+    "s/seed-coriander-fresh.jpg": {
+      "checksum": {
+        "md5": "c01f63148fa367ef80173532596be6a0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25812,
+      "scope": {}
+    },
+    "s/seeds-detail.jpg": {
+      "checksum": {
+        "md5": "da76aedebb4ea1da6f7320fb610a60fb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37080,
+      "scope": {}
+    },
+    "s/seeds-wide.jpg": {
+      "checksum": {
+        "md5": "57bde40bad493ffcb5d8785b96e6543b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 44777,
+      "scope": {}
+    },
+    "s/sheep-black-close.jpg": {
+      "checksum": {
+        "md5": "c60cf54e57317495a6a571053823d75f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33191,
+      "scope": {}
+    },
+    "s/sheep-black-view.jpg": {
+      "checksum": {
+        "md5": "b0ff790deffbbf94b202cab0506e2722"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29694,
+      "scope": {}
+    },
+    "s/sheep-black.jpg": {
+      "checksum": {
+        "md5": "c1f1907a52908001ebebe7087bc5cb64"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15432,
+      "scope": {}
+    },
+    "s/sheep-close-up.jpg": {
+      "checksum": {
+        "md5": "c9c8f74bc1fbaf1fb901123674a2ae97"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41186,
+      "scope": {}
+    },
+    "s/sheep-feeding.jpg": {
+      "checksum": {
+        "md5": "a5592f178d36fd0ad6c703ccaaf124c4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39951,
+      "scope": {}
+    },
+    "s/sheep-goat-road.jpg": {
+      "checksum": {
+        "md5": "f9cb527eec565d55dce9c39cf5d342cc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35516,
+      "scope": {}
+    },
+    "s/sheep-goat-water.jpg": {
+      "checksum": {
+        "md5": "2fbaa43769766d5c3277662c49ee50b4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29065,
+      "scope": {}
+    },
+    "s/sheep-goat.jpg": {
+      "checksum": {
+        "md5": "0d41137aa02491633d3c525d6c3e3acb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 53366,
+      "scope": {}
+    },
+    "s/sheep-multicolored-one.jpg": {
+      "checksum": {
+        "md5": "844f8dd28502ce4343a89e68dcd52399"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31388,
+      "scope": {}
+    },
+    "s/sheep-multicolored-three.jpg": {
+      "checksum": {
+        "md5": "ba67aa28b6bff66aee91810f3d0f1aac"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39531,
+      "scope": {}
+    },
+    "s/sheep-multicolored-two.jpg": {
+      "checksum": {
+        "md5": "365f04f29d42e11d0014e19adfe4e6d8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25773,
+      "scope": {}
+    },
+    "s/sheep-shearing-after.jpg": {
+      "checksum": {
+        "md5": "0ec404812c79b197c9313b83f6d8f5e2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 53662,
+      "scope": {}
+    },
+    "s/sheep-shearing-before.jpg": {
+      "checksum": {
+        "md5": "678c1f2b9f53dff20266b1348a3e281e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 53488,
+      "scope": {}
+    },
+    "s/sheep-shearing-during.jpg": {
+      "checksum": {
+        "md5": "9f2dd5d4faca92d48eb0e9335d256cff"
+      },
+      "mimeType": "image/jpeg",
+      "size": 49057,
+      "scope": {}
+    },
+    "s/sheep-with-man.jpg": {
+      "checksum": {
+        "md5": "436a69c8c5175ad9728d9319406e0693"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39054,
+      "scope": {}
+    },
+    "s/sheep-wolf-close.jpg": {
+      "checksum": {
+        "md5": "9c92f14bbe3f285da6beae7c09283b9c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28743,
+      "scope": {}
+    },
+    "s/sheep-wolf-trotting.jpg": {
+      "checksum": {
+        "md5": "51c2eeb558d11d90bde4f140837a2b9c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30541,
+      "scope": {}
+    },
+    "s/sheep-wolf.jpg": {
+      "checksum": {
+        "md5": "64150c35aff29a289df972ee6f05c4bd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27443,
+      "scope": {}
+    },
+    "s/shellfish-indoor.jpg": {
+      "checksum": {
+        "md5": "3ad91ea1b03ff24613eccf781e5074e1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37626,
+      "scope": {}
+    },
+    "s/shellfish-market.jpg": {
+      "checksum": {
+        "md5": "0debf394a11c17bd8f8578324a496bf0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36698,
+      "scope": {}
+    },
+    "s/shellfish-plate.jpg": {
+      "checksum": {
+        "md5": "b4f168420ddb14b4cb78888ebb94ee2a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33001,
+      "scope": {}
+    },
+    "s/shelters.jpg": {
+      "checksum": {
+        "md5": "f1756f79cd32a57c735d872147bada3a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36774,
+      "scope": {}
+    },
+    "s/shepherd-view-one.jpg": {
+      "checksum": {
+        "md5": "38953cdfa55f28c4cccc430f1aa4d009"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36179,
+      "scope": {}
+    },
+    "s/shepherd-view-three.jpg": {
+      "checksum": {
+        "md5": "7a55b652041c65ac228b98becc571af7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36364,
+      "scope": {}
+    },
+    "s/shepherd-view-two.jpg": {
+      "checksum": {
+        "md5": "3c7d0104f329f70194a44aeb4d51824d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36557,
+      "scope": {}
+    },
+    "s/ship-figurehead-close.jpg": {
+      "checksum": {
+        "md5": "b705f7fe020afc978d46c5545bc43284"
+      },
+      "mimeType": "image/jpeg",
+      "size": 45980,
+      "scope": {}
+    },
+    "s/ship-figurehead-lion.jpg": {
+      "checksum": {
+        "md5": "b81008c256acd12fd14414a880f1cfba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31349,
+      "scope": {}
+    },
+    "s/ship-figurehead.jpg": {
+      "checksum": {
+        "md5": "d53a8479ca2f0bb33cbb9c063f990ea7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 52364,
+      "scope": {}
+    },
+    "s/shur-desert-camel.jpg": {
+      "checksum": {
+        "md5": "c37e5f564ae4aab9727ac6fba643c2c0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 8265,
+      "scope": {}
+    },
+    "s/shur-desert-sunset.jpg": {
+      "checksum": {
+        "md5": "ac37d062f240f487fd1fa96e1f82c0fb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 7877,
+      "scope": {}
+    },
+    "s/shur-desert.jpg": {
+      "checksum": {
+        "md5": "277680b88acd92c98d57a03223cd220a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13762,
+      "scope": {}
+    },
+    "s/sickle-blade.jpg": {
+      "checksum": {
+        "md5": "8caf0cadad4dbf73e4ea3a4cb81f3cc1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18297,
+      "scope": {}
+    },
+    "s/sickle-close.jpg": {
+      "checksum": {
+        "md5": "a4b959ce180c0550f944e362b35f5397"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35750,
+      "scope": {}
+    },
+    "s/sickle-wide.jpg": {
+      "checksum": {
+        "md5": "f09a2147aca04a725f3f083c6c912906"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36929,
+      "scope": {}
+    },
+    "s/sickle-zoom-view.jpg": {
+      "checksum": {
+        "md5": "92026d882e7bfe367f38ce912e7f0c7e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30247,
+      "scope": {}
+    },
+    "s/sinai-aerial-view.jpg": {
+      "checksum": {
+        "md5": "2203a1d73dbe98e8de978407fc0d413c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36000,
+      "scope": {}
+    },
+    "s/sinai-ground-view.jpg": {
+      "checksum": {
+        "md5": "a003462ef53a00d091819c16f63675f3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22126,
+      "scope": {}
+    },
+    "s/sinai-sun.jpg": {
+      "checksum": {
+        "md5": "d3d5cf4a497feefd086e9daa34adb8ba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24003,
+      "scope": {}
+    },
+    "s/sleeping-lion.jpg": {
+      "checksum": {
+        "md5": "15d0828ed341f4c13921c55e362d9fb6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35220,
+      "scope": {}
+    },
+    "s/sleeping-mat-lying.jpg": {
+      "checksum": {
+        "md5": "a66f32e28abb535b8514e7db21361017"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38662,
+      "scope": {}
+    },
+    "s/sleeping-mat.jpg": {
+      "checksum": {
+        "md5": "81cf877c27928f9a1cbe04f021b248f5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23702,
+      "scope": {}
+    },
+    "s/snake-mid.jpg": {
+      "checksum": {
+        "md5": "e38c28a9cd154ccdf15fc7d7076c5dad"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32433,
+      "scope": {}
+    },
+    "s/snake-wide.jpg": {
+      "checksum": {
+        "md5": "1aea564f7c93f55eb7b2ec9da4553729"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34263,
+      "scope": {}
+    },
+    "s/snake.jpg": {
+      "checksum": {
+        "md5": "773977efe9513e7a1d3b8a305493028f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38083,
+      "scope": {}
+    },
+    "s/snow-close.jpg": {
+      "checksum": {
+        "md5": "87a665c9941c06cac8d773de11e81c71"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14827,
+      "scope": {}
+    },
+    "s/snow-in-hands.jpg": {
+      "checksum": {
+        "md5": "efa44a4e079225ad8f9bce37b7185120"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21618,
+      "scope": {}
+    },
+    "s/snow-wide-view.jpg": {
+      "checksum": {
+        "md5": "7f13436fcf4d81c74aa5973f13b8a4ec"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34183,
+      "scope": {}
+    },
+    "s/soot-covered.jpg": {
+      "checksum": {
+        "md5": "15e429c5ce2ffff69939cf7ace15779b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 21457,
+      "scope": {}
+    },
+    "s/sourdough-bread-close.jpg": {
+      "checksum": {
+        "md5": "c9384b2a9390121c85950bf2b9bff2ed"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30185,
+      "scope": {}
+    },
+    "s/sower-close.jpg": {
+      "checksum": {
+        "md5": "f23a17390dac607ff2e7277253399ef2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27393,
+      "scope": {}
+    },
+    "s/sower-full.jpg": {
+      "checksum": {
+        "md5": "2cd130564e527cf6e42cc15af786129e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42830,
+      "scope": {}
+    },
+    "s/sowers-bag-close.jpg": {
+      "checksum": {
+        "md5": "f3cc4cf1323c4784c20bfb2efae90b66"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23741,
+      "scope": {}
+    },
+    "s/sowers-bag-full.jpg": {
+      "checksum": {
+        "md5": "55bc5edda461a08afa46b5213d563fd0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32166,
+      "scope": {}
+    },
+    "s/spear-close.jpg": {
+      "checksum": {
+        "md5": "847721e095e8d076e0a2ec93e88bee35"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23410,
+      "scope": {}
+    },
+    "s/spear-detail.jpg": {
+      "checksum": {
+        "md5": "ec1038801c30f17917811e604aa1998d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15954,
+      "scope": {}
+    },
+    "s/spear.jpg": {
+      "checksum": {
+        "md5": "b5e88956423ca3d6a7e064004f2dcfa1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26154,
+      "scope": {}
+    },
+    "s/spices-close.jpg": {
+      "checksum": {
+        "md5": "fc0e6ecb4e10df69e498911f0aec1204"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43152,
+      "scope": {}
+    },
+    "s/spices-multiple.jpg": {
+      "checksum": {
+        "md5": "1704f46e47651b4452c44db29556cc63"
+      },
+      "mimeType": "image/jpeg",
+      "size": 49448,
+      "scope": {}
+    },
+    "s/sponge-stick.jpg": {
+      "checksum": {
+        "md5": "43e7fb33d64b074cbeece399419a3dfa"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22730,
+      "scope": {}
+    },
+    "s/spring-bubbling.jpg": {
+      "checksum": {
+        "md5": "176802a31f1c43b5cd825a94b841bfba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28253,
+      "scope": {}
+    },
+    "s/spring-flowers.jpg": {
+      "checksum": {
+        "md5": "b864bf10f123f822b4fc9e56a5ff124b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41406,
+      "scope": {}
+    },
+    "s/spring.jpg": {
+      "checksum": {
+        "md5": "3a09630dc5e20a6ead29367cfc40f049"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31791,
+      "scope": {}
+    },
+    "s/staff.jpg": {
+      "checksum": {
+        "md5": "e39117f65253fc8ed10106ea4510fb27"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37619,
+      "scope": {}
+    },
+    "s/stages-wheat-growth.jpg": {
+      "checksum": {
+        "md5": "7004e859adeb8cfb76fc28cb4aea88f2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19113,
+      "scope": {}
+    },
+    "s/stew-holding-wide.jpg": {
+      "checksum": {
+        "md5": "4ea284d44463c7ae5e14f773bf90d4de"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27575,
+      "scope": {}
+    },
+    "s/stick-detail.jpg": {
+      "checksum": {
+        "md5": "a668bbc47070f8cf4918e63d7ea4e583"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37597,
+      "scope": {}
+    },
+    "s/stick-wide.jpg": {
+      "checksum": {
+        "md5": "a1ddb620852306e72de012689d9592ad"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35152,
+      "scope": {}
+    },
+    "s/stone-altar.jpg": {
+      "checksum": {
+        "md5": "8c40ff525e364880100e6f35f2eb9fa2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42632,
+      "scope": {}
+    },
+    "s/stone-foundation-view.jpg": {
+      "checksum": {
+        "md5": "90843ec65be34317c57a4ee04a8828b0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 44322,
+      "scope": {}
+    },
+    "s/stone-foundation-visual.jpg": {
+      "checksum": {
+        "md5": "23e26234a2f993c315e3bcd5ca88deb4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36331,
+      "scope": {}
+    },
+    "s/stone-foundation.jpg": {
+      "checksum": {
+        "md5": "47a207429670b6fcef897cc05d1b3d52"
+      },
+      "mimeType": "image/jpeg",
+      "size": 39132,
+      "scope": {}
+    },
+    "s/stone-temple.jpg": {
+      "checksum": {
+        "md5": "24e165ca557635a7fd981e52cb61f488"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24742,
+      "scope": {}
+    },
+    "s/storm-sea-galilee.jpg": {
+      "checksum": {
+        "md5": "6aa1a5a4865dc595dec1bb0d88797783"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15346,
+      "scope": {}
+    },
+    "s/strips-linen-cloth.jpg": {
+      "checksum": {
+        "md5": "741d64c63e574c9a513487c2b34f9709"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38210,
+      "scope": {}
+    },
+    "s/sulphur-view.jpg": {
+      "checksum": {
+        "md5": "9bece452c2f522d67fdde91fa0c6008d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22856,
+      "scope": {}
+    },
+    "s/sulphur.jpg": {
+      "checksum": {
+        "md5": "230e514a2b8a605e18948a08cf9e436d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28366,
+      "scope": {}
+    },
+    "s/sword-action.jpg": {
+      "checksum": {
+        "md5": "a0e64bd1429c132268f4eabce76667c3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29098,
+      "scope": {}
+    },
+    "s/sword-close.jpg": {
+      "checksum": {
+        "md5": "25d0078024a80d5f93c3522608fa630e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18502,
+      "scope": {}
+    },
+    "s/sword-full.jpg": {
+      "checksum": {
+        "md5": "89266d9e24e128d5b6ec74980f4227d7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36858,
+      "scope": {}
+    },
+    "s/synagogue-inside-front.jpg": {
+      "checksum": {
+        "md5": "22d0f773d229ccc9465753a5b9b59dac"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20088,
+      "scope": {}
+    },
+    "s/synagogue-inside-side.jpg": {
+      "checksum": {
+        "md5": "f6757d0eeb9d277f0043aca7d2db5181"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19681,
+      "scope": {}
+    },
+    "s/synagogue-outside.jpg": {
+      "checksum": {
+        "md5": "bc12aed79b885628bbcdbda4bf6bedb5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35423,
+      "scope": {}
+    },
+    "t/tabernacle-entrance.jpg": {
+      "checksum": {
+        "md5": "57f2c6d45ce72bf374f7543168965ac8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26304,
+      "scope": {}
+    },
+    "t/tabernacle.jpg": {
+      "checksum": {
+        "md5": "154c53c0d570f9ae436dd17dfac82cbe"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26356,
+      "scope": {}
+    },
+    "t/tambourine.jpg": {
+      "checksum": {
+        "md5": "ed3a43a1031d1eb2ac3d4dc91ee02d20"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31105,
+      "scope": {}
+    },
+    "t/tanned-skin.jpg": {
+      "checksum": {
+        "md5": "6207249fa83035635e405d9f1c749a6e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19751,
+      "scope": {}
+    },
+    "t/tar-pit-close.jpg": {
+      "checksum": {
+        "md5": "ef66556a1167b6b21d1a28cb4b3d718c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 58574,
+      "scope": {}
+    },
+    "t/tar-pit-medium.jpg": {
+      "checksum": {
+        "md5": "67306b731aee68d383b0118f8e78cc2b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31074,
+      "scope": {}
+    },
+    "t/tar-pit-wide.jpg": {
+      "checksum": {
+        "md5": "10a9848819a0510a4e9f7e512acd1e2e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 45494,
+      "scope": {}
+    },
+    "t/temple-artemis-front.jpg": {
+      "checksum": {
+        "md5": "a8319ae1547fded9f44bdf790fa668fd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25946,
+      "scope": {}
+    },
+    "t/temple-artemis-side.jpg": {
+      "checksum": {
+        "md5": "f301111d10cc533db20455940786f1da"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28687,
+      "scope": {}
+    },
+    "t/temple-collection-box.jpg": {
+      "checksum": {
+        "md5": "3f67feb9529e635198501f14b6032740"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18620,
+      "scope": {}
+    },
+    "t/temple-herod-curtain.jpg": {
+      "checksum": {
+        "md5": "41c8ddd989ede6e9451e87ecffd7cc45"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15731,
+      "scope": {}
+    },
+    "t/temple-herod-curtains.jpg": {
+      "checksum": {
+        "md5": "7dc28692f127bc65ceb3afc1bda15960"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18572,
+      "scope": {}
+    },
+    "t/temple-herod.jpg": {
+      "checksum": {
+        "md5": "75653ffff4047ea9aa8238b91d6468c7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20958,
+      "scope": {}
+    },
+    "t/temple-herods-courtyard.jpg": {
+      "checksum": {
+        "md5": "033036ff082d6732f97f7df8dca74d02"
+      },
+      "mimeType": "image/jpeg",
+      "size": 11997,
+      "scope": {}
+    },
+    "t/temple-herods.jpg": {
+      "checksum": {
+        "md5": "fecca036b962e6aef50f7b31093d1e5f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27802,
+      "scope": {}
+    },
+    "t/temple-mount-of-olives.jpg": {
+      "checksum": {
+        "md5": "1cb690152d91dd3ac6ffe1c80cb49727"
+      },
+      "mimeType": "image/jpeg",
+      "size": 29959,
+      "scope": {}
+    },
+    "t/tent-close.jpg": {
+      "checksum": {
+        "md5": "e50127a8485827eeb22d0db6cd5927f9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23292,
+      "scope": {}
+    },
+    "t/tent-ultra-wide.jpg": {
+      "checksum": {
+        "md5": "5e31b4cfef22515fc3f66ebea2d081a0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14710,
+      "scope": {}
+    },
+    "t/tent-wide.jpg": {
+      "checksum": {
+        "md5": "ea8fa455a62a3985f6dcd08225d2788c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22057,
+      "scope": {}
+    },
+    "t/the-skull-1850.jpg": {
+      "checksum": {
+        "md5": "03e2e45e5a5bfac8dbf2ea5c3bf06c33"
+      },
+      "mimeType": "image/jpeg",
+      "size": 35011,
+      "scope": {}
+    },
+    "t/the-skull-1901.jpg": {
+      "checksum": {
+        "md5": "eed687f0cad0ff1b4fecbe90b4f215b5"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26723,
+      "scope": {}
+    },
+    "t/the-skull.jpg": {
+      "checksum": {
+        "md5": "e58d9b009553b904c0be81f5254336b4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43136,
+      "scope": {}
+    },
+    "t/theatre-ceaserea-side.jpg": {
+      "checksum": {
+        "md5": "19f26fd770f9944d1a50230d307ad156"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25028,
+      "scope": {}
+    },
+    "t/theatre-ceaserea.jpg": {
+      "checksum": {
+        "md5": "caf372cd87f2c42d635b1f69ab37767b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 12118,
+      "scope": {}
+    },
+    "t/thistles-view.jpg": {
+      "checksum": {
+        "md5": "202cd58576a656121b4bd6f4a4c2ed6a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 13742,
+      "scope": {}
+    },
+    "t/thistles-views.jpg": {
+      "checksum": {
+        "md5": "a2a3670bc639e2178d3422652dfefd35"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16504,
+      "scope": {}
+    },
+    "t/thistles.jpg": {
+      "checksum": {
+        "md5": "029f80e92ab0298bb0cfa394e0c45a80"
+      },
+      "mimeType": "image/jpeg",
+      "size": 50638,
+      "scope": {}
+    },
+    "t/thorny-plant-full.jpg": {
+      "checksum": {
+        "md5": "59362a248af85c514135d35efc092a2b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 15094,
+      "scope": {}
+    },
+    "t/thorny-plant.jpg": {
+      "checksum": {
+        "md5": "8ab7bd22c7c45309f27b1011f58d4ec6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34735,
+      "scope": {}
+    },
+    "t/three-level-house.jpg": {
+      "checksum": {
+        "md5": "7315c0f106f463e2719b17fd86dbc6c4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27419,
+      "scope": {}
+    },
+    "t/threshing-floor.jpg": {
+      "checksum": {
+        "md5": "44d370a29c4853a46949d44342c3364f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43808,
+      "scope": {}
+    },
+    "t/toll-booth.jpg": {
+      "checksum": {
+        "md5": "a698c625931f99a8d18f6bbde3564d11"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30258,
+      "scope": {}
+    },
+    "t/tombs.jpg": {
+      "checksum": {
+        "md5": "242ea578d4a7232beea59f83bb557cba"
+      },
+      "mimeType": "image/jpeg",
+      "size": 46817,
+      "scope": {}
+    },
+    "t/torch.jpg": {
+      "checksum": {
+        "md5": "393d1c78aca2083a9476f29babe54aa3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 6891,
+      "scope": {}
+    },
+    "t/tower-herods-temple.jpg": {
+      "checksum": {
+        "md5": "c22f4326e2d74b19e1d7dccc2a8cc380"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19665,
+      "scope": {}
+    },
+    "t/town-gate-wide.jpg": {
+      "checksum": {
+        "md5": "bcb0ed4d6c3d5353bdb3f56d5695d721"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27690,
+      "scope": {}
+    },
+    "t/travellers-bag-close.jpg": {
+      "checksum": {
+        "md5": "6e4ea8d2889be3b8e4d92178bfbb2139"
+      },
+      "mimeType": "image/jpeg",
+      "size": 19745,
+      "scope": {}
+    },
+    "t/travellers-bag-holding.jpg": {
+      "checksum": {
+        "md5": "0bac21c35b0c84b1460c923e5cc8c26f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30481,
+      "scope": {}
+    },
+    "t/tree-carob.jpg": {
+      "checksum": {
+        "md5": "19ce40889aaebc82c165648f23b11349"
+      },
+      "mimeType": "image/jpeg",
+      "size": 50774,
+      "scope": {}
+    },
+    "t/tree-fig-fruitless.jpg": {
+      "checksum": {
+        "md5": "466d2a08aaf7f0d7ba8d286d8e6f7675"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23663,
+      "scope": {}
+    },
+    "t/tree-fig-leaves.jpg": {
+      "checksum": {
+        "md5": "10b32637e0791eab3d9675fcb0d19981"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37291,
+      "scope": {}
+    },
+    "t/tree-mulberry-fruit.jpg": {
+      "checksum": {
+        "md5": "802db5cd6498879a0231da734fd8d101"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20923,
+      "scope": {}
+    },
+    "t/tree-mulberry-green.jpg": {
+      "checksum": {
+        "md5": "7df9c0b57f4a90a8598843539df0eba8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 56253,
+      "scope": {}
+    },
+    "t/tree-mulberry.jpg": {
+      "checksum": {
+        "md5": "044129df603ced137867045ec7226305"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42254,
+      "scope": {}
+    },
+    "t/tree-mustard.jpg": {
+      "checksum": {
+        "md5": "159851c0c5f1cd2516adf257017bcecf"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26781,
+      "scope": {}
+    },
+    "t/tree-resin-close.jpg": {
+      "checksum": {
+        "md5": "43463a66b47f05d3d64c3019b731ddf2"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24410,
+      "scope": {}
+    },
+    "t/tree-resin-medium.jpg": {
+      "checksum": {
+        "md5": "8b5f83596894dd4327d451b4bfea4c8e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 34328,
+      "scope": {}
+    },
+    "t/tree-sycamore.jpg": {
+      "checksum": {
+        "md5": "beba9840865b0938a43314478618c53b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27138,
+      "scope": {}
+    },
+    "t/tree-tamarisk-close.jpg": {
+      "checksum": {
+        "md5": "05eb94bd5a9552ebdc80eedc349d1487"
+      },
+      "mimeType": "image/jpeg",
+      "size": 14365,
+      "scope": {}
+    },
+    "t/tree-tamarisk.jpg": {
+      "checksum": {
+        "md5": "79ca768fb2fc82e4b12fc866e8de8a65"
+      },
+      "mimeType": "image/jpeg",
+      "size": 41621,
+      "scope": {}
+    },
+    "t/tunic-full.jpg": {
+      "checksum": {
+        "md5": "08110c64bd5ded9771a5d22e05f9fccd"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31932,
+      "scope": {}
+    },
+    "t/tunic.jpg": {
+      "checksum": {
+        "md5": "351bf76b7d7d7f7729014c58bbe081bb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 28855,
+      "scope": {}
+    },
+    "u/unleavened-bread-wide.jpg": {
+      "checksum": {
+        "md5": "fc910cfd6465e7ce30136be5795b7878"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40027,
+      "scope": {}
+    },
+    "u/unleavened-bread.jpg": {
+      "checksum": {
+        "md5": "2d272162e3b83add45a94d85e6cecf01"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25609,
+      "scope": {}
+    },
+    "u/upper-room-model.jpg": {
+      "checksum": {
+        "md5": "6d7510b27fa77cbf0bb444fa6273565d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9450,
+      "scope": {}
+    },
+    "u/upper-room-wide.jpg": {
+      "checksum": {
+        "md5": "46a97aa5d58f8bf5549fecfc9f0e6989"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25040,
+      "scope": {}
+    },
+    "u/upper-room.jpg": {
+      "checksum": {
+        "md5": "82740df4cb0a07acdc4c6dd7ee914c24"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26517,
+      "scope": {}
+    },
+    "v/vineyard-watchtower-above.jpg": {
+      "checksum": {
+        "md5": "7e7a40ed1f28dc33bf234bf3115db2bb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40610,
+      "scope": {}
+    },
+    "v/vineyard-watchtower.jpg": {
+      "checksum": {
+        "md5": "e13c4e30c74526ba6287a7225b81b152"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38614,
+      "scope": {}
+    },
+    "v/vineyard.jpg": {
+      "checksum": {
+        "md5": "8e52ed1a26e99063bfba939b10e37ac6"
+      },
+      "mimeType": "image/jpeg",
+      "size": 38852,
+      "scope": {}
+    },
+    "w/wall-around-vineyard.jpg": {
+      "checksum": {
+        "md5": "856cb4f893516448995dec2a01aabbe7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 56125,
+      "scope": {}
+    },
+    "w/washing-feet-close.jpg": {
+      "checksum": {
+        "md5": "51eb4a74d30889ed1ac8cb55ee9a8dbc"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20393,
+      "scope": {}
+    },
+    "w/washing-feet-view.jpg": {
+      "checksum": {
+        "md5": "e34e801e717a0f178aa83a6374732f64"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25536,
+      "scope": {}
+    },
+    "w/washing-feet.jpg": {
+      "checksum": {
+        "md5": "48b0d7a3e4406bf6ab8ae236b1308587"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37086,
+      "scope": {}
+    },
+    "w/water-ground-close.jpg": {
+      "checksum": {
+        "md5": "44557334d1e538430e31f48bbc0e0242"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36512,
+      "scope": {}
+    },
+    "w/water-ground-view.jpg": {
+      "checksum": {
+        "md5": "cb09060f0b76d31a5c32a30acf995c1f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36467,
+      "scope": {}
+    },
+    "w/water-ground.jpg": {
+      "checksum": {
+        "md5": "cd3c96d6eae761d546b68ca13d83cd1a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 24844,
+      "scope": {}
+    },
+    "w/water-jar.jpg": {
+      "checksum": {
+        "md5": "bc30cdbeacc4eca49bcb3bf5c2d05dda"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9750,
+      "scope": {}
+    },
+    "w/water-jars.jpg": {
+      "checksum": {
+        "md5": "49a6f257a6020b21058ee83cf5ea3e2a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32203,
+      "scope": {}
+    },
+    "w/well-close-up.jpg": {
+      "checksum": {
+        "md5": "388e7b3470454c0440f11e20a4cffe78"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27674,
+      "scope": {}
+    },
+    "w/well-far.jpg": {
+      "checksum": {
+        "md5": "5e7c383ab5b30e2e77deccfbc3da73d4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25465,
+      "scope": {}
+    },
+    "w/well-near.jpg": {
+      "checksum": {
+        "md5": "10ccf6307244e8b3f77f59ac13bb0e67"
+      },
+      "mimeType": "image/jpeg",
+      "size": 22379,
+      "scope": {}
+    },
+    "w/wheat-chaff-field.jpg": {
+      "checksum": {
+        "md5": "a78a97e1f6bde0ca56bffdcc5f7671a8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25879,
+      "scope": {}
+    },
+    "w/wheat-chaff-winnowing.jpg": {
+      "checksum": {
+        "md5": "e7c7567f62a478b5a64e32a914ad1c91"
+      },
+      "mimeType": "image/jpeg",
+      "size": 26448,
+      "scope": {}
+    },
+    "w/wheat-chaff.jpg": {
+      "checksum": {
+        "md5": "fe63ed35577612418baba60738d2d3aa"
+      },
+      "mimeType": "image/jpeg",
+      "size": 25651,
+      "scope": {}
+    },
+    "w/wheat-grain-heads.jpg": {
+      "checksum": {
+        "md5": "6e5ece5f696f6e4533599cb9daa0ea95"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32376,
+      "scope": {}
+    },
+    "w/wheat-heads-close.jpg": {
+      "checksum": {
+        "md5": "947957c1e63386492a8a6cfae54e36c0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33403,
+      "scope": {}
+    },
+    "w/wheat-ready-harvest.jpg": {
+      "checksum": {
+        "md5": "600f427be9947522a005000333b1623f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 27867,
+      "scope": {}
+    },
+    "w/wheat-sheaves-close.jpg": {
+      "checksum": {
+        "md5": "8931f3def76d9e9b5d44e2faec67b62a"
+      },
+      "mimeType": "image/jpeg",
+      "size": 60838,
+      "scope": {}
+    },
+    "w/wheat-sheaves-mid.jpg": {
+      "checksum": {
+        "md5": "04e0944b8c03f39b2682d33c610026d7"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36515,
+      "scope": {}
+    },
+    "w/wheat-sheaves-wide.jpg": {
+      "checksum": {
+        "md5": "6679f356421abbcb996c07f5e76a8037"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37871,
+      "scope": {}
+    },
+    "w/whip-bone.jpg": {
+      "checksum": {
+        "md5": "3a57e8d199c01bcf69e36d2dffbdb6c1"
+      },
+      "mimeType": "image/jpeg",
+      "size": 20303,
+      "scope": {}
+    },
+    "w/whip-lead-tipped.jpg": {
+      "checksum": {
+        "md5": "df6389bb417d280687f22b8eec0cb9b8"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23320,
+      "scope": {}
+    },
+    "w/white-robe.jpg": {
+      "checksum": {
+        "md5": "fb13b5e875e9042790f035790cb6fdfb"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18415,
+      "scope": {}
+    },
+    "w/wilderness.jpg": {
+      "checksum": {
+        "md5": "29c0d3684964958f05ee39aa2a1cc02d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18480,
+      "scope": {}
+    },
+    "w/wine.jpg": {
+      "checksum": {
+        "md5": "4bed38eef9e314aed85069e77dde0862"
+      },
+      "mimeType": "image/jpeg",
+      "size": 43597,
+      "scope": {}
+    },
+    "w/winepress.jpg": {
+      "checksum": {
+        "md5": "a4f57f31bf00173170752911243b9a3c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 23585,
+      "scope": {}
+    },
+    "w/wineskin.jpg": {
+      "checksum": {
+        "md5": "24cf0c9b86aacfd9eb8ef021056b0bea"
+      },
+      "mimeType": "image/jpeg",
+      "size": 40258,
+      "scope": {}
+    },
+    "w/winnowing-fork.jpg": {
+      "checksum": {
+        "md5": "01421a47ac1fd3c8c8c28fdc306d2980"
+      },
+      "mimeType": "image/jpeg",
+      "size": 31042,
+      "scope": {}
+    },
+    "w/wolf.jpg": {
+      "checksum": {
+        "md5": "19ce40889aaebc82c165648f23b11349"
+      },
+      "mimeType": "image/jpeg",
+      "size": 50774,
+      "scope": {}
+    },
+    "w/workmans-apron-neck.jpg": {
+      "checksum": {
+        "md5": "6c74129951c9e8a4e56b4c8ec89e8b42"
+      },
+      "mimeType": "image/jpeg",
+      "size": 16908,
+      "scope": {}
+    },
+    "w/workmans-apron-wearing.jpg": {
+      "checksum": {
+        "md5": "336f885fbf56ebd1aa668cb87b64db4c"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30375,
+      "scope": {}
+    },
+    "w/workmans-apron.jpg": {
+      "checksum": {
+        "md5": "c3ada4a918282446e285fdc8074aaf28"
+      },
+      "mimeType": "image/jpeg",
+      "size": 30878,
+      "scope": {}
+    },
+    "w/wrapped-corpse.jpg": {
+      "checksum": {
+        "md5": "3bf3c728302f331830dfc44cbf23266b"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9687,
+      "scope": {}
+    },
+    "w/wrestling-view.jpg": {
+      "checksum": {
+        "md5": "8c33e55c33e75ed12c1b33b44726e6d0"
+      },
+      "mimeType": "image/jpeg",
+      "size": 42821,
+      "scope": {}
+    },
+    "w/wrestling.jpg": {
+      "checksum": {
+        "md5": "6100a3ace716e53fbffd618410e79430"
+      },
+      "mimeType": "image/jpeg",
+      "size": 44134,
+      "scope": {}
+    },
+    "w/writing-tablet.jpg": {
+      "checksum": {
+        "md5": "7b42d8e6cb52c2a6ee8a555bdc84ee2f"
+      },
+      "mimeType": "image/jpeg",
+      "size": 36538,
+      "scope": {}
+    },
+    "y/yoghurt-detail.jpg": {
+      "checksum": {
+        "md5": "1d7aa38a9b9fd1af763330617fb4f3d4"
+      },
+      "mimeType": "image/jpeg",
+      "size": 18067,
+      "scope": {}
+    },
+    "y/yoghurt-medium.jpg": {
+      "checksum": {
+        "md5": "291efa2a6a48af53d646878fa2c6674e"
+      },
+      "mimeType": "image/jpeg",
+      "size": 37983,
+      "scope": {}
+    },
+    "y/yoghurt-wide.jpg": {
+      "checksum": {
+        "md5": "b3d0570a3176e64a304981b0be77941d"
+      },
+      "mimeType": "image/jpeg",
+      "size": 44077,
+      "scope": {}
+    },
+    "y/yogurt.jpg": {
+      "checksum": {
+        "md5": "5dc096297a69537b4ec58fe397db71a3"
+      },
+      "mimeType": "image/jpeg",
+      "size": 9459,
+      "scope": {}
+    },
+    "y/yoke-close-up.jpg": {
+      "checksum": {
+        "md5": "959ebc7cf1bafd657b8b9adb9d0484ad"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33966,
+      "scope": {}
+    },
+    "y/yoke.jpg": {
+      "checksum": {
+        "md5": "cfcc83a2663285fafc83a9b5092444f9"
+      },
+      "mimeType": "image/jpeg",
+      "size": 32112,
+      "scope": {}
+    },
+    "y/young-donkey.jpg": {
+      "checksum": {
+        "md5": "cee0995fdf904512d93c78895d7e8759"
+      },
+      "mimeType": "image/jpeg",
+      "size": 33880,
+      "scope": {}
+    }
+  }
+}
