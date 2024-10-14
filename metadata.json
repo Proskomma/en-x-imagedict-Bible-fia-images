@@ -77,6 +77,14 @@
       "size": 1309,
       "scope": {}
     },
+    "relation.txt": {
+      "checksum": {
+        "md5": "ac03f4312e4e6af3a740d3734ae407cf"
+      },
+      "mimeType": "text/plain",
+      "size": 35,
+      "scope": {}
+    },
     "a/adult-donkey-front.jpg": {
       "checksum": {
         "md5": "301ad1f0af687b336c7689d058f0ddd2"
