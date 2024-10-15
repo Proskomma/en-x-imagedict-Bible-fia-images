@@ -67,7 +67,3723 @@
       }
     ]
   },
-  "localizedNames": {},
+  "localizedNames": {
+    "mustard-seed-establish": {
+      "short": {
+        "en": "Mustard Seed"
+      }
+    },
+    "road-jericho": {
+      "short": {
+        "en": "Jericho Road"
+      }
+    },
+    "ship-figurehead": {
+      "short": {
+        "en": "Figurehead of a Ship"
+      }
+    },
+    "gazelle-close-up": {
+      "short": {
+        "en": "Gazelle"
+      }
+    },
+    "synagogue-inside-front": {
+      "short": {
+        "en": "Synagogue"
+      }
+    },
+    "bird-nest-close": {
+      "short": {
+        "en": "Bird Nest"
+      }
+    },
+    "kneading-yeast-stir": {
+      "short": {
+        "en": "Kneeding Yeast into Dough"
+      }
+    },
+    "diamond-moonstone-emerald": {
+      "short": {
+        "en": "Diamond, Moonstone and Emerald"
+      }
+    },
+    "animal-trap": {
+      "short": {
+        "en": "Animal Trap"
+      }
+    },
+    "winepress": {
+      "short": {
+        "en": "Winepress"
+      }
+    },
+    "tar-pit-wide": {
+      "short": {
+        "en": "Tar Pit"
+      }
+    },
+    "synagogue-inside-side": {
+      "short": {
+        "en": "Synagogue"
+      }
+    },
+    "man-plowing-field": {
+      "short": {
+        "en": "Plowing a Field"
+      }
+    },
+    "horn-ram-close": {
+      "short": {
+        "en": "Ram's Horn"
+      }
+    },
+    "seed-coriander-dried": {
+      "short": {
+        "en": "Coriander Seed"
+      }
+    },
+    "garden-tomb": {
+      "short": {
+        "en": "Garden Tomb"
+      }
+    },
+    "basket-bushel-wide": {
+      "short": {
+        "en": "Basket as a Bushel"
+      }
+    },
+    "seed-coriander-fresh": {
+      "short": {
+        "en": "Coriander Seed"
+      }
+    },
+    "mount-hebron-view": {
+      "short": {
+        "en": "Mount Hebron"
+      }
+    },
+    "millstone-medium-closeup": {
+      "short": {
+        "en": "Millstone"
+      }
+    },
+    "chains-wide": {
+      "short": {
+        "en": "Chains"
+      }
+    },
+    "fox-fennec-holding": {
+      "short": {
+        "en": "Fox"
+      }
+    },
+    "horn-ram": {
+      "short": {
+        "en": "Ram's Horn"
+      }
+    },
+    "mount-sinai-above": {
+      "short": {
+        "en": "Mount Sinai"
+      }
+    },
+    "antioch-modern-elevated": {
+      "short": {
+        "en": "Modern Antioch"
+      }
+    },
+    "tree-fig-fruitless": {
+      "short": {
+        "en": "Fig Tree with No Leaves"
+      }
+    },
+    "bitter-herbs": {
+      "short": {
+        "en": "Bitter herbs"
+      }
+    },
+    "tree-mustard": {
+      "short": {
+        "en": "Mustard Plant/Tree"
+      }
+    },
+    "wheat-chaff-field": {
+      "short": {
+        "en": "Wheat and Chaff"
+      }
+    },
+    "sower-close": {
+      "short": {
+        "en": "Sower"
+      }
+    },
+    "manatee-below": {
+      "short": {
+        "en": "Manatee"
+      }
+    },
+    "cooked-fish": {
+      "short": {
+        "en": "Cooked Fish"
+      }
+    },
+    "antioch-modern-bridge": {
+      "short": {
+        "en": "Modern Antioch"
+      }
+    },
+    "animal-trap-outdoor": {
+      "short": {
+        "en": "Animal Trap"
+      }
+    },
+    "capernaum-synagogue": {
+      "short": {
+        "en": "Capernaum Synagogue"
+      }
+    },
+    "diamonds-moonstone-emerald": {
+      "short": {
+        "en": "Diamond, Moonstone and Emerald"
+      }
+    },
+    "white-robe": {
+      "short": {
+        "en": "White Robe"
+      }
+    },
+    "frog-tropical": {
+      "short": {
+        "en": "Frog"
+      }
+    },
+    "plant-frankincense-sap": {
+      "short": {
+        "en": "Frankincense Plant"
+      }
+    },
+    "roasted-lamb-wide": {
+      "short": {
+        "en": "Roasted lamb"
+      }
+    },
+    "roasted-lamb-action": {
+      "short": {
+        "en": "Roasted lamb"
+      }
+    },
+    "ship-figurehead-lion": {
+      "short": {
+        "en": "Figurehead of a Ship"
+      }
+    },
+    "nard-plant-medium": {
+      "short": {
+        "en": "Nard Plant"
+      }
+    },
+    "stick-wide": {
+      "short": {
+        "en": "Stick"
+      }
+    },
+    "plant-flax-close": {
+      "short": {
+        "en": "Flax Plant"
+      }
+    },
+    "manger-close": {
+      "short": {
+        "en": "Manger"
+      }
+    },
+    "onyx-carnelian-pink": {
+      "short": {
+        "en": "Onyx and Carnelian"
+      }
+    },
+    "sickle-close": {
+      "short": {
+        "en": "Sickle"
+      }
+    },
+    "road-jericho-elevated": {
+      "short": {
+        "en": "Jericho Road"
+      }
+    },
+    "hail-falling-action": {
+      "short": {
+        "en": "Hail Falling"
+      }
+    },
+    "mustard-seed-close": {
+      "short": {
+        "en": "Mustard Seed"
+      }
+    },
+    "sinai-sun": {
+      "short": {
+        "en": "Sinai"
+      }
+    },
+    "winnowing-fork": {
+      "short": {
+        "en": "Winnowing Fork"
+      }
+    },
+    "onyx-full": {
+      "short": {
+        "en": "Onyx Stones"
+      }
+    },
+    "mount-tabor": {
+      "short": {
+        "en": "Mount Tabor"
+      }
+    },
+    "denarii-close": {
+      "short": {
+        "en": "Denarii"
+      }
+    },
+    "edge-of-cloak-tassels": {
+      "short": {
+        "en": "Edge of Cloak with Tassels"
+      }
+    },
+    "roasted-lamb-close": {
+      "short": {
+        "en": "Roasted lamb"
+      }
+    },
+    "ashes": {
+      "short": {
+        "en": "Ashes"
+      }
+    },
+    "scroll": {
+      "short": {
+        "en": "Scroll"
+      }
+    },
+    "raven": {
+      "short": {
+        "en": "Raven"
+      }
+    },
+    "sower-full": {
+      "short": {
+        "en": "Sower"
+      }
+    },
+    "club": {
+      "short": {
+        "en": "Club"
+      }
+    },
+    "assarium-coin-wide": {
+      "short": {
+        "en": "Assarium Coin"
+      }
+    },
+    "water-jars": {
+      "short": {
+        "en": "Water Jar"
+      }
+    },
+    "tar-pit-medium": {
+      "short": {
+        "en": "Tar Pit"
+      }
+    },
+    "cinnamon-ground": {
+      "short": {
+        "en": "Ground Cinnamon"
+      }
+    },
+    "mount-hebron-atop": {
+      "short": {
+        "en": "Mount Hebron"
+      }
+    },
+    "cloud-landscape": {
+      "short": {
+        "en": "Cloud"
+      }
+    },
+    "sleeping-lion": {
+      "short": {
+        "en": "Sleeping Lion"
+      }
+    },
+    "adult-donkey-front": {
+      "short": {
+        "en": "Adult Donkey"
+      }
+    },
+    "gold-filigree-view": {
+      "short": {
+        "en": "Gold Wire Filigree"
+      }
+    },
+    "clasp-gold": {
+      "short": {
+        "en": "Gold S Clasp"
+      }
+    },
+    "nard-plant-wide": {
+      "short": {
+        "en": "Nard Plant"
+      }
+    },
+    "shellfish-plate": {
+      "short": {
+        "en": "Shellfish"
+      }
+    },
+    "sheep-wolf-trotting": {
+      "short": {
+        "en": "Sheep and Wolf"
+      }
+    },
+    "assarium-coin-close": {
+      "short": {
+        "en": "Assarium Coin"
+      }
+    },
+    "jerusalem-wall-tower": {
+      "short": {
+        "en": "Jerusalem Wall Tower"
+      }
+    },
+    "town-gate-wide": {
+      "short": {
+        "en": "Town Gate"
+      }
+    },
+    "pearls-close": {
+      "short": {
+        "en": "Pearls"
+      }
+    },
+    "hail-falling": {
+      "short": {
+        "en": "Hail Falling"
+      }
+    },
+    "shur-desert-camel": {
+      "short": {
+        "en": "Desert of Shur"
+      }
+    },
+    "kettle-and-pitcher": {
+      "short": {
+        "en": "Pitcher"
+      }
+    },
+    "emerald-beryl-emerald": {
+      "short": {
+        "en": "Emerald and Beryl"
+      }
+    },
+    "quail": {
+      "short": {
+        "en": "Quail"
+      }
+    },
+    "millstone-medium": {
+      "short": {
+        "en": "Millstone"
+      }
+    },
+    "hedge": {
+      "short": {
+        "en": "Hedges"
+      }
+    },
+    "hen-feeding": {
+      "short": {
+        "en": "Hen"
+      }
+    },
+    "hoof": {
+      "short": {
+        "en": "Hoof"
+      }
+    },
+    "colonnade-close": {
+      "short": {
+        "en": "Colonnade"
+      }
+    },
+    "hoof-close-up": {
+      "short": {
+        "en": "Hoof"
+      }
+    },
+    "rainbow": {
+      "short": {
+        "en": "Rainbow"
+      }
+    },
+    "platter": {
+      "short": {
+        "en": "Platter"
+      }
+    },
+    "fish-man-holding": {
+      "short": {
+        "en": "Fish"
+      }
+    },
+    "river-nile-one": {
+      "short": {
+        "en": "Nile River"
+      }
+    },
+    "narrow-street": {
+      "short": {
+        "en": "Narrow Street"
+      }
+    },
+    "dining-table-sitting": {
+      "short": {
+        "en": "Dining Table"
+      }
+    },
+    "hoe-cu": {
+      "short": {
+        "en": "Hoe"
+      }
+    },
+    "eagle-close-up": {
+      "short": {
+        "en": "Eagle"
+      }
+    },
+    "hills-sea-galilee": {
+      "short": {
+        "en": "Hills on the Sea of Galilee"
+      }
+    },
+    "animal-trap-full": {
+      "short": {
+        "en": "Animal Trap"
+      }
+    },
+    "house": {
+      "short": {
+        "en": "House in the Time of Jesus"
+      }
+    },
+    "plant-myrrh-resin": {
+      "short": {
+        "en": "Myrrh Plant"
+      }
+    },
+    "theatre-ceaserea": {
+      "short": {
+        "en": "Roman Theatre of Caesarea"
+      }
+    },
+    "tree-sycamore": {
+      "short": {
+        "en": "Sycamore Tree"
+      }
+    },
+    "shellfish-indoor": {
+      "short": {
+        "en": "Shellfish"
+      }
+    },
+    "coins-wide": {
+      "short": {
+        "en": "Coins"
+      }
+    },
+    "horn-ram-action": {
+      "short": {
+        "en": "Ram's Horn"
+      }
+    },
+    "sourdough-bread-close": {
+      "short": {
+        "en": "Sour Dough Bread"
+      }
+    },
+    "antioch-ruins": {
+      "short": {
+        "en": "Ruins of Ancient Antioch"
+      }
+    },
+    "sea-galilee-western-shore": {
+      "short": {
+        "en": "Sea of Galilee"
+      }
+    },
+    "house-entrance-mid": {
+      "short": {
+        "en": "Entrance to Jewish House"
+      }
+    },
+    "antioch-modern": {
+      "short": {
+        "en": "Modern Antioch"
+      }
+    },
+    "the-skull-1850": {
+      "short": {
+        "en": "The Skull"
+      }
+    },
+    "fish-scales-close": {
+      "short": {
+        "en": "Fish Scales"
+      }
+    },
+    "alabaster-jar": {
+      "short": {
+        "en": "Alabaster Jar"
+      }
+    },
+    "cup-bowl-full": {
+      "short": {
+        "en": "Cup and Bowl"
+      }
+    },
+    "bow-arrow-wide": {
+      "short": {
+        "en": "Bow and Arrows"
+      }
+    },
+    "rooster-close": {
+      "short": {
+        "en": "Rooster"
+      }
+    },
+    "staff": {
+      "short": {
+        "en": "Staff"
+      }
+    },
+    "basket-provisions-full": {
+      "short": {
+        "en": "Basket for Provisions"
+      }
+    },
+    "basket-as-bushel": {
+      "short": {
+        "en": "Basket as a Bushel"
+      }
+    },
+    "camel-young-one": {
+      "short": {
+        "en": "Female Camel with Young Camel"
+      }
+    },
+    "seeds-detail": {
+      "short": {
+        "en": "Seeds"
+      }
+    },
+    "spring-bubbling": {
+      "short": {
+        "en": "Spring of Water"
+      }
+    },
+    "grapes-on-grapevine": {
+      "short": {
+        "en": "Grapes on Grapevines"
+      }
+    },
+    "iron-gates": {
+      "short": {
+        "en": "Iron Gate"
+      }
+    },
+    "flower-almond": {
+      "short": {
+        "en": "Almond Flowers"
+      }
+    },
+    "large-basket-wide": {
+      "short": {
+        "en": "Large Basket"
+      }
+    },
+    "eye-of-needle-wide": {
+      "short": {
+        "en": "Eye of a Needle"
+      }
+    },
+    "strips-linen-cloth": {
+      "short": {
+        "en": "Long Sheet of Linen Cloth"
+      }
+    },
+    "house-nazareth-wide": {
+      "short": {
+        "en": "House in the Time of Jesus"
+      }
+    },
+    "ashes-wide": {
+      "short": {
+        "en": "Ashes"
+      }
+    },
+    "bread-dough-rising": {
+      "short": {
+        "en": "Bread Dough Rising"
+      }
+    },
+    "goats-man": {
+      "short": {
+        "en": "Goat"
+      }
+    },
+    "hail-large": {
+      "short": {
+        "en": "Hail"
+      }
+    },
+    "unleavened-bread": {
+      "short": {
+        "en": "Unleavened Bread"
+      }
+    },
+    "tree-tamarisk": {
+      "short": {
+        "en": "Tamarisk Tree"
+      }
+    },
+    "drachma-closeup": {
+      "short": {
+        "en": "Drachma"
+      }
+    },
+    "four-soils-thorns": {
+      "short": {
+        "en": "Four Soils"
+      }
+    },
+    "olive-oil-action": {
+      "short": {
+        "en": "Gold"
+      }
+    },
+    "pigeon-wide": {
+      "short": {
+        "en": "Pigeon"
+      }
+    },
+    "wineskin": {
+      "short": {
+        "en": "Wineskins"
+      }
+    },
+    "denarii": {
+      "short": {
+        "en": "Denarii"
+      }
+    },
+    "spring": {
+      "short": {
+        "en": "Spring of Water"
+      }
+    },
+    "diamond-moonstone-emeralds": {
+      "short": {
+        "en": "Diamond, Moonstone and Emerald"
+      }
+    },
+    "pond-wide": {
+      "short": {
+        "en": "Pond"
+      }
+    },
+    "sleeping-mat-lying": {
+      "short": {
+        "en": "Sleeping Mat"
+      }
+    },
+    "spices-close": {
+      "short": {
+        "en": "Spices"
+      }
+    },
+    "sheep-wolf-close": {
+      "short": {
+        "en": "Sheep and Wolf"
+      }
+    },
+    "purple-robe": {
+      "short": {
+        "en": "Purple robe"
+      }
+    },
+    "emerald-beryl-emeralds": {
+      "short": {
+        "en": "Emerald and Beryl"
+      }
+    },
+    "pig-close": {
+      "short": {
+        "en": "Pigs"
+      }
+    },
+    "gold-cord-view": {
+      "short": {
+        "en": "Gold Wire Twisted into Cord"
+      }
+    },
+    "bowl-kneading-size": {
+      "short": {
+        "en": "Kneading Bowl"
+      }
+    },
+    "plant-frankincense-tree": {
+      "short": {
+        "en": "Frankincense Plant"
+      }
+    },
+    "basket-provisions-back": {
+      "short": {
+        "en": "Basket for Provisions"
+      }
+    },
+    "locust-swarm-close": {
+      "short": {
+        "en": "Swarm of Locusts"
+      }
+    },
+    "oak-tree": {
+      "short": {
+        "en": "Oak Trees"
+      }
+    },
+    "branch-hyssop-close": {
+      "short": {
+        "en": "Hyssop Branch"
+      }
+    },
+    "gold-cord": {
+      "short": {
+        "en": "Gold Wire Twisted into Cord"
+      }
+    },
+    "antioch-ruins-circular": {
+      "short": {
+        "en": "Ruins of Ancient Antioch"
+      }
+    },
+    "goat-wide": {
+      "short": {
+        "en": "Goat"
+      }
+    },
+    "capernaum-synagogue-ruins": {
+      "short": {
+        "en": "Capernaum Synagogue"
+      }
+    },
+    "pigeon-detail": {
+      "short": {
+        "en": "Pigeon"
+      }
+    },
+    "shur-desert-sunset": {
+      "short": {
+        "en": "Desert of Shur"
+      }
+    },
+    "rooster-held-wide": {
+      "short": {
+        "en": "Rooster"
+      }
+    },
+    "colonnade-outer": {
+      "short": {
+        "en": "Colonnade"
+      }
+    },
+    "hail": {
+      "short": {
+        "en": "Hail"
+      }
+    },
+    "wheat-heads-close": {
+      "short": {
+        "en": "Wheat with Heads of Grain"
+      }
+    },
+    "iron-gates-wide": {
+      "short": {
+        "en": "Iron Gate"
+      }
+    },
+    "pearls-wide": {
+      "short": {
+        "en": "Pearls"
+      }
+    },
+    "sinai-ground-view": {
+      "short": {
+        "en": "Sinai"
+      }
+    },
+    "temple-herods-courtyard": {
+      "short": {
+        "en": "Herod's Temple Exterior"
+      }
+    },
+    "unleavened-bread-wide": {
+      "short": {
+        "en": "Unleavened Bread"
+      }
+    },
+    "upper-room": {
+      "short": {
+        "en": "Upper Room"
+      }
+    },
+    "lampstand-sat": {
+      "short": {
+        "en": "Lampstand"
+      }
+    },
+    "shepherd-view-three": {
+      "short": {
+        "en": "Shepherds"
+      }
+    },
+    "iron-gate": {
+      "short": {
+        "en": "Iron Gate"
+      }
+    },
+    "jerusalem-model-temple": {
+      "short": {
+        "en": "Model of Ancient Jerusalem"
+      }
+    },
+    "sackcloth": {
+      "short": {
+        "en": "Sackcloth"
+      }
+    },
+    "hail-small": {
+      "short": {
+        "en": "Hail"
+      }
+    },
+    "reed-plant-close": {
+      "short": {
+        "en": "Reed Plant"
+      }
+    },
+    "gazelle-two": {
+      "short": {
+        "en": "Gazelle"
+      }
+    },
+    "cave-wide": {
+      "short": {
+        "en": "Cave"
+      }
+    },
+    "pond": {
+      "short": {
+        "en": "Pond"
+      }
+    },
+    "cane-spice-close": {
+      "short": {
+        "en": "Cane Spice"
+      }
+    },
+    "goat-hair-tent": {
+      "short": {
+        "en": "Goat's Hair Cloth"
+      }
+    },
+    "club-wide": {
+      "short": {
+        "en": "Club"
+      }
+    },
+    "pond-above": {
+      "short": {
+        "en": "Pond"
+      }
+    },
+    "stone-altar": {
+      "short": {
+        "en": "Stone Altar"
+      }
+    },
+    "onyx-carnelian-measured": {
+      "short": {
+        "en": "Onyx and Carnelian"
+      }
+    },
+    "sea-galilee-north-shore": {
+      "short": {
+        "en": "Sea of Galilee"
+      }
+    },
+    "eye-of-needle": {
+      "short": {
+        "en": "Eye of a Needle"
+      }
+    },
+    "river-nile-edge": {
+      "short": {
+        "en": "Edge of Nile River"
+      }
+    },
+    "lots-man-holding": {
+      "short": {
+        "en": "Lots"
+      }
+    },
+    "plant-flax-corpse": {
+      "short": {
+        "en": "Flax Plant"
+      }
+    },
+    "tower-herods-temple": {
+      "short": {
+        "en": "Tower of Herod's Temple"
+      }
+    },
+    "pool-siloam": {
+      "short": {
+        "en": "Pool of Siloam"
+      }
+    },
+    "plant-papyrus": {
+      "short": {
+        "en": "Papyrus Plant"
+      }
+    },
+    "garden-gethsemane-path": {
+      "short": {
+        "en": "Garden of Gethsemane"
+      }
+    },
+    "shur-desert": {
+      "short": {
+        "en": "Desert of Shur"
+      }
+    },
+    "chains": {
+      "short": {
+        "en": "Chains"
+      }
+    },
+    "mount-precipice": {
+      "short": {
+        "en": "Mount Precipice"
+      }
+    },
+    "vineyard-watchtower-above": {
+      "short": {
+        "en": "Watchtower for a Vineyard"
+      }
+    },
+    "shepherd-view-one": {
+      "short": {
+        "en": "Shepherds"
+      }
+    },
+    "clasp-bronze-view": {
+      "short": {
+        "en": "Bronze S Clasp"
+      }
+    },
+    "gate-roman-bridge": {
+      "short": {
+        "en": "Roman City Gate"
+      }
+    },
+    "mustard-seed-black": {
+      "short": {
+        "en": "Mustard Seed"
+      }
+    },
+    "chrysolite-topaz-green": {
+      "short": {
+        "en": "Chrysolite and Topaz"
+      }
+    },
+    "plant-myrrh": {
+      "short": {
+        "en": "Myrrh Plant"
+      }
+    },
+    "lock-bar-door": {
+      "short": {
+        "en": "Bar Lock"
+      }
+    },
+    "goat-hair-weaving": {
+      "short": {
+        "en": "Goat's Hair Cloth"
+      }
+    },
+    "goat-feeding": {
+      "short": {
+        "en": "Goat"
+      }
+    },
+    "antioch-ruins-close": {
+      "short": {
+        "en": "Ruins of Ancient Antioch"
+      }
+    },
+    "shepherd-view-two": {
+      "short": {
+        "en": "Shepherds"
+      }
+    },
+    "colonnade-inside": {
+      "short": {
+        "en": "Colonnade"
+      }
+    },
+    "dining-table-standing": {
+      "short": {
+        "en": "Dining Table"
+      }
+    },
+    "young-donkey": {
+      "short": {
+        "en": "Young Donkey"
+      }
+    },
+    "copper-coin-wide": {
+      "short": {
+        "en": "Copper Coins"
+      }
+    },
+    "sword-full": {
+      "short": {
+        "en": "Sword"
+      }
+    },
+    "vineyard-watchtower": {
+      "short": {
+        "en": "Watchtower for a Vineyard"
+      }
+    },
+    "sleeping-mat": {
+      "short": {
+        "en": "Sleeping Mat"
+      }
+    },
+    "plant-locusts-green": {
+      "short": {
+        "en": "Plant Eaten by Locusts"
+      }
+    },
+    "altar-unknown-god-view": {
+      "short": {
+        "en": "Altar to an Unknown God"
+      }
+    },
+    "idol": {
+      "short": {
+        "en": "Idol"
+      }
+    },
+    "frog-green": {
+      "short": {
+        "en": "Frog"
+      }
+    },
+    "wine": {
+      "short": {
+        "en": "Wine"
+      }
+    },
+    "wilderness": {
+      "short": {
+        "en": "Wilderness or Desert"
+      }
+    },
+    "onyx-close": {
+      "short": {
+        "en": "Onyx Stones"
+      }
+    },
+    "city-wall-wide": {
+      "short": {
+        "en": "City Wall with Window and Gate"
+      }
+    },
+    "sheep-wolf": {
+      "short": {
+        "en": "Sheep and Wolf"
+      }
+    },
+    "stick-detail": {
+      "short": {
+        "en": "Stick"
+      }
+    },
+    "the-skull-1901": {
+      "short": {
+        "en": "The Skull"
+      }
+    },
+    "rooster-golden-feathers": {
+      "short": {
+        "en": "Rooster"
+      }
+    },
+    "carnelian-sardius-ruby": {
+      "short": {
+        "en": "Red Carnelian, Sardius and Ruby"
+      }
+    },
+    "axe-wide": {
+      "short": {
+        "en": "Axe"
+      }
+    },
+    "mount-precipice-wide": {
+      "short": {
+        "en": "Mount Precipice"
+      }
+    },
+    "honey": {
+      "short": {
+        "en": "Honey"
+      }
+    },
+    "sowers-bag-full": {
+      "short": {
+        "en": "Sower's Bag of Seeds"
+      }
+    },
+    "cloud-sky": {
+      "short": {
+        "en": "Cloud"
+      }
+    },
+    "pearls": {
+      "short": {
+        "en": "Pearls"
+      }
+    },
+    "fox-fennec-family": {
+      "short": {
+        "en": "Fox"
+      }
+    },
+    "copper-coins": {
+      "short": {
+        "en": "Copper Coins"
+      }
+    },
+    "oil-lamp-flame": {
+      "short": {
+        "en": "Oil Lamp"
+      }
+    },
+    "jacinth-turquoise-green": {
+      "short": {
+        "en": "Jacinth and Turquoise"
+      }
+    },
+    "mount-ararat": {
+      "short": {
+        "en": "Mount Ararat"
+      }
+    },
+    "manger-wide": {
+      "short": {
+        "en": "Manger"
+      }
+    },
+    "mustard-seed-pouring": {
+      "short": {
+        "en": "Mustard Seed"
+      }
+    },
+    "rainbow-half": {
+      "short": {
+        "en": "Rainbow"
+      }
+    },
+    "four-soils": {
+      "short": {
+        "en": "Four Soils"
+      }
+    },
+    "millstone": {
+      "short": {
+        "en": "Millstone"
+      }
+    },
+    "nard-plant-root": {
+      "short": {
+        "en": "Nard Plant"
+      }
+    },
+    "tree-carob": {
+      "short": {
+        "en": "Carob Tree"
+      }
+    },
+    "writing-tablet": {
+      "short": {
+        "en": "Writing Tablet"
+      }
+    },
+    "bow-arrow-detail": {
+      "short": {
+        "en": "Bow and Arrows"
+      }
+    },
+    "barn-internal": {
+      "short": {
+        "en": "Barn"
+      }
+    },
+    "wheat-ready-harvest": {
+      "short": {
+        "en": "Wheat Ready For Harvest"
+      }
+    },
+    "tambourine": {
+      "short": {
+        "en": "Tambourine"
+      }
+    },
+    "tree-tamarisk-close": {
+      "short": {
+        "en": "Tamarisk Tree"
+      }
+    },
+    "plant-locusts-brown": {
+      "short": {
+        "en": "Plant Eaten by Locusts"
+      }
+    },
+    "olives": {
+      "short": {
+        "en": "Olives"
+      }
+    },
+    "bitter-herbs-wide": {
+      "short": {
+        "en": "Bitter herbs"
+      }
+    },
+    "snow-in-hands": {
+      "short": {
+        "en": "Snow"
+      }
+    },
+    "tree-fig-leaves": {
+      "short": {
+        "en": "Fig Tree with Leaves"
+      }
+    },
+    "tombs": {
+      "short": {
+        "en": "Tombs"
+      }
+    },
+    "jerusalem-model-close": {
+      "short": {
+        "en": "Model of Ancient Jerusalem"
+      }
+    },
+    "sandals-wide": {
+      "short": {
+        "en": "Sandals"
+      }
+    },
+    "cornerstone-wide": {
+      "short": {
+        "en": "Cornerstone"
+      }
+    },
+    "cave": {
+      "short": {
+        "en": "Cave"
+      }
+    },
+    "cinnamon-ground-bowl": {
+      "short": {
+        "en": "Ground Cinnamon"
+      }
+    },
+    "branch-hyssop": {
+      "short": {
+        "en": "Hyssop Branch"
+      }
+    },
+    "clasp-bronze": {
+      "short": {
+        "en": "Bronze S Clasp"
+      }
+    },
+    "spices-multiple": {
+      "short": {
+        "en": "Spices"
+      }
+    },
+    "barn-external": {
+      "short": {
+        "en": "Barn"
+      }
+    },
+    "quail-holding": {
+      "short": {
+        "en": "Quail"
+      }
+    },
+    "carnelian-sardius-rubies": {
+      "short": {
+        "en": "Red Carnelian, Sardius and Ruby"
+      }
+    },
+    "reed-plant": {
+      "short": {
+        "en": "Reed Plant"
+      }
+    },
+    "snow-close": {
+      "short": {
+        "en": "Snow"
+      }
+    },
+    "eagle-wingspan": {
+      "short": {
+        "en": "Eagle"
+      }
+    },
+    "snake": {
+      "short": {
+        "en": "Thistles"
+      }
+    },
+    "snow-wide-view": {
+      "short": {
+        "en": "Snow"
+      }
+    },
+    "eye-of-needle-close": {
+      "short": {
+        "en": "Eye of a Needle"
+      }
+    },
+    "wheat-chaff": {
+      "short": {
+        "en": "Wheat and Chaff"
+      }
+    },
+    "tar-pit-close": {
+      "short": {
+        "en": "Tar Pit"
+      }
+    },
+    "sinai-aerial-view": {
+      "short": {
+        "en": "Sinai"
+      }
+    },
+    "barley-head": {
+      "short": {
+        "en": "Barley"
+      }
+    },
+    "diseased-hand": {
+      "short": {
+        "en": "Diseased Hand"
+      }
+    },
+    "tunic": {
+      "short": {
+        "en": "Tunic"
+      }
+    },
+    "altar-unknown-god": {
+      "short": {
+        "en": "Altar to an Unknown God"
+      }
+    },
+    "goats-woman": {
+      "short": {
+        "en": "Goat"
+      }
+    },
+    "fishing-net": {
+      "short": {
+        "en": "Fishing Net"
+      }
+    },
+    "four-soils-path": {
+      "short": {
+        "en": "Four Soils"
+      }
+    },
+    "bow-and-arrow": {
+      "short": {
+        "en": "Bow and Arrows"
+      }
+    },
+    "dolphin-pod": {
+      "short": {
+        "en": "Dolphin"
+      }
+    },
+    "river-nile-edges": {
+      "short": {
+        "en": "Edge of Nile River"
+      }
+    },
+    "tunic-full": {
+      "short": {
+        "en": "Tunic"
+      }
+    },
+    "camel": {
+      "short": {
+        "en": "Camel"
+      }
+    },
+    "embankment-masada": {
+      "short": {
+        "en": "Embankment"
+      }
+    },
+    "lillies-close-up": {
+      "short": {
+        "en": "Lilies"
+      }
+    },
+    "snake-wide": {
+      "short": {
+        "en": "Snake"
+      }
+    },
+    "vineyard": {
+      "short": {
+        "en": "Vineyard"
+      }
+    },
+    "idol-statue": {
+      "short": {
+        "en": "Idol"
+      }
+    },
+    "bowl-kneading": {
+      "short": {
+        "en": "Kneading Bowl"
+      }
+    },
+    "olive-branch": {
+      "short": {
+        "en": "Olive and Palm Branches"
+      }
+    },
+    "jacinth-turquoise-red": {
+      "short": {
+        "en": "Jacinth and Turquoise"
+      }
+    },
+    "the-skull": {
+      "short": {
+        "en": "The Skull"
+      }
+    },
+    "gate-roman-wide": {
+      "short": {
+        "en": "Roman City Gate"
+      }
+    },
+    "camel-young-two": {
+      "short": {
+        "en": "Female Camel with Young Camel"
+      }
+    },
+    "chrysolite-topaz-yellow": {
+      "short": {
+        "en": "Chrysolite and Topaz"
+      }
+    },
+    "river-jordan": {
+      "short": {
+        "en": "Jordan River"
+      }
+    },
+    "rag-dirty": {
+      "short": {
+        "en": "Rag"
+      }
+    },
+    "temple-mount-of-olives": {
+      "short": {
+        "en": "Temple from the Mount of Olives"
+      }
+    },
+    "stew-holding-wide": {
+      "short": {
+        "en": "Stew"
+      }
+    },
+    "pool-siloam-night": {
+      "short": {
+        "en": "Pool of Siloam"
+      }
+    },
+    "barley-wide": {
+      "short": {
+        "en": "Barley"
+      }
+    },
+    "temple-herods": {
+      "short": {
+        "en": "Herod's Temple"
+      }
+    },
+    "frog-man-holding": {
+      "short": {
+        "en": "Frog"
+      }
+    },
+    "rag-action": {
+      "short": {
+        "en": "Rag"
+      }
+    },
+    "sheep-goat-water": {
+      "short": {
+        "en": "Sheep and Goat"
+      }
+    },
+    "reed-plant-wide": {
+      "short": {
+        "en": "Reed Plant"
+      }
+    },
+    "gate-roman": {
+      "short": {
+        "en": "Roman City Gate"
+      }
+    },
+    "gold-filigree-closeup": {
+      "short": {
+        "en": "Gold Wire Filigree"
+      }
+    },
+    "pig-wide": {
+      "short": {
+        "en": "Pigs"
+      }
+    },
+    "jerusalem-model": {
+      "short": {
+        "en": "Model of Ancient Jerusalem"
+      }
+    },
+    "sheep-goat": {
+      "short": {
+        "en": "Sheep and Goat"
+      }
+    },
+    "cane-spice": {
+      "short": {
+        "en": "Cane Spice"
+      }
+    },
+    "sickle-zoom-view": {
+      "short": {
+        "en": "Sickle"
+      }
+    },
+    "lots-close": {
+      "short": {
+        "en": "Lots"
+      }
+    },
+    "carnelians-sardius-ruby": {
+      "short": {
+        "en": "Red Carnelian, Sardius and Ruby"
+      }
+    },
+    "ship-figurehead-close": {
+      "short": {
+        "en": "Figurehead of a Ship"
+      }
+    },
+    "bread": {
+      "short": {
+        "en": "Bread"
+      }
+    },
+    "travellers-bag-holding": {
+      "short": {
+        "en": "Traveler's Bag"
+      }
+    },
+    "cornerstone": {
+      "short": {
+        "en": "Cornerstone"
+      }
+    },
+    "thorny-plant": {
+      "short": {
+        "en": "Thorny Plant"
+      }
+    },
+    "wheat-chaff-winnowing": {
+      "short": {
+        "en": "Wheat and Chaff"
+      }
+    },
+    "olive-oil-full": {
+      "short": {
+        "en": "Jar of Olive Oil"
+      }
+    },
+    "manatee": {
+      "short": {
+        "en": "Manatee"
+      }
+    },
+    "river-niles-edge": {
+      "short": {
+        "en": "Edge of Nile River"
+      }
+    },
+    "cup-bowl-close": {
+      "short": {
+        "en": "Cup and Bowl"
+      }
+    },
+    "gold-filigree": {
+      "short": {
+        "en": "Gold Wire Filigree"
+      }
+    },
+    "cornerstone-mid": {
+      "short": {
+        "en": "Cornerstone"
+      }
+    },
+    "river-nile-two": {
+      "short": {
+        "en": "Nile River"
+      }
+    },
+    "flood-small": {
+      "short": {
+        "en": "Small Flood"
+      }
+    },
+    "palm-branch": {
+      "short": {
+        "en": "Olive and Palm Branches"
+      }
+    },
+    "river-nile-three": {
+      "short": {
+        "en": "Nile River"
+      }
+    },
+    "travellers-bag-close": {
+      "short": {
+        "en": "Traveler's Bag"
+      }
+    },
+    "sandals": {
+      "short": {
+        "en": "Sandals"
+      }
+    },
+    "barley-close": {
+      "short": {
+        "en": "Roman Army"
+      }
+    },
+    "sword-close": {
+      "short": {
+        "en": "Sword"
+      }
+    },
+    "cloak-outer-garment": {
+      "short": {
+        "en": "Cloak"
+      }
+    },
+    "goat-hair-close": {
+      "short": {
+        "en": "Goat's Hair Cloth"
+      }
+    },
+    "torch": {
+      "short": {
+        "en": "Torch"
+      }
+    },
+    "bowl-kneading-close": {
+      "short": {
+        "en": "Kneading Bowl"
+      }
+    },
+    "dolphin-close-up": {
+      "short": {
+        "en": "Dolphin"
+      }
+    },
+    "sickle-blade": {
+      "short": {
+        "en": "Sickle"
+      }
+    },
+    "thorny-plant-full": {
+      "short": {
+        "en": "Thorny Plant"
+      }
+    },
+    "gazelle": {
+      "short": {
+        "en": "Gazelle"
+      }
+    },
+    "upper-room-wide": {
+      "short": {
+        "en": "Upper Room"
+      }
+    },
+    "theatre-ceaserea-side": {
+      "short": {
+        "en": "Roman Theatre of Caesarea"
+      }
+    },
+    "temple-artemis-front": {
+      "short": {
+        "en": "Temple of Artemis"
+      }
+    },
+    "plant-papyrus-riverbank": {
+      "short": {
+        "en": "Papyrus Plant"
+      }
+    },
+    "temple-artemis-side": {
+      "short": {
+        "en": "Temple of Artemis"
+      }
+    },
+    "sheep-goat-road": {
+      "short": {
+        "en": "Sheep and Goat"
+      }
+    },
+    "onyx-hands": {
+      "short": {
+        "en": "Onyx Stones"
+      }
+    },
+    "seed-coriander-close": {
+      "short": {
+        "en": "Coriander Seed"
+      }
+    },
+    "snake-mid": {
+      "short": {
+        "en": "Snake"
+      }
+    },
+    "upper-room-model": {
+      "short": {
+        "en": "Upper Room"
+      }
+    },
+    "kneading-yeast-hands": {
+      "short": {
+        "en": "Kneeding Yeast into Dough"
+      }
+    },
+    "olives-close-up": {
+      "short": {
+        "en": "Olives"
+      }
+    },
+    "jacinth-turquoise": {
+      "short": {
+        "en": "Jacinth and Turquoise"
+      }
+    },
+    "spring-flowers": {
+      "short": {
+        "en": "Spring of Water"
+      }
+    },
+    "sowers-bag-close": {
+      "short": {
+        "en": "Sower's Bag of Seeds"
+      }
+    },
+    "hoof-two-legs": {
+      "short": {
+        "en": "Hoof"
+      }
+    },
+    "plant-frankincense-resin": {
+      "short": {
+        "en": "Frankincense Plant"
+      }
+    },
+    "flower-almond-close": {
+      "short": {
+        "en": "Almond Flowers"
+      }
+    },
+    "stone-temple": {
+      "short": {
+        "en": "Temple Stone"
+      }
+    },
+    "sickle-wide": {
+      "short": {
+        "en": "Sickle"
+      }
+    },
+    "mount-of-olives": {
+      "short": {
+        "en": "Mount of Olives"
+      }
+    },
+    "wall-around-vineyard": {
+      "short": {
+        "en": "Stone Wall Around a Vineyard"
+      }
+    },
+    "kettle": {
+      "short": {
+        "en": "Pitcher"
+      }
+    },
+    "locust-swarm-view": {
+      "short": {
+        "en": "Swarm of Locusts"
+      }
+    },
+    "house-nazareth": {
+      "short": {
+        "en": "House in the Time of Jesus"
+      }
+    },
+    "cliffs-wide": {
+      "short": {
+        "en": "Cliffs"
+      }
+    },
+    "clasp-gold-view": {
+      "short": {
+        "en": "Gold S Clasp"
+      }
+    },
+    "basket-provisions-close": {
+      "short": {
+        "en": "Basket for Provisions"
+      }
+    },
+    "honey-table": {
+      "short": {
+        "en": "Honey"
+      }
+    },
+    "olive-oil-close": {
+      "short": {
+        "en": "Wide Stairway"
+      }
+    },
+    "four-soils-rocky": {
+      "short": {
+        "en": "Four Soils"
+      }
+    },
+    "four-soils-good": {
+      "short": {
+        "en": "Four Soils"
+      }
+    },
+    "shellfish-market": {
+      "short": {
+        "en": "Shellfish"
+      }
+    },
+    "olive-tree": {
+      "short": {
+        "en": "Olive Tree"
+      }
+    },
+    "bird-nest-full": {
+      "short": {
+        "en": "Bird Nest"
+      }
+    },
+    "sword-action": {
+      "short": {
+        "en": "Sword"
+      }
+    },
+    "flower-almond-tree": {
+      "short": {
+        "en": "Almond Flowers"
+      }
+    },
+    "sea-of-galilee": {
+      "short": {
+        "en": "Sea of Galilee"
+      }
+    },
+    "manatee-above": {
+      "short": {
+        "en": "Manatee"
+      }
+    },
+    "mount-sinai-below": {
+      "short": {
+        "en": "Mount Sinai"
+      }
+    },
+    "coins-close": {
+      "short": {
+        "en": "Coins"
+      }
+    },
+    "onyx-carnelian-black": {
+      "short": {
+        "en": "Onyx and Carnelian"
+      }
+    },
+    "hoe": {
+      "short": {
+        "en": "Hoe"
+      }
+    },
+    "boat": {
+      "short": {
+        "en": "Boat"
+      }
+    },
+    "raven-feeding": {
+      "short": {
+        "en": "Raven"
+      }
+    },
+    "adult-donkey-side": {
+      "short": {
+        "en": "Adult Donkey"
+      }
+    },
+    "lock-bar-side": {
+      "short": {
+        "en": "Bar Lock"
+      }
+    },
+    "large-basket-close": {
+      "short": {
+        "en": "Large Basket"
+      }
+    },
+    "seeds-wide": {
+      "short": {
+        "en": "Seeds"
+      }
+    },
+    "honey-jars": {
+      "short": {
+        "en": "Honey"
+      }
+    },
+    "loaves-fish": {
+      "short": {
+        "en": "Barley Loaves and Fish"
+      }
+    },
+    "drachma": {
+      "short": {
+        "en": "Drachma"
+      }
+    },
+    "olives-on-branch": {
+      "short": {
+        "en": "Olives"
+      }
+    },
+    "lock-bar-front": {
+      "short": {
+        "en": "Bar Lock"
+      }
+    },
+    "lillies": {
+      "short": {
+        "en": "Lilies"
+      }
+    },
+    "belt-wide": {
+      "short": {
+        "en": "Belt"
+      }
+    },
+    "axe": {
+      "short": {
+        "en": "Axe"
+      }
+    },
+    "cliffs-ultra-wide": {
+      "short": {
+        "en": "Cliffs"
+      }
+    },
+    "sheep-with-man": {
+      "short": {
+        "en": "Sheep"
+      }
+    },
+    "cane-spiced-root": {
+      "short": {
+        "en": "Cane Spice"
+      }
+    },
+    "purse-holding": {
+      "short": {
+        "en": "Purse"
+      }
+    },
+    "marketplace-jesus": {
+      "short": {
+        "en": "Marketplace in Jesus' Time"
+      }
+    },
+    "lampstand": {
+      "short": {
+        "en": "Lampstand"
+      }
+    },
+    "ram-side-view": {
+      "short": {
+        "en": "Ram"
+      }
+    },
+    "high-place": {
+      "short": {
+        "en": "High Place"
+      }
+    },
+    "parchment-close-up": {
+      "short": {
+        "en": "Sheets of Parchment Paper"
+      }
+    },
+    "brand-view": {
+      "short": {
+        "en": "Brand"
+      }
+    },
+    "man-girded-close": {
+      "short": {
+        "en": "Man Who Is Girded Up"
+      }
+    },
+    "ram-tanned-skin": {
+      "short": {
+        "en": "Tanned Ram Skin Leather"
+      }
+    },
+    "synagogue-outside": {
+      "short": {
+        "en": "Synagogue"
+      }
+    },
+    "thistles-views": {
+      "short": {
+        "en": "Thistles"
+      }
+    },
+    "altar-incense-utensils": {
+      "short": {
+        "en": "Incense Altar"
+      }
+    },
+    "bird-sparrow-close": {
+      "short": {
+        "en": "Sparrow"
+      }
+    },
+    "moth": {
+      "short": {
+        "en": "Moth"
+      }
+    },
+    "lamb-full-height": {
+      "short": {
+        "en": "Lamb"
+      }
+    },
+    "whip-bone": {
+      "short": {
+        "en": "Whip with bone and metal"
+      }
+    },
+    "robe-scarlet-detail": {
+      "short": {
+        "en": "Soldier's Scarlet Robe"
+      }
+    },
+    "brand": {
+      "short": {
+        "en": "Brand"
+      }
+    },
+    "purse-detail": {
+      "short": {
+        "en": "Purse"
+      }
+    },
+    "purse": {
+      "short": {
+        "en": "Purse"
+      }
+    },
+    "sheep-feeding": {
+      "short": {
+        "en": "Sheep"
+      }
+    },
+    "donkey-laden-single": {
+      "short": {
+        "en": "Laden Donkey"
+      }
+    },
+    "thistles-view": {
+      "short": {
+        "en": "Thistles"
+      }
+    },
+    "fig": {
+      "short": {
+        "en": "Fig Tree"
+      }
+    },
+    "bread-of-presence": {
+      "short": {
+        "en": "Bread of the Presence"
+      }
+    },
+    "plant-flax": {
+      "short": {
+        "en": "Flax Plant"
+      }
+    },
+    "locust-swarm": {
+      "short": {
+        "en": "Swarm of Locusts"
+      }
+    },
+    "scorpion": {
+      "short": {
+        "en": "Scorpion"
+      }
+    },
+    "water-jar": {
+      "short": {
+        "en": "Water Jar"
+      }
+    },
+    "platter-close-view": {
+      "short": {
+        "en": "Platter"
+      }
+    },
+    "josephs-coat-close": {
+      "short": {
+        "en": "Joseph's Coat"
+      }
+    },
+    "sponge-stick": {
+      "short": {
+        "en": "Sponge with Wine on a Stick"
+      }
+    },
+    "dove": {
+      "short": {
+        "en": "Dove"
+      }
+    },
+    "workmans-apron-neck": {
+      "short": {
+        "en": "Workman's Apron"
+      }
+    },
+    "wolf": {
+      "short": {
+        "en": "Wolf"
+      }
+    },
+    "washing-feet": {
+      "short": {
+        "en": "Washing Feet"
+      }
+    },
+    "chasm-wide": {
+      "short": {
+        "en": "Chasm"
+      }
+    },
+    "flute-playing": {
+      "short": {
+        "en": "Flute"
+      }
+    },
+    "goat-skin": {
+      "short": {
+        "en": "Goat Skin"
+      }
+    },
+    "workmans-apron": {
+      "short": {
+        "en": "Workman's Apron"
+      }
+    },
+    "house-courtyard": {
+      "short": {
+        "en": "House with Courtyard"
+      }
+    },
+    "kneading-yeast": {
+      "short": {
+        "en": "Kneeding Yeast into Dough"
+      }
+    },
+    "tabernacle": {
+      "short": {
+        "en": "Tabernacle"
+      }
+    },
+    "ox": {
+      "short": {
+        "en": "Ox"
+      }
+    },
+    "robe-scarlet": {
+      "short": {
+        "en": "Soldier's Scarlet Robe"
+      }
+    },
+    "chariot": {
+      "short": {
+        "en": "Chariot"
+      }
+    },
+    "workmans-apron-wearing": {
+      "short": {
+        "en": "Workman's Apron"
+      }
+    },
+    "hen": {
+      "short": {
+        "en": "Hen"
+      }
+    },
+    "man-girded": {
+      "short": {
+        "en": "Man Who Is Girded Up"
+      }
+    },
+    "leather-bucket-close": {
+      "short": {
+        "en": "Leather Bucket"
+      }
+    },
+    "passover-meal-elements": {
+      "short": {
+        "en": "Unleavened Bread"
+      }
+    },
+    "iron-bronze-tools-one": {
+      "short": {
+        "en": "Bronze and Iron Tools"
+      }
+    },
+    "thistles": {
+      "short": {
+        "en": "Thistles"
+      }
+    },
+    "linen-fine": {
+      "short": {
+        "en": "Fine Linen Cloth"
+      }
+    },
+    "three-level-house": {
+      "short": {
+        "en": "Three-Level House"
+      }
+    },
+    "basket-pastries-close": {
+      "short": {
+        "en": "Baskets of Pastries"
+      }
+    },
+    "altar-soil": {
+      "short": {
+        "en": "Altar Made of Soil"
+      }
+    },
+    "tabernacle-entrance": {
+      "short": {
+        "en": "Tabernacle"
+      }
+    },
+    "tree-mulberry": {
+      "short": {
+        "en": "Mulberry Tree"
+      }
+    },
+    "altar-incense": {
+      "short": {
+        "en": "Incense Altar"
+      }
+    },
+    "washing-feet-view": {
+      "short": {
+        "en": "Washing Feet"
+      }
+    },
+    "centurion-close-up": {
+      "short": {
+        "en": "Centurion"
+      }
+    },
+    "temple-herod-curtain": {
+      "short": {
+        "en": "Curtain in Herod's Temple"
+      }
+    },
+    "house-entrance-full": {
+      "short": {
+        "en": "House in the Time of Jesus"
+      }
+    },
+    "footstool-close": {
+      "short": {
+        "en": "Footstool"
+      }
+    },
+    "flute-close-up": {
+      "short": {
+        "en": "Flute"
+      }
+    },
+    "josephs-coat": {
+      "short": {
+        "en": "Joseph's Coat"
+      }
+    },
+    "chasm-medium": {
+      "short": {
+        "en": "Chasm"
+      }
+    },
+    "goat-skin-close": {
+      "short": {
+        "en": "Goat Skin"
+      }
+    },
+    "ram-close-up": {
+      "short": {
+        "en": "Ram"
+      }
+    },
+    "chariot-close": {
+      "short": {
+        "en": "Chariot"
+      }
+    },
+    "landscape-jerusalem": {
+      "short": {
+        "en": "Jerusalem Landscape"
+      }
+    },
+    "sheep-close-up": {
+      "short": {
+        "en": "Sheep"
+      }
+    },
+    "hermon-mount-snow": {
+      "short": {
+        "en": "Mount Hermon"
+      }
+    },
+    "spear-close": {
+      "short": {
+        "en": "Spear"
+      }
+    },
+    "temple-herod-curtains": {
+      "short": {
+        "en": "Curtain in Herod's Temple"
+      }
+    },
+    "parchment": {
+      "short": {
+        "en": "Sheets of Parchment Paper"
+      }
+    },
+    "wrapped-corpse": {
+      "short": {
+        "en": "Wrapped Corpse"
+      }
+    },
+    "bird-sparrow-group": {
+      "short": {
+        "en": "Sparrow"
+      }
+    },
+    "lightning": {
+      "short": {
+        "en": "Lightning"
+      }
+    },
+    "gold-chain-view": {
+      "short": {
+        "en": "Gold Wire Made into Chain"
+      }
+    },
+    "basket-pastries-holding": {
+      "short": {
+        "en": "Baskets of Pastries"
+      }
+    },
+    "robe-scalet-close": {
+      "short": {
+        "en": "Soldier's Scarlet Robe"
+      }
+    },
+    "footstool": {
+      "short": {
+        "en": "Footstool"
+      }
+    },
+    "spear": {
+      "short": {
+        "en": "Spear"
+      }
+    },
+    "tree-mulberry-fruit": {
+      "short": {
+        "en": "Mulberry Tree"
+      }
+    },
+    "iron-bronze-tools": {
+      "short": {
+        "en": "Bronze and Iron Tools"
+      }
+    },
+    "linen-fine-closeup": {
+      "short": {
+        "en": "Fine Linen Cloth"
+      }
+    },
+    "donkey-laden-view": {
+      "short": {
+        "en": "Laden Donkey"
+      }
+    },
+    "well-far": {
+      "short": {
+        "en": "Well"
+      }
+    },
+    "lightning-multiple": {
+      "short": {
+        "en": "Lightning"
+      }
+    },
+    "camel-hair-cloak": {
+      "short": {
+        "en": "Workman's Apron"
+      }
+    },
+    "hermon-mount-fence": {
+      "short": {
+        "en": "Mount Hermon"
+      }
+    },
+    "bed-wooden-frame": {
+      "short": {
+        "en": "Wooden bedframe"
+      }
+    },
+    "hermon-mount": {
+      "short": {
+        "en": "Mount Hermon"
+      }
+    },
+    "gate-town-close": {
+      "short": {
+        "en": "Town Gate"
+      }
+    },
+    "lamb-bottle-fed": {
+      "short": {
+        "en": "Lamb"
+      }
+    },
+    "basket-pastries": {
+      "short": {
+        "en": "Baskets of Pastries"
+      }
+    },
+    "chasm-super-wide": {
+      "short": {
+        "en": "Chasm"
+      }
+    },
+    "josephs-coat-tassels": {
+      "short": {
+        "en": "Joseph's Coat"
+      }
+    },
+    "washing-feet-close": {
+      "short": {
+        "en": "Washing Feet"
+      }
+    },
+    "leather-bucket": {
+      "short": {
+        "en": "Leather Bucket"
+      }
+    },
+    "garden-of-gethsemane": {
+      "short": {
+        "en": "Garden of Gethsemane"
+      }
+    },
+    "altar-soil-view": {
+      "short": {
+        "en": "Altar Made of Soil"
+      }
+    },
+    "cup-divination-close": {
+      "short": {
+        "en": "Silver Cup for Divination"
+      }
+    },
+    "plant-flax-cutting": {
+      "short": {
+        "en": "Flax Plant"
+      }
+    },
+    "plant-flax-dried": {
+      "short": {
+        "en": "Flax Plant"
+      }
+    },
+    "bird-sparrow-wide": {
+      "short": {
+        "en": "Sparrow"
+      }
+    },
+    "dogs-group": {
+      "short": {
+        "en": "Dogs"
+      }
+    },
+    "lamb-with-mother": {
+      "short": {
+        "en": "Lamb"
+      }
+    },
+    "footstool-detail": {
+      "short": {
+        "en": "Footstool"
+      }
+    },
+    "well-near": {
+      "short": {
+        "en": "Well"
+      }
+    },
+    "plant-papyrus-close": {
+      "short": {
+        "en": "Papyrus Plant"
+      }
+    },
+    "high-place-wide": {
+      "short": {
+        "en": "High Place"
+      }
+    },
+    "shelters": {
+      "short": {
+        "en": "Shelters"
+      }
+    },
+    "embankment": {
+      "short": {
+        "en": "Embankment"
+      }
+    },
+    "tree-mulberry-green": {
+      "short": {
+        "en": "Mulberry Tree"
+      }
+    },
+    "bread-presence": {
+      "short": {
+        "en": "Bread of the Presence"
+      }
+    },
+    "flute": {
+      "short": {
+        "en": "Flute"
+      }
+    },
+    "dove-flying": {
+      "short": {
+        "en": "Dove"
+      }
+    },
+    "spear-detail": {
+      "short": {
+        "en": "Spear"
+      }
+    },
+    "dog-mangy": {
+      "short": {
+        "en": "Dogs"
+      }
+    },
+    "coffin": {
+      "short": {
+        "en": "Coffin"
+      }
+    },
+    "robe-purple-close": {
+      "short": {
+        "en": "Purple robe"
+      }
+    },
+    "camel-hair-close": {
+      "short": {
+        "en": "Workman's Apron"
+      }
+    },
+    "robe-purple-centurion": {
+      "short": {
+        "en": "Centurion"
+      }
+    },
+    "centurion": {
+      "short": {
+        "en": "Centurion"
+      }
+    },
+    "donkey-laden": {
+      "short": {
+        "en": "Laden Donkey"
+      }
+    },
+    "wheat-grain-heads": {
+      "short": {
+        "en": "Wheat with Heads of Grain"
+      }
+    },
+    "gold-chain": {
+      "short": {
+        "en": "Gold Wire Made into Chain"
+      }
+    },
+    "tanned-skin": {
+      "short": {
+        "en": "Tanned Ram Skin Leather"
+      }
+    },
+    "bread-close": {
+      "short": {
+        "en": "Bread"
+      }
+    },
+    "cup-divinatin-hand": {
+      "short": {
+        "en": "Silver Cup for Divination"
+      }
+    },
+    "oil-lamp": {
+      "short": {
+        "en": "Oil Lamp"
+      }
+    },
+    "alabaster-jar-close": {
+      "short": {
+        "en": "Alabaster Jar"
+      }
+    },
+    "well-close-up": {
+      "short": {
+        "en": "Well"
+      }
+    },
+    "ram-full-height": {
+      "short": {
+        "en": "Ram"
+      }
+    },
+    "cup-divination": {
+      "short": {
+        "en": "Branch of Plane Tree"
+      }
+    },
+    "goat-skin-arm": {
+      "short": {
+        "en": "Goat Skin"
+      }
+    },
+    "hill-country-town": {
+      "short": {
+        "en": "Hill Country"
+      }
+    },
+    "broken-pottery-close": {
+      "short": {
+        "en": "Broken Pottery"
+      }
+    },
+    "cross-criminal": {
+      "short": {
+        "en": "Criminal on Cross"
+      }
+    },
+    "flour-fine-action": {
+      "short": {
+        "en": "Fine Flour"
+      }
+    },
+    "hill-country-spring": {
+      "short": {
+        "en": "Hill Country"
+      }
+    },
+    "cucumber-market": {
+      "short": {
+        "en": "Cucumber"
+      }
+    },
+    "ark-noah-wide": {
+      "short": {
+        "en": "Noah's Ark"
+      }
+    },
+    "people-eating-floor": {
+      "short": {
+        "en": "People Lying on Floor Eating"
+      }
+    },
+    "gods-household-one": {
+      "short": {
+        "en": "Household Gods"
+      }
+    },
+    "storm-sea-galilee": {
+      "short": {
+        "en": "Storm on Sea of Galilee"
+      }
+    },
+    "jewelry-rebekah": {
+      "short": {
+        "en": "Jewelry"
+      }
+    },
+    "temple-collection-box": {
+      "short": {
+        "en": "Temple Collection Box"
+      }
+    },
+    "container-glowing-coals-men": {
+      "short": {
+        "en": "Container for Hot Coals"
+      }
+    },
+    "threshing-floor": {
+      "short": {
+        "en": "Threshing Floor"
+      }
+    },
+    "nut-pistachio-close": {
+      "short": {
+        "en": "Pistachio Nuts"
+      }
+    },
+    "sheep-multicolored-three": {
+      "short": {
+        "en": "Multicolored Sheep"
+      }
+    },
+    "nut-pistachio-wide": {
+      "short": {
+        "en": "Pistachio Nuts"
+      }
+    },
+    "wheat-sheaves-close": {
+      "short": {
+        "en": "Sheaves of Wheat"
+      }
+    },
+    "tree-resin-close": {
+      "short": {
+        "en": "Tree Dripping with Resin"
+      }
+    },
+    "river-valley": {
+      "short": {
+        "en": "Dry River Valley"
+      }
+    },
+    "sheep-black-close": {
+      "short": {
+        "en": "Black Sheep"
+      }
+    },
+    "sheep-multicolored-one": {
+      "short": {
+        "en": "Multicolored Sheep"
+      }
+    },
+    "father-blessing": {
+      "short": {
+        "en": "Father Blessing Sons"
+      }
+    },
+    "nut-pistachio-detail": {
+      "short": {
+        "en": "Pistachio Nuts"
+      }
+    },
+    "wrestling-view": {
+      "short": {
+        "en": "Wrestling"
+      }
+    },
+    "cliffs-white-three": {
+      "short": {
+        "en": "White Cliffs"
+      }
+    },
+    "mandrake-with-fruit": {
+      "short": {
+        "en": "Mandrake"
+      }
+    },
+    "water-ground": {
+      "short": {
+        "en": "Water Coming up from the Ground"
+      }
+    },
+    "yoke-close-up": {
+      "short": {
+        "en": "Yoke"
+      }
+    },
+    "melon": {
+      "short": {
+        "en": "Melon"
+      }
+    },
+    "father-blessing-view": {
+      "short": {
+        "en": "Father Blessing Sons"
+      }
+    },
+    "donkey-wild": {
+      "short": {
+        "en": "Wild Donkey"
+      }
+    },
+    "mortar-pestle": {
+      "short": {
+        "en": "Mortar and Pestle"
+      }
+    },
+    "flour-fine": {
+      "short": {
+        "en": "Fine Flour"
+      }
+    },
+    "nut-almond-mid": {
+      "short": {
+        "en": "Almonds"
+      }
+    },
+    "ark-noah-close": {
+      "short": {
+        "en": "Noah's Ark"
+      }
+    },
+    "yoke": {
+      "short": {
+        "en": "Yoke"
+      }
+    },
+    "mountain-pass-path": {
+      "short": {
+        "en": "Mountain Pass"
+      }
+    },
+    "cistern": {
+      "short": {
+        "en": "Cistern"
+      }
+    },
+    "wrestling": {
+      "short": {
+        "en": "Wrestling"
+      }
+    },
+    "city-walled-model": {
+      "short": {
+        "en": "Walled City"
+      }
+    },
+    "censer": {
+      "short": {
+        "en": "Censer"
+      }
+    },
+    "bull": {
+      "short": {
+        "en": "Bull"
+      }
+    },
+    "saddle-camel": {
+      "short": {
+        "en": "Camel Saddle"
+      }
+    },
+    "seal-wax-close": {
+      "short": {
+        "en": "Wax Seal"
+      }
+    },
+    "grain-coarse-seed": {
+      "short": {
+        "en": "Coarse Grain"
+      }
+    },
+    "fruit-wide": {
+      "short": {
+        "en": "Different Types of Fruit"
+      }
+    },
+    "leek": {
+      "short": {
+        "en": "Leek"
+      }
+    },
+    "animal-crouching-lying": {
+      "short": {
+        "en": "Animal Crouching"
+      }
+    },
+    "jewelry-rebekah-view": {
+      "short": {
+        "en": "Jewelry"
+      }
+    },
+    "collar-gold-egypt": {
+      "short": {
+        "en": "Egyptian Gold Collar"
+      }
+    },
+    "man-carrying-cross": {
+      "short": {
+        "en": "Man Carrying a Cross"
+      }
+    },
+    "melon-market": {
+      "short": {
+        "en": "Melon"
+      }
+    },
+    "landscape-haran-closeup": {
+      "short": {
+        "en": "Landscape of Haran"
+      }
+    },
+    "container-glowing-coals": {
+      "short": {
+        "en": "Container for Hot Coals"
+      }
+    },
+    "chain-gold-egypt": {
+      "short": {
+        "en": "Egyptian Gold Chain"
+      }
+    },
+    "yogurt": {
+      "short": {
+        "en": "Yogurt"
+      }
+    },
+    "mortar-pestle-ancient": {
+      "short": {
+        "en": "Mortar and Pestle"
+      }
+    },
+    "ravine-wide-view": {
+      "short": {
+        "en": "Ravine"
+      }
+    },
+    "mandrake-fruit-close": {
+      "short": {
+        "en": "Mandrake"
+      }
+    },
+    "cows-yoked": {
+      "short": {
+        "en": "Two Cows Yoked Together"
+      }
+    },
+    "temple-herod": {
+      "short": {
+        "en": "Herod's Temple Sanctuary"
+      }
+    },
+    "mountain-pass-view": {
+      "short": {
+        "en": "Mountain Pass"
+      }
+    },
+    "prostration-men": {
+      "short": {
+        "en": "Prostration"
+      }
+    },
+    "dry-river-valley": {
+      "short": {
+        "en": "Dry River Valley"
+      }
+    },
+    "sheep-black": {
+      "short": {
+        "en": "Black Sheep"
+      }
+    },
+    "crucifixion": {
+      "short": {
+        "en": "Crucifixion"
+      }
+    },
+    "deer-and-fawn": {
+      "short": {
+        "en": "Deer and Fawn"
+      }
+    },
+    "soot-covered": {
+      "short": {
+        "en": "Covered in Soot"
+      }
+    },
+    "negev-desert": {
+      "short": {
+        "en": "Negev Desert"
+      }
+    },
+    "iron-view": {
+      "short": {
+        "en": "Iron"
+      }
+    },
+    "sheep-black-view": {
+      "short": {
+        "en": "Black Sheep"
+      }
+    },
+    "iron": {
+      "short": {
+        "en": "Iron"
+      }
+    },
+    "gods-household-three": {
+      "short": {
+        "en": "Household Gods"
+      }
+    },
+    "coast-view-two": {
+      "short": {
+        "en": "Coast"
+      }
+    },
+    "melon-cut": {
+      "short": {
+        "en": "Melon"
+      }
+    },
+    "coast-view-three": {
+      "short": {
+        "en": "Coast"
+      }
+    },
+    "ravine-petra": {
+      "short": {
+        "en": "Ravine"
+      }
+    },
+    "cow-healthy-view": {
+      "short": {
+        "en": "a healthy/fat cow"
+      }
+    },
+    "water-ground-view": {
+      "short": {
+        "en": "Water Coming up from the Ground"
+      }
+    },
+    "ark-noah-medium": {
+      "short": {
+        "en": "Noah's Ark"
+      }
+    },
+    "fruit-close": {
+      "short": {
+        "en": "Different Types of Fruit"
+      }
+    },
+    "cliffs-white-one": {
+      "short": {
+        "en": "White Cliffs"
+      }
+    },
+    "nut-pistachio-tree": {
+      "short": {
+        "en": "Pistachio Nuts"
+      }
+    },
+    "landscape-haran-close": {
+      "short": {
+        "en": "Landscape of Haran"
+      }
+    },
+    "sheep-shearing-after": {
+      "short": {
+        "en": "Sheep Shearing Process"
+      }
+    },
+    "cylinder-seal": {
+      "short": {
+        "en": "Cylinder Seal"
+      }
+    },
+    "seal-wax": {
+      "short": {
+        "en": "Wax Seal"
+      }
+    },
+    "coast-view-one": {
+      "short": {
+        "en": "Coast"
+      }
+    },
+    "city-wall-model": {
+      "short": {
+        "en": "Walled City"
+      }
+    },
+    "bowing-ground": {
+      "short": {
+        "en": "Bowing on the Ground"
+      }
+    },
+    "water-ground-close": {
+      "short": {
+        "en": "Water Coming up from the Ground"
+      }
+    },
+    "stone-foundation-view": {
+      "short": {
+        "en": "Stone Foundation of House"
+      }
+    },
+    "container-glowing-coals-close": {
+      "short": {
+        "en": "Container for Hot Coals"
+      }
+    },
+    "seal-wax-view": {
+      "short": {
+        "en": "Wax Seal"
+      }
+    },
+    "goat-baby": {
+      "short": {
+        "en": "Baby Goats"
+      }
+    },
+    "cow-healthy": {
+      "short": {
+        "en": "a healthy/fat cow"
+      }
+    },
+    "grain-coarse-grinded": {
+      "short": {
+        "en": "Coarse Grain"
+      }
+    },
+    "cucumber-close-up": {
+      "short": {
+        "en": "Cucumber"
+      }
+    },
+    "prostration-wide-view": {
+      "short": {
+        "en": "Prostration"
+      }
+    },
+    "nut-almond-detail": {
+      "short": {
+        "en": "Almonds"
+      }
+    },
+    "cows-yoked-close": {
+      "short": {
+        "en": "Two Cows Yoked Together"
+      }
+    },
+    "hail-falling-view": {
+      "short": {
+        "en": "Hail Falling"
+      }
+    },
+    "mandrake-plant": {
+      "short": {
+        "en": "Mandrake"
+      }
+    },
+    "landscape-shinar": {
+      "short": {
+        "en": "Landscape of Shinar Region"
+      }
+    },
+    "broken-pottery-full": {
+      "short": {
+        "en": "Broken Pottery"
+      }
+    },
+    "stages-wheat-growth": {
+      "short": {
+        "en": "Stages of Wheat Growth"
+      }
+    },
+    "cow-starving": {
+      "short": {
+        "en": "Starving Cow"
+      }
+    },
+    "city-walled-outside": {
+      "short": {
+        "en": "Walled City"
+      }
+    },
+    "eagle": {
+      "short": {
+        "en": "Eagle"
+      }
+    },
+    "tree-resin-medium": {
+      "short": {
+        "en": "Tree Dripping with Resin"
+      }
+    },
+    "sheep-shearing-during": {
+      "short": {
+        "en": "Sheep Shearing Process"
+      }
+    },
+    "chain-egypt": {
+      "short": {
+        "en": "Egyptian Gold Chain"
+      }
+    },
+    "collar-egypt": {
+      "short": {
+        "en": "Egyptian Gold Collar"
+      }
+    },
+    "sheep-shearing-before": {
+      "short": {
+        "en": "Sheep Shearing Process"
+      }
+    },
+    "yoghurt-detail": {
+      "short": {
+        "en": "Yogurt"
+      }
+    },
+    "whip-lead-tipped": {
+      "short": {
+        "en": "Lead-Tipped Whip"
+      }
+    },
+    "mortar-pestle-close": {
+      "short": {
+        "en": "Mortar and Pestle"
+      }
+    },
+    "toll-booth": {
+      "short": {
+        "en": "Toll Booth"
+      }
+    },
+    "nut-pistachio-shell": {
+      "short": {
+        "en": "Pistachio Nuts"
+      }
+    },
+    "diningbench": {
+      "short": {
+        "en": "Dining Bench"
+      }
+    },
+    "cylinder-seal-view": {
+      "short": {
+        "en": "Cylinder Seal"
+      }
+    },
+    "nut-almond-close": {
+      "short": {
+        "en": "Almonds"
+      }
+    },
+    "cow-starving-view": {
+      "short": {
+        "en": "Starving Cow"
+      }
+    },
+    "nut-pistachio": {
+      "short": {
+        "en": "Pistachio Nuts"
+      }
+    },
+    "censer-people": {
+      "short": {
+        "en": "Censer"
+      }
+    },
+    "mountain-pass": {
+      "short": {
+        "en": "Mountain Pass"
+      }
+    },
+    "ring-pharoah": {
+      "short": {
+        "en": "Pharaoh's Ring"
+      }
+    },
+    "censer-bronze": {
+      "short": {
+        "en": "Censer"
+      }
+    },
+    "furnace-external": {
+      "short": {
+        "en": "Furnace"
+      }
+    },
+    "landscape-haran": {
+      "short": {
+        "en": "Landscape of Haran"
+      }
+    },
+    "fruit-mid": {
+      "short": {
+        "en": "Different Types of Fruit"
+      }
+    },
+    "sheep-multicolored-two": {
+      "short": {
+        "en": "Multicolored Sheep"
+      }
+    },
+    "sulphur": {
+      "short": {
+        "en": "Sulphur"
+      }
+    },
+    "sulphur-view": {
+      "short": {
+        "en": "Sulphur"
+      }
+    },
+    "dining-bench": {
+      "short": {
+        "en": "Dining Bench"
+      }
+    },
+    "furnace-internal": {
+      "short": {
+        "en": "Furnace"
+      }
+    },
+    "harp": {
+      "short": {
+        "en": "Harp"
+      }
+    },
+    "garlic-close-view": {
+      "short": {
+        "en": "Garlic"
+      }
+    },
+    "yoghurt-medium": {
+      "short": {
+        "en": "Yogurt"
+      }
+    },
+    "goat-baby-view": {
+      "short": {
+        "en": "Baby Goats"
+      }
+    },
+    "colonnade-solomon": {
+      "short": {
+        "en": "Colonnade"
+      }
+    },
+    "stone-foundation-visual": {
+      "short": {
+        "en": "Stone Foundation of House"
+      }
+    },
+    "cucumber": {
+      "short": {
+        "en": "Cucumber"
+      }
+    },
+    "nut-almond": {
+      "short": {
+        "en": "Almonds"
+      }
+    },
+    "donkey-wild-close": {
+      "short": {
+        "en": "Wild Donkey"
+      }
+    },
+    "gods-household-two": {
+      "short": {
+        "en": "Household Gods"
+      }
+    },
+    "caiaphas-house-courtyard": {
+      "short": {
+        "en": "House with Courtyard"
+      }
+    },
+    "nut-almond-tree": {
+      "short": {
+        "en": "Almonds"
+      }
+    },
+    "egyptian-cart": {
+      "short": {
+        "en": "Egyptian Cart or Wagon"
+      }
+    },
+    "fire-pot": {
+      "short": {
+        "en": "Firepot"
+      }
+    },
+    "ravine": {
+      "short": {
+        "en": "Ravine"
+      }
+    },
+    "hill-country": {
+      "short": {
+        "en": "Hill Country"
+      }
+    },
+    "ring-pharoah-view": {
+      "short": {
+        "en": "Pharaoh's Ring"
+      }
+    },
+    "stone-foundation": {
+      "short": {
+        "en": "Stone Foundation of House"
+      }
+    },
+    "cows-yoked-view": {
+      "short": {
+        "en": "Two Cows Yoked Together"
+      }
+    },
+    "garlic-harvest": {
+      "short": {
+        "en": "Garlic"
+      }
+    },
+    "yoghurt-wide": {
+      "short": {
+        "en": "Yogurt"
+      }
+    },
+    "grain-withered-farmer": {
+      "short": {
+        "en": "Withered Grain"
+      }
+    },
+    "grain-withered-field": {
+      "short": {
+        "en": "Withered Grain"
+      }
+    },
+    "container-coals": {
+      "short": {
+        "en": "Container for Hot Coals"
+      }
+    },
+    "awl-closeup": {
+      "short": {
+        "en": "Awl"
+      }
+    },
+    "leek-field": {
+      "short": {
+        "en": "Leek"
+      }
+    },
+    "awl": {
+      "short": {
+        "en": "Awl"
+      }
+    },
+    "negev-desert-view": {
+      "short": {
+        "en": "Negev Desert"
+      }
+    },
+    "garlic": {
+      "short": {
+        "en": "Garlic"
+      }
+    },
+    "iron-views": {
+      "short": {
+        "en": "Iron"
+      }
+    },
+    "flour-fine-hands": {
+      "short": {
+        "en": "Fine Flour"
+      }
+    },
+    "tent-wide": {
+      "short": {
+        "en": "Tent"
+      }
+    },
+    "onion-close": {
+      "short": {
+        "en": "Onion"
+      }
+    },
+    "grapes-squeezed-hand-juice": {
+      "short": {
+        "en": "Grapes Being Squeezed"
+      }
+    },
+    "grapes-squeezed-hand-wide": {
+      "short": {
+        "en": "Grapes Being Squeezed"
+      }
+    },
+    "milk-drinking": {
+      "short": {
+        "en": "Milk"
+      }
+    },
+    "wheat-sheaves-mid": {
+      "short": {
+        "en": "Sheaves of Wheat"
+      }
+    },
+    "milk-close": {
+      "short": {
+        "en": "Milk"
+      }
+    },
+    "wheat-sheaves-wide": {
+      "short": {
+        "en": "Sheaves of Wheat"
+      }
+    },
+    "milk-wide": {
+      "short": {
+        "en": "Milk"
+      }
+    },
+    "grass-marsh-close": {
+      "short": {
+        "en": "Marsh Grass"
+      }
+    },
+    "myrrh-detail-hand": {
+      "short": {
+        "en": "Myrrh"
+      }
+    },
+    "onion-cut": {
+      "short": {
+        "en": "Onion"
+      }
+    },
+    "grass-marsh": {
+      "short": {
+        "en": "Marsh Grass"
+      }
+    },
+    "tent-close": {
+      "short": {
+        "en": "Tent"
+      }
+    },
+    "grass-marsh-view": {
+      "short": {
+        "en": "Marsh Grass"
+      }
+    },
+    "onion-wide": {
+      "short": {
+        "en": "Onion"
+      }
+    },
+    "tent-ultra-wide": {
+      "short": {
+        "en": "Tent"
+      }
+    },
+    "myrrh-wide": {
+      "short": {
+        "en": "Myrrh"
+      }
+    }
+  },
   "ingredients": {
     "LICENSE.md": {
       "checksum": {
